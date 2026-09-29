@@ -1,0 +1,50 @@
+incident_id,ticker,company,title,incident_url
+380,META,"Meta Platforms, Inc.",Facebook's Auto-Generated Targeting Ad Categories Contained Anti-Semitic Options,https://incidentdatabase.ai/cite/380
+382,META,"Meta Platforms, Inc.",Instagram's Exposure of Harmful Content Allegedly Contributed to Teenage Girl's Suicide,https://incidentdatabase.ai/cite/382
+386,AMZN,AMAZON COM INC,"Amazon’s ""Time Off Task"" System Made False Assumptions about Workers' Time Management",https://incidentdatabase.ai/cite/386
+387,ORCL,ORACLE CORP,Oracle's Algorithmic Data Processing System Alleged as Unlawful and Violating Privacy Rights,https://incidentdatabase.ai/cite/387
+389,GM,General Motors Co,Cruise Autonomous Car Blocked Fire Truck Responding to Emergency,https://incidentdatabase.ai/cite/389
+392,META,"Meta Platforms, Inc.",Facebook's AI-Supported Moderation Failed to Classify Terrorist Content in East African Languages,https://incidentdatabase.ai/cite/392
+395,AMZN,AMAZON COM INC,Amazon Allegedly Forced Deployment of AI-Powered Cameras on Delivery Drivers,https://incidentdatabase.ai/cite/395
+398,TSLA,"Tesla, Inc.",Tesla Autopilot Misidentified On-Road Horse-Drawn Carriage,https://incidentdatabase.ai/cite/398
+399,META,"Meta Platforms, Inc.",Meta AI's Scientific Paper Generator Reportedly Produced Inaccurate and Harmful Content,https://incidentdatabase.ai/cite/399
+401,GOOGL,Alphabet Inc.,"Kannada Insulted by Google's Featured Answer as ""Ugliest Language in India""",https://incidentdatabase.ai/cite/401
+403,GOOGL,Alphabet Inc.,Gmail’s Inbox Sorting System Reportedly Reduced Visibility of Political Emails and Campaign Calls-to-Action,https://incidentdatabase.ai/cite/403
+406,META,"Meta Platforms, Inc.",Facebook's Friend Suggestion Feature Recommends Patients of Psychiatrist to Each Other,https://incidentdatabase.ai/cite/406
+408,META,"Meta Platforms, Inc.",Facebook Reportedly Outed Sex Workers through Friend Recommendations,https://incidentdatabase.ai/cite/408
+414,META,"Meta Platforms, Inc.",Facebook Gave Vulgar English Translation of Chinese President's Name,https://incidentdatabase.ai/cite/414
+417,META,"Meta Platforms, Inc.",Facebook Feed Algorithms Exposed Low Digitally Skilled Users to More Disturbing Content,https://incidentdatabase.ai/cite/417
+426,XPEV,XPENG INC.,XPeng P7 Crashed into Truck in Shangdong While on Automatic Navigation Assisted Driving,https://incidentdatabase.ai/cite/426
+427,GM,General Motors Co,Cruise Taxis' Sudden Braking Allegedly Put People at Risk,https://incidentdatabase.ai/cite/427
+428,HSBC,HSBC HOLDINGS PLC,BBC Reporter's Twin Brother Cracked HSBC's Voice ID Authentication,https://incidentdatabase.ai/cite/428
+432,GE,GENERAL ELECTRIC CO,Southwest Airlines Crew Scheduling Solver Degenerates Flight Network,https://incidentdatabase.ai/cite/432
+432,LUV,SOUTHWEST AIRLINES CO,Southwest Airlines Crew Scheduling Solver Degenerates Flight Network,https://incidentdatabase.ai/cite/432
+434,TSLA,"Tesla, Inc.",Sudden Braking by Tesla Allegedly on Self-Driving Mode Caused Multi-Car Pileup in Tunnel,https://incidentdatabase.ai/cite/434
+437,AMZN,AMAZON COM INC,Amazon India Allegedly Rigged Search Results to Promote Own Products,https://incidentdatabase.ai/cite/437
+444,LMT,LOCKHEED MARTIN CORP,"US Air Force's Patriot Missile Mistakenly Launched at Ally Fighter Jet, Killing Two",https://incidentdatabase.ai/cite/444
+444,RTX,RTX Corp,"US Air Force's Patriot Missile Mistakenly Launched at Ally Fighter Jet, Killing Two",https://incidentdatabase.ai/cite/444
+446,SSTI,"SOUNDTHINKING, INC.",ShotSpotter Failed to Alert Authorities of Mass Shooting in North Carolina,https://incidentdatabase.ai/cite/446
+447,META,"Meta Platforms, Inc.","Footballer's ""X-Rated"" Comment Created by Instagram's Mistranslation",https://incidentdatabase.ai/cite/447
+463,AAPL,Apple Inc.,"Apple Devices Mistook Skiing Activities, Dialed False Distress Emergency Calls ",https://incidentdatabase.ai/cite/463
+468,MSFT,MICROSOFT CORP,ChatGPT-Powered Bing Reportedly Had Problems with Factual Accuracy on Some Controversial Topics,https://incidentdatabase.ai/cite/468
+471,META,"Meta Platforms, Inc.",Facebook Allegedly Failed to Police Hate Speech Content That Contributed to Ethnic Violence in Ethiopia,https://incidentdatabase.ai/cite/471
+475,IBM,INTERNATIONAL BUSINESS MACHINES CORP,McDonald's Reportedly Ends IBM Partnership After AI Drive-Thru Ordering Errors at U.S. Locations,https://incidentdatabase.ai/cite/475
+475,MCD,MCDONALDS CORP,McDonald's Reportedly Ends IBM Partnership After AI Drive-Thru Ordering Errors at U.S. Locations,https://incidentdatabase.ai/cite/475
+476,GOOGL,Alphabet Inc.,YouTube Recommendations Allegedly Promoted Radicalizing Material Contributing to Terrorist Acts,https://incidentdatabase.ai/cite/476
+478,TSLA,"Tesla, Inc.","Tesla FSD Reportedly Increased Crash Risk, Prompting Recall",https://incidentdatabase.ai/cite/478
+501,UNH,UNITEDHEALTH GROUP INC,Length of Stay False Diagnosis Cut Off Insurer's Payment for Treatment of Elderly Woman,https://incidentdatabase.ai/cite/501
+520,AMZN,AMAZON COM INC,Amazon Fresh Cameras Failed to Register Purchased Items,https://incidentdatabase.ai/cite/520
+522,META,"Meta Platforms, Inc.","Facebook Political Ad Delivery Algorithms Inferred Users' Political Alignment, Inhibiting Political Campaigns' Reach",https://incidentdatabase.ai/cite/522
+531,LHX,"L3HARRIS TECHNOLOGIES, INC. /DE/",AI-Assisted Body Scanners Reportedly Subjected Transgender Travelers to Invasive Body Searches,https://incidentdatabase.ai/cite/531
+533,TSLA,"Tesla, Inc.",Tesla FSD Misidentified Truck Hauling Traffic Lights as Trail of Traffic Lights,https://incidentdatabase.ai/cite/533
+539,SNAP,Snap Inc,Snapchat's My AI Reported for Lacking Protection for Children,https://incidentdatabase.ai/cite/539
+540,TSLA,"Tesla, Inc.","Tesla Failed to Yield to Detected Pedestrian on Crosswalk, Reportedly Violated Traffic Law",https://incidentdatabase.ai/cite/540
+548,OPRA,Opera Ltd,Opera's GPT-Based AI Reportedly Accused War Photographers of War Crimes,https://incidentdatabase.ai/cite/548
+550,TSLA,"Tesla, Inc.",Tesla Allegedly on Autopilot Struck High School Student Exiting School Bus,https://incidentdatabase.ai/cite/550
+552,MSFT,MICROSOFT CORP,Bing Chat Solved CAPTCHAs with Image Analysis Feature Despite Safeguards,https://incidentdatabase.ai/cite/552
+553,GOOGL,Alphabet Inc.,Google's Overview Panel for Artist Edward Hopper Featured Image Generated in His Style by AI,https://incidentdatabase.ai/cite/553
+554,GOOGL,Alphabet Inc.,Google Results for Johannes Vermeer Featured AI Version of His Artwork as Top Result,https://incidentdatabase.ai/cite/554
+556,AMZN,AMAZON COM INC,Amazon Allegedly Violated Children's Privacy through Default Voice Collection Settings,https://incidentdatabase.ai/cite/556
+563,GM,General Motors Co,Cruise Robotaxi Initially Blamed for Ambulance Delay in Case Where Patient Later Died; Subsequent Reports Clear Cruise o,https://incidentdatabase.ai/cite/563
+570,META,"Meta Platforms, Inc.",Facebook Messenger AI Stickers Generate Ethical and Content Moderation Concerns,https://incidentdatabase.ai/cite/570
+571,MSFT,MICROSOFT CORP,Reported Accidental Exposure of 38TB of Data by Microsoft's AI Research Team,https://incidentdatabase.ai/cite/571

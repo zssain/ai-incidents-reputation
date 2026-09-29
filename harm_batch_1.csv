@@ -1,0 +1,50 @@
+incident_id,ticker,company,title,incident_url
+2,AMZN,AMAZON COM INC,Warehouse robot ruptures can of bear spray and injures workers,https://incidentdatabase.ai/cite/2
+6,MSFT,MICROSOFT CORP,"Microsoft's TayBot Allegedly Posts Racist, Sexist, and Anti-Semitic Content to Twitter",https://incidentdatabase.ai/cite/6
+10,SBUX,STARBUCKS CORP,Kronos Scheduling Algorithm Allegedly Caused Financial Issues for Starbucks Employees,https://incidentdatabase.ai/cite/10
+13,GOOGL,Alphabet Inc.,High-Toxicity Assessed on Text Involving Women and Minority Groups,https://incidentdatabase.ai/cite/13
+15,AMZN,AMAZON COM INC,Amazon Censors Gay Books,https://incidentdatabase.ai/cite/15
+17,GOOGL,Alphabet Inc.,Inappropriate Gmail Smart Reply Suggestions,https://incidentdatabase.ai/cite/17
+18,GOOGL,Alphabet Inc.,Gender Biases of Google Image Search,https://incidentdatabase.ai/cite/18
+19,GOOGL,Alphabet Inc.,Sexist and Racist Google Adsense Advertisements,https://incidentdatabase.ai/cite/19
+22,GOOGL,Alphabet Inc.,Waze Navigates Motorists into Wildfires,https://incidentdatabase.ai/cite/22
+25,GOOGL,Alphabet Inc.,"Google and Delphi Self-Driving Prototypes Allegedly Involved in Near-Miss on San Antonio Road, Palo Alto",https://incidentdatabase.ai/cite/25
+26,AAPL,Apple Inc.,Hackers Break Apple Face ID,https://incidentdatabase.ai/cite/26
+33,AMZN,AMAZON COM INC,Amazon Alexa Plays Loud Music when Owner is Away,https://incidentdatabase.ai/cite/33
+34,AMZN,AMAZON COM INC,Amazon Alexa Responding to Environmental Inputs,https://incidentdatabase.ai/cite/34
+37,AMZN,AMAZON COM INC,Amazon's Experimental Hiring Tool Allegedly Displayed Gender Bias in Candidate Rankings,https://incidentdatabase.ai/cite/37
+45,GOOGL,Alphabet Inc.,Defamation via AutoComplete,https://incidentdatabase.ai/cite/45
+47,MSFT,MICROSOFT CORP,LinkedIn Search Prefers Male Names,https://incidentdatabase.ai/cite/47
+53,GOOGL,Alphabet Inc.,Biased Google Image Results,https://incidentdatabase.ai/cite/53
+55,AMZN,AMAZON COM INC,Alexa Plays Pornography Instead of Kids Song,https://incidentdatabase.ai/cite/55
+59,GOOGL,Alphabet Inc.,Gender Biases in Google Translate,https://incidentdatabase.ai/cite/59
+66,MSFT,MICROSOFT CORP,Chinese Chatbots Question Communist Party,https://incidentdatabase.ai/cite/66
+67,TSLA,"Tesla, Inc.",Sleeping Driver on Tesla AutoPilot,https://incidentdatabase.ai/cite/67
+71,GOOGL,Alphabet Inc.,Google Waymo Vehicle and Bus Allegedly Collide in California,https://incidentdatabase.ai/cite/71
+89,GOOGL,Alphabet Inc.,The Christchurch shooter and YouTube’s radicalization trap,https://incidentdatabase.ai/cite/89
+92,GS,GOLDMAN SACHS GROUP INC,Apple Card's Credit Assessment Algorithm Allegedly Discriminated against Women,https://incidentdatabase.ai/cite/92
+93,META,"Meta Platforms, Inc.",HUD charges Facebook with enabling housing discrimination,https://incidentdatabase.ai/cite/93
+111,AMZN,AMAZON COM INC,Amazon Flex Drivers Allegedly Fired via Automated Employee Evaluations,https://incidentdatabase.ai/cite/111
+113,META,"Meta Platforms, Inc.","Facebook's AI Put ""Primates"" Label on Video Featuring Black Men",https://incidentdatabase.ai/cite/113
+116,AMZN,AMAZON COM INC,Amazon's AI Cameras Incorrectly Penalized Delivery Drivers for Mistakes They Did Not Make,https://incidentdatabase.ai/cite/116
+125,AMZN,AMAZON COM INC,Amazon’s Robotic Fulfillment Centers Have Higher Serious Injury Rates,https://incidentdatabase.ai/cite/125
+127,MSFT,MICROSOFT CORP,Microsoft’s Algorithm Allegedly Selected Photo of the Wrong Mixed-Race Person Featured in a News Story,https://incidentdatabase.ai/cite/127
+128,TSLA,"Tesla, Inc.","Tesla Sedan on Autopilot Reportedly Drove Over Dividing Curb in Washington, Resulting in Minor Vehicle Damage",https://incidentdatabase.ai/cite/128
+141,META,"Meta Platforms, Inc.",California Police Turned on Music to Allegedly Trigger Instagram’s DCMA to Avoid Being Live-Streamed,https://incidentdatabase.ai/cite/141
+144,GOOGL,Alphabet Inc.,YouTube's AI Mistakenly Banned Chess Channel over Chess Language Misinterpretation,https://incidentdatabase.ai/cite/144
+155,GOOGL,Alphabet Inc.,Google Maps Allegedly Directed Sierra Nevada Travelers to Dangerous Roads amid Winter Storm,https://incidentdatabase.ai/cite/155
+157,AMZN,AMAZON COM INC,"Amazon's Monitoring System Allegedly Pushed Delivery Drivers to Prioritize Speed over Safety, Leading to Crash",https://incidentdatabase.ai/cite/157
+159,TSLA,"Tesla, Inc.",Tesla Autopilot’s Lane Recognition Allegedly Vulnerable to Adversarial Attacks,https://incidentdatabase.ai/cite/159
+160,AMZN,AMAZON COM INC,Alexa Recommended Dangerous TikTok Challenge to Ten-Year-Old Girl,https://incidentdatabase.ai/cite/160
+163,META,"Meta Platforms, Inc.",Facebook’s Hate Speech Detection Algorithms Allegedly Disproportionately Failed to Remove Racist Content towards Minorit,https://incidentdatabase.ai/cite/163
+169,META,"Meta Platforms, Inc.",Facebook Allegedly Failed to Police Anti-Rohingya Hate Speech Content That Contributed to Violence in Myanmar,https://incidentdatabase.ai/cite/169
+175,GM,General Motors Co,Cruise Autonomous Taxi Allegedly Bolted off from Police After Being Pulled over in San Francisco,https://incidentdatabase.ai/cite/175
+181,GM,General Motors Co,"BMW Sedan Made a Prohibited Left Turn, Colliding with a Cruise Autonomous Vehicle",https://incidentdatabase.ai/cite/181
+182,GM,General Motors Co,Two Cruise Autonomous Vehicles Collided with Each Other in California ,https://incidentdatabase.ai/cite/182
+187,TSLA,"Tesla, Inc.","YouTuber Tested Tesla on Self Driving Mode, Colliding with Street Pylons",https://incidentdatabase.ai/cite/187
+193,TGT,TARGET CORP,"Excessive Automated Monitoring Alerts Ignored by Staff, Resulting in Private Data Theft of Seventy Million Target Custom",https://incidentdatabase.ai/cite/193
+197,META,"Meta Platforms, Inc.","Facebook Internally Reported Failure of Ranking Algorithm, Exposing Harmful Content to Viewers over Months",https://incidentdatabase.ai/cite/197
+203,UBER,"Uber Technologies, Inc",Uber Launched Opaque Algorithm That Changes Drivers' Payments in the US,https://incidentdatabase.ai/cite/203
+211,TSLA,"Tesla, Inc.",A Tesla Taxi Cab Involved in an Accident in Paris with Twenty Injuries,https://incidentdatabase.ai/cite/211
+212,XPEV,XPENG INC.,XPeng Motors Fined For Illegal Collection of Consumers’ Faces Using Facial Recognition Cameras,https://incidentdatabase.ai/cite/212
+213,META,"Meta Platforms, Inc.",Facebook’s Political Ad Detection Reportedly Showed High and Geographically Uneven Error Rates,https://incidentdatabase.ai/cite/213
