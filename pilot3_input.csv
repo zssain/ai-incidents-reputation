@@ -1,0 +1,26 @@
+incident_id,ticker,company,title,aiid_incident_date,earliest_report_date,date_flag,incident_url
+51,KSCP,"Knightscope, Inc.",Security Robot Rolls Over Child in Mall,2016-07-12,2016-07-07,before_incident,https://incidentdatabase.ai/cite/51
+157,AMZN,AMAZON COM INC,"Amazon's Monitoring System Allegedly Pushed Delivery Drivers to Prioritize Speed over Safety, Leading to Crash",2021-03-15,2021-11-15,,https://incidentdatabase.ai/cite/157
+177,GOOGL,Alphabet Inc.,Google’s Assistive Writing Feature Provided Allegedly Unnecessary and Clumsy Suggestions,2022-04-19,2022-04-19,,https://incidentdatabase.ai/cite/177
+226,GOOGL,Alphabet Inc.,Waze Allegedly Clogged Streets and Directed Drivers to Make Unsafe Traffic Decisions,2015-04-01,2017-01-11,,https://incidentdatabase.ai/cite/226
+307,AAPL,Apple Inc.,iPhone Face ID Failed to Recognize Users’ Morning Faces,2017-11-01,2018-07-10,,https://incidentdatabase.ai/cite/307
+320,TSLA,"Tesla, Inc.",Tesla on Autopilot Collided with Parked Fire Truck on California Freeway,2018-01-22,2018-01-23,,https://incidentdatabase.ai/cite/320
+321,TSLA,"Tesla, Inc.","Tesla Model X on Autopilot Crashed into California Highway Barrier, Killing Driver",2018-03-23,2018-03-09,before_incident,https://incidentdatabase.ai/cite/321
+354,UBER,"Uber Technologies, Inc",Uber Allegedly Violated GDPR by Failing to Provide Sufficient Notice on Automated Profiling for Drivers,2020-06-20,2019-03-21,before_incident,https://incidentdatabase.ai/cite/354
+394,META,"Meta Platforms, Inc.",Social Media's Automated Word-Flagging without Context Shifted Content Creators' Language Use,2017-03-15,2022-04-08,twitter/x,https://incidentdatabase.ai/cite/394
+429,SSTI,"SOUNDTHINKING, INC.",Unreliable ShotSpotter Audio Convicted Black Rochester Man of Shooting Police,2016-04-01,2017-11-17,,https://incidentdatabase.ai/cite/429
+459,GM,General Motors Co,Firefighters Smashed Cruise AV's Front Window to Stop It from Running over Fire Hoses,2023-01-21,2023-01-25,pdf,https://incidentdatabase.ai/cite/459
+468,MSFT,MICROSOFT CORP,ChatGPT-Powered Bing Reportedly Had Problems with Factual Accuracy on Some Controversial Topics,2023-02-07,2023-02-07,twitter/x,https://incidentdatabase.ai/cite/468
+473,MSFT,MICROSOFT CORP,Bing Chat's Initial Prompts Revealed by Early Testers Through Prompt Injection,2023-02-08,2023-02-10,,https://incidentdatabase.ai/cite/473
+522,META,"Meta Platforms, Inc.","Facebook Political Ad Delivery Algorithms Inferred Users' Political Alignment, Inhibiting Political Campaigns' Reach",2019-07-10,2019-12-03,arxiv,https://incidentdatabase.ai/cite/522
+528,AMZN,AMAZON COM INC,Amazon Algorithmic Pricing Allegedly Hiked up Price of Reference Book to Millions,2023-04-08,2011-04-22,before_incident,https://incidentdatabase.ai/cite/528
+534,META,"Meta Platforms, Inc.",Facebook Alleged in Lawsuit Misleading Public about Effects of Algorithms on Children,2021-04-29,2021-11-15,,https://incidentdatabase.ai/cite/534
+578,META,"Meta Platforms, Inc.",Alleged Exploitation of Meta's Open-Source LLaMA Model for NSFW and Violent Content,2023-06-26,2023-06-27,,https://incidentdatabase.ai/cite/578
+581,GOOGL,Alphabet Inc.,Google Ads Allegedly Serving Content on AI-Generated Misinformation Sites,2023-06-24,2023-06-26,,https://incidentdatabase.ai/cite/581
+734,GOOGL,Alphabet Inc.,Leading AI Models Reportedly Found to Mimic Russian Disinformation in 33% of Cases and to Cite Fake Moscow News Sites,2024-06-18,2024-06-18,,https://incidentdatabase.ai/cite/734
+854,GOOGL,Alphabet Inc.,Waymo Driverless Taxi Allegedly Stalled During Pedestrian Harassment Incident in San Francisco,2024-09-30,2024-10-01,,https://incidentdatabase.ai/cite/854
+1172,META,"Meta Platforms, Inc.",Meta AI Bug in Deployed Service Reportedly Allowed Potential Access to Other Users' Prompts and Responses,2024-12-26,2025-07-15,,https://incidentdatabase.ai/cite/1172
+1224,META,"Meta Platforms, Inc.",Purportedly AI-Generated Deepfake Ads on Instagram Impersonate Gisele Bündchen and Other Celebrities in Brazilian Fraud ,2025-10-01,2025-10-01,,https://incidentdatabase.ai/cite/1224
+1369,GOOGL,Alphabet Inc.,Purportedly AI-Generated Image Reportedly Circulated Ahead of Thai Election Depicting PM Anutin Charnvirakul Dining with,2026-02-07,2026-02-09,,https://incidentdatabase.ai/cite/1369
+1673,GOOGL,Alphabet Inc.,Google Gemini 3.5 Coding Agent Reportedly Caused Production Portal Outage and Generated Fabricated Recovery Records,2026-05-20,2026-05-21,,https://incidentdatabase.ai/cite/1673
+1686,TSLA,"Tesla, Inc.","Tesla Model S with Autopilot Reportedly Engaged Struck Parked SUV in Key Largo, Killing One Person and Seriously Injurin",2019-04-25,2025-06-26,pdf,https://incidentdatabase.ai/cite/1686

@@ -1,0 +1,16 @@
+incident_id,ticker,responsibility_type,correct_ticker,duplicate_of,corrected_event_date,keep,reason
+511,MSFT,1,Y,,2023-02-14,Y,Bing confused the date and failed to provide movie showtimes while producing erratic responses.
+533,TSLA,1,Y,,2021-06-23,Y,Tesla FSD misidentified a truck carrying traffic lights as a trail of roadway signals.
+539,SNAP,1,Y,,2023-03-11,Y,Snapchat's My AI gave unsafe sexual and concealment advice when tested as a 13-year-old user.
+540,TSLA,1,Y,,,Y,Tesla FSD detected a pedestrian in a crosswalk but failed to yield.
+552,MSFT,1,Y,,,Y,Bing Chat's image analysis feature solved CAPTCHAs despite safeguards intended to prevent it.
+556,AMZN,1,Y,,,Y,Alexa retained children's voice recordings by default and undermined deletion protections.
+570,META,1,Y,,,Y,Meta's AI sticker generator produced inappropriate or offensive content in Messenger.
+591,CI,1,Y,,,Y,Cigna's PXDX algorithm allegedly rejected hundreds of thousands of patient claims automatically.
+596,GM,1,Y,,,Y,Cruise autonomous vehicles were investigated for risky behavior around pedestrians.
+614,GOOGL,1,Y,,,Y,Google Bard generated false allegations against consulting firms in an Australian parliamentary submission.
+616,AREN,1,Y,,,Y,Sports Illustrated operated by The Arena Group published AI-generated articles under fictitious authors.
+633,ADBE,1,Y,,,Y,Adobe Photoshop Generative Expand altered a lawmaker's image inappropriately when used by Nine Network.
+640,GOOGL,1,Y,,,Y,Waymo's autonomous-driving software misinterpreted a towed vehicle and caused two collisions.
+1523,META,2,Y,,,N,Outside synthetic-media creators used Meta's AI or Facebook platform to circulate fabricated Kosovo campaign videos.
+1618,UDR,1,Y,,,Y,UDR used RealPage pricing algorithms to set rents or occupancy levels at its San Diego properties.

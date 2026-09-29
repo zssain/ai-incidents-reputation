@@ -1,0 +1,26 @@
+incident_id,ticker,responsibility_type,correct_ticker,duplicate_of,corrected_event_date,keep,reason
+33,AMZN,1,Y,,,Y,
+102,MSFT,2,N,,,N,an observation made by ai tools
+211,TSLA,1,Y,,,Y,
+215,META,1,Y,,,Y,
+255,SSTI,2,Y,,,N,the Chicago police department didnt use it well
+271,TSLA,1,Y,,,Y,
+282,META,1,Y,,,Y,
+294,TSLA,1,Y,,,Y,
+334,UBER,1,Y,,,Y,
+386,AMZN,1,Y,,,Y,
+392,META,1,Y,,,Y,
+463,AAPL,1,Y,,,Y,
+595,GM,2,N,,,N,the ai was harmed
+684,GOOGL,1,Y,,,Y,
+710,META,1,Y,,,Y,
+714,MSFT,1,Y,,,Y,
+996,META,1,Y,,,Y,
+1188,GOOGL,2,N,,,N,its misused
+1210,GOOGL,2,N,,,N,misused
+1220,BABA,1,Y,,,Y,
+1248,GOOGL,1,Y,,,Y,
+1326,GOOGL,1,Y,,,Y,
+1433,GOOGL,1,Y,,,Y,
+1510,META,1,Y,,,Y,
+1541,GOOGL,1,Y,,,Y,

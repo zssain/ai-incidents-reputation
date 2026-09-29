@@ -1,0 +1,52 @@
+incident_id,ticker,responsibility_type,correct_ticker,duplicate_of,corrected_event_date,keep,reason
+968,META,3,Y,,,N,NewsGuard tested ten chatbots and found they repeated narratives from Russia's Pravda disinformation network.
+968,MSFT,3,Y,,,N,NewsGuard tested ten chatbots and found they repeated narratives from Russia's Pravda disinformation network.
+975,GOOGL,3,Y,,,N,"A Graphika investigation examined harmful chatbot ecosystems using multiple vendors' models, including Gemini."
+981,AAPL,1,Y,,,Y,Apple's voicemail transcription inserted explicit content not present in the original audio.
+993,AAPL,1,Y,,,Y,"Apple's predictive-text functionality remained enabled during NAPLAN exams, requiring students to retake tests."
+995,MSFT,1,Y,,,Y,The New York Times alleged Microsoft's AI products infringed copyright through training and reproduction of its journalism.
+997,META,1,Y,,,Y,Meta allegedly obtained pirated books from LibGen to train its language models.
+1001,BABA,1,N,,,N,"UNCERTAIN: Scrapers used Alibaba IP addresses, which alone do not establish that Alibaba operated the offending AI crawlers."
+1020,META,3,Y,,,N,"UNCERTAIN: A cross-model audit of exposed llama.cpp deployments found abusive roleplays, including models derived from Meta's Llama."
+1040,META,1,Y,,,Y,Meta's AI companion service engaged in sexualized conversations with users presented as minors.
+1057,GOOGL,1,Y,,,Y,An apparent manipulation campaign caused Google's image search to return antisemitic material.
+1097,GOOGL,1,Y,,,Y,Google AI Overviews misidentified the Boeing aircraft in the Air India crash as an Airbus.
+1101,META,1,Y,,,Y,Meta AI's sharing interface exposed sensitive conversations in its public Discover feed.
+1106,MSFT,1,Y,,2025-06-28,Y,"UNCERTAIN: Copilot reinforced a user's delusions in the 2025-06-28 report, later than the input's ChatGPT-focused article."
+1108,META,3,Y,,,N,UNCERTAIN: Consumer advocates compared Meta and Character.AI therapy bots and documented false claims of professional credentials.
+1123,GOOGL,2,Y,,,N,Vietnamese students deliberately used Gemini to obtain answers during national examinations.
+1128,GOOGL,2,Y,,,N,Political actors circulated Google Veo-generated street interviews falsely portraying opposition to Sara Duterte's impeachment.
+1157,GOOGL,1,Y,,,Y,A journalist's test of Gemini's teenage account protections elicited explicit sexual and abusive roleplay.
+1158,AMZN,1,Y,,,Y,An attacker inserted malicious instructions into Amazon's Q coding-assistant extension.
+1159,MSFT,1,Y,,,Y,Microsoft's AI4Peat system allegedly misclassified terrain and produced an unreliable government peatland map.
+1164,GOOGL,1,Y,,,Y,"UNCERTAIN: Google's Med-Gemini demonstration misnamed a brain structure, a product-specific error in a research prototype."
+1174,MSFT,1,Y,,,Y,Microsoft Copilot exposed formerly public GitHub content after its owners made the repositories private.
+1178,GOOGL,1,Y,,,Y,Google's Gemini CLI misinterpreted commands and deleted a user's files.
+1179,MCD,1,Y,,,Y,McDonald's AI hiring platform exposed applicant conversations through default credentials and an insecure API.
+1180,META,1,Y,,,Y,Meta's companion chatbot invited an elderly user to a fictional meeting before his fatal journey.
+1181,GOOGL,2,Y,,,N,Outside creators used Google's Veo to fabricate footage of an alleged tiger market in Bangladesh.
+1186,BABA,3,Y,,,N,"A comparative investigation found shared conversations from multiple AI services, including Qwen and Copilot, exposed to search indexing."
+1186,MSFT,3,Y,,,N,"A comparative investigation found shared conversations from multiple AI services, including Qwen and Copilot, exposed to search indexing."
+1187,GOOGL,1,Y,,,Y,Google AI Overviews supplied a fraudulent customer-service number that led a traveler into a scam.
+1188,MSFT,3,Y,,,N,"A comparative investigation found major chatbots, including Copilot, repeated Chinese government propaganda."
+1200,META,1,Y,,,Y,"An audit of Meta AI found its conversations with teenage accounts encouraged suicide, self-harm and disordered eating."
+1205,GOOGL,3,Y,,,N,A comparative audit found multiple AI systems supplied false information about Charlie Kirk's assassination.
+1210,AMZN,2,Y,,,N,Attackers embedded calls to Amazon Q inside the Nx supply-chain malware operation to locate and exfiltrate secrets.
+1211,GOOGL,1,Y,,,Y,Google AI Overviews invented restaurant specials that customers demanded Stefanina's honor.
+1219,META,1,Y,,,Y,Meta's automated enforcement allegedly disabled accounts on erroneous child-exploitation grounds.
+1222,OPRT,1,Y,,,Y,Oportun's Hello Digit savings algorithm caused overdrafts despite promises that it would prevent them.
+1223,META,1,Y,,,Y,Facebook's ad system distributed deepfake political advertisements promoting fraudulent government benefits.
+1247,META,1,Y,,,Y,Meta AI falsely accused Robby Starbuck of crimes and other misconduct.
+1251,GOOGL,1,Y,,,Y,Google's AI search gave incorrect hunting-season information that contributed to citations.
+1268,META,1,Y,,,Y,Meta's advertising systems allegedly continued distributing fraudulent ads despite internal knowledge of their scale.
+1269,GOOGL,1,Y,,,Y,A Waymo robotaxi struck and killed the neighborhood cat KitKat in San Francisco.
+1277,META,3,N,,,N,"A multi-company children's-AI investigation tested FoloToy, Miko and related products without establishing a Meta system."
+1279,META,3,Y,,,N,"Which? compared several chatbots and found incorrect financial, tax and insurance guidance."
+1279,MSFT,3,Y,,,N,"Which? compared several chatbots and found incorrect financial, tax and insurance guidance."
+1300,GOOGL,1,Y,,,Y,Waymo vehicles repeatedly passed stopped school buses with active warning signals.
+1302,GOOGL,2,Y,,,N,Keith Edwards used Gemini to create a false image depicting Donald Trump using a walker.
+1304,OMC,1,Y,,,Y,UNCERTAIN: Omnicom's DM9 agency produced an AI-altered advertisement using DeAndrea Salvador's likeness without consent.
+1304,WHR,1,N,,,N,"UNCERTAIN: Whirlpool advertised Consul appliances, but DM9 produced the AI-altered footage and Whirlpool's deployment of AI is not established."
+1316,GOOGL,1,Y,,,Y,"Google's AI summary falsely associated musician Ashley MacIsaac with sexual crimes, prompting a concert cancellation."
+1333,GOOGL,2,Y,,,N,Outside accounts circulated Google-generated synthetic videos falsely portraying Venezuelan reactions to Maduro's capture.
+1337,GOOGL,1,Y,,,Y,A Waymo vehicle accepted a new ride while an unauthorized person remained inside its trunk.

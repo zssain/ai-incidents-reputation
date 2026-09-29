@@ -1,0 +1,26 @@
+incident_id,ticker,responsibility_type,correct_ticker,duplicate_of,corrected_event_date,keep,reason,agrees_with
+51,KSCP,1,Y,,2016-07-12,Y,"Knightscope's own robot malfunctioned and ran over a child (own-product failure, sec8) -> Type 1; first news Mercury News 2016-07-12.",B
+157,AMZN,1,Y,,,Y,Amazon's own driver-monitoring system -> Type 1.,both
+177,GOOGL,1,Y,,,Y,Google's own assistive-writing feature -> Type 1.,both
+226,GOOGL,1,Y,,,Y,Google's own Waze routing -> Type 1.,both
+307,AAPL,1,Y,,,Y,Apple's own Face ID -> Type 1.,both
+320,TSLA,1,Y,,,Y,Tesla's own Autopilot -> Type 1.,both
+321,TSLA,1,Y,,2018-03-24,Y,Tesla Autopilot fatal crash (2018-03-23) -> Type 1; linked report predates the crash; first crash news ~2018-03-24 (Autopilot confirmed by Tesla 2018-03-30) - verify exact article.,both
+354,UBER,1,Y,,,Y,"Uber's own driver-profiling algorithm (GDPR) -> Type 1; before_incident flag but ~2019 earliest report is already real news, no override.",both
+394,META,3,Y,,2022-04-08,N,Multi-platform 'algospeak' (TikTok/YouTube/Instagram/Twitch) -> Type 3 (Rule 1); first news WaPo 2022-04-08.,B
+429,SSTI,1,Y,,,Y,SoundThinking/ShotSpotter's own detection product -> Type 1.,both
+459,GM,1,Y,,2023-01-30,Y,Cruise (->GM subsid) own AV -> Type 1; flagged source is a PDF; first news The Drive 2023-01-30.,B
+468,MSFT,1,Y,,2023-02-07,Y,Microsoft's own Bing Chat -> Type 1; flagged source is a tweet; first news WaPo 2023-02-07.,both
+473,MSFT,1,Y,,,Y,"Testers exploited Microsoft's own live Bing Chat via prompt injection (attack on own service, sec9) -> Type 1.",B
+522,META,1,Y,,,Y,"Study of Facebook's own deployed ad-delivery system (sec7.1 exception) -> Type 1; only source is an arXiv paper - no real-news date, likely dropped by date filter.",both
+528,AMZN,1,Y,,2011-04-25,Y,$23M 'fly' book via third-party sellers' repricing bots on Amazon; both coders 1/Y -- FLAG: arguably sec11 venue (Amazon's own AI not involved -> possible N). First news CNN 2011-04-25.,both
+534,META,1,Y,,,Y,Facebook's own algorithms (lawsuit re children) -> Type 1.,both
+578,META,2,Y,,,N,Outside developers used Meta's open-source LLaMA in their own harmful chatbots (sec9) -> Type 2.,B
+581,GOOGL,1,Y,,,Y,Google's own ad system served ads on AI-misinfo sites (sec11) -> Type 1.,both
+734,GOOGL,3,Y,,,N,Multi-company NewsGuard audit of 10 chatbots -> Type 3 (Rule 1); Gemini named so ticker Y.,B
+854,GOOGL,1,Y,,,Y,Waymo (->GOOGL subsid) own AV -> Type 1.,both
+1172,META,1,Y,,,Y,Bug in Meta's own deployed AI service (sec9) -> Type 1.,both
+1224,META,1,Y,,,Y,"UNCERTAIN: Meta's own ad system ran the fraudulent deepfake ads (sec11, like pilot #758) -> Type 1; borderline vs sec9 (scammers' fraud op) = Type 2.",A
+1369,GOOGL,2,Y,,,N,Outside actors used a Google image-gen tool to create election disinfo (SynthID confirms Google-AI-made; sec7.2/sec9) -> Type 2.,B
+1673,GOOGL,1,Y,,,Y,Google's own Gemini coding agent malfunctioned -> Type 1.,both
+1686,TSLA,1,Y,,2019-04-26,Y,"Tesla Autopilot fatal crash (Key Largo 2019-04-25) -> Type 1; flagged source is a 2025 PDF; first news ~2019-04-26 (local media), exact 2019 article unconfirmed - verify.",both

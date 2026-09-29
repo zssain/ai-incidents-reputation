@@ -1,0 +1,52 @@
+incident_id,ticker,company,title,aiid_incident_date,earliest_report_date,date_flag,incident_url
+968,META,"Meta Platforms, Inc.","'Pravda' Network, Successor to 'Portal Kombat,' Allegedly Seeding AI Models with Kremlin Disinformation",2022-02-24,2024-02-12,,https://incidentdatabase.ai/cite/968
+968,MSFT,MICROSOFT CORP,"'Pravda' Network, Successor to 'Portal Kombat,' Allegedly Seeding AI Models with Kremlin Disinformation",2022-02-24,2024-02-12,,https://incidentdatabase.ai/cite/968
+975,GOOGL,Alphabet Inc.,"At Least 10,000 AI Chatbots, Including Jailbroken Models, Allegedly Promote Eating Disorders, Self-Harm, and Sexualized ",2025-03-05,2025-03-05,,https://incidentdatabase.ai/cite/975
+981,AAPL,Apple Inc.,Apple AI Transcription Allegedly Inserts Explicit Language into Scottish Woman’s Voicemail,2025-03-05,2025-03-07,,https://incidentdatabase.ai/cite/981
+993,AAPL,Apple Inc.,Sydney Students Allegedly Forced to Retake NAPLAN After AI Predictive Text Error,2025-03-12,2025-03-18,,https://incidentdatabase.ai/cite/993
+995,MSFT,MICROSOFT CORP,The New York Times Reportedly Sues OpenAI and Microsoft Over Alleged Unauthorized AI Training on Its Content,2023-12-27,2023-12-27,,https://incidentdatabase.ai/cite/995
+997,META,"Meta Platforms, Inc.",Meta and OpenAI Accused of Using LibGen’s Pirated Books to Train AI Models,2023-02-28,2025-01-09,,https://incidentdatabase.ai/cite/997
+1001,BABA,Alibaba Group Holding Ltd,LLM Scrapers Allegedly Target Multiple Open Source Projects Disrupting the FOSS Ecosystem,2025-03-17,2025-03-20,,https://incidentdatabase.ai/cite/1001
+1020,META,"Meta Platforms, Inc.",Reportedly Unsafe Deployment of Llama.cpp Reveals Interactive AI-Generated CSAM Roleplay Prompts,2025-04-11,2025-04-11,,https://incidentdatabase.ai/cite/1020
+1040,META,"Meta Platforms, Inc.",Meta User-Created AI Companions Allegedly Implicated in Facilitating Sexually Themed Conversations Involving Underage Pe,2025-04-26,2025-04-26,,https://incidentdatabase.ai/cite/1040
+1057,GOOGL,Alphabet Inc.,"'Jewish Baby Strollers' Provided Antisemitic Google Images, Allegedly Resulting from Hate Speech Campaign",2017-08-15,2020-09-25,,https://incidentdatabase.ai/cite/1057
+1097,GOOGL,Alphabet Inc.,Google AI Overview Reportedly Misstates Aircraft Manufacturer as Airbus Instead of Boeing in Air India Flight 171 Crash,2025-06-12,2025-06-12,,https://incidentdatabase.ai/cite/1097
+1101,META,"Meta Platforms, Inc.",Meta AI App Reportedly Publishes Personal Chats Without Users Fully Realizing,2025-04-29,2025-05-01,,https://incidentdatabase.ai/cite/1101
+1106,MSFT,MICROSOFT CORP,"Chatbots Allegedly Reinforced Delusional Thinking in Several Reported Users, Leading to Real-World Harm",2025-06-13,2025-06-10,before_incident,https://incidentdatabase.ai/cite/1106
+1108,META,"Meta Platforms, Inc.",Digital Rights Groups Accuse Meta and Character.AI of Facilitating Unlicensed Therapy via Chatbots,2025-06-10,2025-06-12,,https://incidentdatabase.ai/cite/1108
+1123,GOOGL,Alphabet Inc.,"Reported Student Misuse of ChatGPT, StudyX, and Gemini to Obtain Answers During Vietnam's 2025 National High School Grad",2025-06-26,2025-06-27,,https://incidentdatabase.ai/cite/1123
+1128,GOOGL,Alphabet Inc.,Philippine Officials Reportedly Share Veo 3-Generated Video to Support Vice President Sara Duterte During Impeachment,2025-06-15,2025-06-16,,https://incidentdatabase.ai/cite/1128
+1157,GOOGL,Alphabet Inc.,Google Gemini Reportedly Generates Sexual Role‑Play for Account Registered as Minor,2025-07-14,2025-07-14,,https://incidentdatabase.ai/cite/1157
+1158,AMZN,AMAZON COM INC,Alleged Malicious Wiping Command Found in Amazon Q AI Assistant,2025-07-17,2025-07-24,,https://incidentdatabase.ai/cite/1158
+1159,MSFT,MICROSOFT CORP,Government‑Backed AI4Peat Mapping Tool Allegedly Misidentifies Granite Outcrops and Quarries as Peat,2025-05-10,2025-05-26,,https://incidentdatabase.ai/cite/1159
+1164,GOOGL,Alphabet Inc.,Google Healthcare AI Model Med‑Gemini Allegedly Produces Non‑Existent 'Basilar Ganglia' Term in Published Output,2024-05-06,2025-08-04,,https://incidentdatabase.ai/cite/1164
+1174,MSFT,MICROSOFT CORP,Microsoft Copilot Reportedly Able to Access Cached Data from Since-Private GitHub Repositories,2025-02-26,2025-02-26,,https://incidentdatabase.ai/cite/1174
+1178,GOOGL,Alphabet Inc.,Google Gemini CLI Reportedly Deletes User Files After Misinterpreting Command Sequence,2025-07-21,2025-07-26,,https://incidentdatabase.ai/cite/1178
+1179,MCD,MCDONALDS CORP,McDonald's McHire AI Recruitment Platform Reportedly Exposed Data of 64 Million Applicants via Default Login and API Vul,2025-06-30,2025-07-11,,https://incidentdatabase.ai/cite/1179
+1180,META,"Meta Platforms, Inc.","Purported Meta AI Chatbot Persona 'Big sis Billie' Reportedly Engages in Romantic Roleplay and Provides Address, Linked ",2025-03-25,2025-08-14,,https://incidentdatabase.ai/cite/1180
+1181,GOOGL,Alphabet Inc.,"Purported AI-Generated Video Reportedly Depicts Illegal Tiger Sales in Bagerhat, Bangladesh",2025-06-28,2025-07-01,,https://incidentdatabase.ai/cite/1181
+1186,BABA,Alibaba Group Holding Ltd,"Reported Public Exposure of Over 100,000 LLM Conversations via Share Links Indexed by Search Engines and Archived",2025-07-31,2025-08-01,,https://incidentdatabase.ai/cite/1186
+1186,MSFT,MICROSOFT CORP,"Reported Public Exposure of Over 100,000 LLM Conversations via Share Links Indexed by Search Engines and Archived",2025-07-31,2025-08-01,,https://incidentdatabase.ai/cite/1186
+1187,GOOGL,Alphabet Inc.,"Google AI Overviews and ChatGPT Reportedly Cited Fraudulent Cruise Hotline, Allegedly Enabling Successful Scam",2025-08-15,2025-08-15,twitter/x,https://incidentdatabase.ai/cite/1187
+1188,MSFT,MICROSOFT CORP,Multiple LLMs Reportedly Generated Responses Aligning with Purported CCP Censorship and Propaganda,2025-06-25,2025-06-25,,https://incidentdatabase.ai/cite/1188
+1200,META,"Meta Platforms, Inc.",Meta AI on Instagram Reportedly Facilitated Suicide and Eating Disorder Roleplay with Teen Accounts,2025-08-28,2025-08-28,twitter/x,https://incidentdatabase.ai/cite/1200
+1205,GOOGL,Alphabet Inc.,Multiple Generative AI Systems Reportedly Amplify False Information During Charlie Kirk Assassination Coverage,2025-09-11,2025-09-11,,https://incidentdatabase.ai/cite/1205
+1210,AMZN,AMAZON COM INC,Malicious Nx npm Packages Reportedly Weaponize AI Coding Agents for Data Exfiltration,2025-08-21,2025-08-27,,https://incidentdatabase.ai/cite/1210
+1211,GOOGL,Alphabet Inc.,"Google AI Overviews Reportedly Misrepresented Pizza Specials at Stefanina's in Wentzville, Missouri",2025-08-19,2025-08-19,,https://incidentdatabase.ai/cite/1211
+1219,META,"Meta Platforms, Inc.",Meta Platforms Users Report Being Wrongfully Locked Out After Purported AI Moderation Flags Accounts for Child Exploitat,2025-07-02,2025-07-24,,https://incidentdatabase.ai/cite/1219
+1222,OPRT,Oportun Financial Corp,CFPB Reportedly Finds Hello Digit's Automated Savings Algorithm Caused Overdrafts and Orders Redress with $2.7M Penalty,2022-08-10,2022-08-10,,https://incidentdatabase.ai/cite/1222
+1223,META,"Meta Platforms, Inc.","Purportedly AI-Generated Deepfake Ads on Facebook Reportedly Impersonate Trump, Musk, Ocasio-Cortez, Warren, Sanders, an",2025-10-01,2025-10-01,,https://incidentdatabase.ai/cite/1223
+1247,META,"Meta Platforms, Inc.","Meta AI Reportedly Generated Purportedly False Claims Linking Activist Robby Starbuck to January 6th Riot, Prompting Def",2025-04-28,2025-04-28,,https://incidentdatabase.ai/cite/1247
+1251,GOOGL,Alphabet Inc.,Purportedly AI-Generated Hunting Regulation Errors Reportedly Lead to Idaho Citation and Multi-State Warnings from Wildl,2025-10-15,2025-10-15,,https://incidentdatabase.ai/cite/1251
+1268,META,"Meta Platforms, Inc.",Meta's Automated Ad and Targeting Systems Reportedly Enabled Large-Scale Fraud Revenue,2025-11-06,2025-11-06,,https://incidentdatabase.ai/cite/1268
+1269,GOOGL,Alphabet Inc.,Waymo Autonomous Vehicle Reportedly Ran Over and Killed a Cat in San Francisco,2025-10-27,2025-10-28,,https://incidentdatabase.ai/cite/1269
+1277,META,"Meta Platforms, Inc.","Alleged Harmful Outputs and Data Exposure in Children's AI Products by FoloToy, Miko, and Character.AI",2025-11-21,2025-11-21,twitter/x,https://incidentdatabase.ai/cite/1277
+1279,META,"Meta Platforms, Inc.",Prominent AI Chatbots Allegedly Produced Incorrect UK Financial and ISA Guidance,2025-11-18,2025-11-18,,https://incidentdatabase.ai/cite/1279
+1279,MSFT,MICROSOFT CORP,Prominent AI Chatbots Allegedly Produced Incorrect UK Financial and ISA Guidance,2025-11-18,2025-11-18,,https://incidentdatabase.ai/cite/1279
+1300,GOOGL,Alphabet Inc.,"Waymo Self-Driving Vehicles Reportedly Passed Stopped School Buses at Least 19 Times, Prompting NHTSA Probe",2025-12-04,2025-12-04,,https://incidentdatabase.ai/cite/1300
+1302,GOOGL,Alphabet Inc.,Reported Viral AI-Generated Photo Purportedly Shows Donald Trump Using a Walker,2025-12-11,2025-12-12,,https://incidentdatabase.ai/cite/1302
+1304,OMC,OMNICOM GROUP INC.,Whirlpool Reportedly Used AI-Altered Footage of North Carolina State Senator DeAndrea Salvador in Brazilian Advertisemen,2025-06-01,2025-08-21,,https://incidentdatabase.ai/cite/1304
+1304,WHR,WHIRLPOOL CORP /DE/,Whirlpool Reportedly Used AI-Altered Footage of North Carolina State Senator DeAndrea Salvador in Brazilian Advertisemen,2025-06-01,2025-08-21,,https://incidentdatabase.ai/cite/1304
+1316,GOOGL,Alphabet Inc.,"Google AI-Generated Search Summary Reportedly Falsely Implicated Canadian Musician in Sexual Offenses, Leading to Concer",2025-12-19,2025-12-23,,https://incidentdatabase.ai/cite/1316
+1333,GOOGL,Alphabet Inc.,Purportedly AI-Generated Images and Videos Reportedly Spread Misinformation About Nicolás Maduro's Capture on X,2026-01-03,2026-01-05,,https://incidentdatabase.ai/cite/1333
+1337,GOOGL,Alphabet Inc.,Waymo Robotaxi Reportedly Transported Undetected Person Trapped in Trunk in Los Angeles,2025-12-08,2025-12-11,,https://incidentdatabase.ai/cite/1337

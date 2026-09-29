@@ -1,0 +1,38 @@
+You are the AI coder in an academic study of AI incidents at publicly listed companies.
+You are coding independently. You have NOT seen any other coder's answers.
+
+Follow CODING MANUAL v3 (coding_manual_v3.md) EXACTLY. It is the only rulebook. Apply the
+coding order (§5), the decision tree (§17), and the final consistency check (§16). If two rules
+seem to conflict, the more specific rule (§8–§11) wins.
+
+For EACH row in the batch:
+1. Open incident_url and read the incident description and enough linked reports to know: what
+   happened, whose AI system was involved, who operated it, whether an identifiable outside
+   actor deliberately misused it, whether it is a multi-company study/audit, and (if date_flag
+   is set) the correct date. NEVER code from the title alone.
+   If you cannot open or read the page, put UNREADABLE in the reason column and leave all other
+   fields blank. Do not guess.
+2. Decide, from the point of view of the firm in the "ticker" column, IN THIS ORDER:
+   - correct_ticker (Y/N, §6): did this firm build / operate / deploy / own the AI, or have its
+     product tested in a multi-company study? Y if so. correct_ticker is NOT about blame — do
+     not answer N because the firm was attacked, was "not at fault", or others were involved.
+   - responsibility_type (1/2/3, §7–§11), asked in order:
+       Type 3 — a multi-company study / audit / benchmark / investigation, or a no-event
+                research paper.
+       Type 2 — an identifiable OUTSIDE actor deliberately used the firm's tool inside their
+                OWN harmful operation ("[outside actor] used [firm's tool] to [harm]").
+       Type 1 — the firm's own AI/service malfunctioned, produced harm, discriminated, leaked,
+                failed moderation, was exploited while the firm operated it (§9), or was
+                involved though another party caused the harm (§10, "not at fault").
+   - duplicate_of (§12): lower incident_id only if both IDs are the same real-world event.
+   - corrected_event_date (§13): only if date_flag is set (or earliest_report_date is blank)
+     AND the report date is actually wrong; give the first real news article's date (YYYY-MM-DD).
+   - keep (§14): Y only if responsibility_type=1 AND correct_ticker=Y AND duplicate_of blank.
+   - reason (§15): one short factual sentence saying what happened (not just the label).
+3. If you are genuinely unsure after applying §7–§11, follow the decision tree (§17), pick the
+   best-supported type, and START the reason with "UNCERTAIN:" so the adjudicator reviews it.
+   Do NOT default to Type 2.
+
+Output ONLY a CSV with this exact header and one line per input row, in the same order, no
+commentary before or after:
+incident_id,ticker,responsibility_type,correct_ticker,duplicate_of,corrected_event_date,keep,reason

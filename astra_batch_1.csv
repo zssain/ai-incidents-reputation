@@ -1,0 +1,53 @@
+incident_id,ticker,company,title,aiid_incident_date,earliest_report_date,date_flag,incident_url
+1,GOOGL,Alphabet Inc.,Google’s YouTube Kids App Presents Inappropriate Content,2015-05-19,2015-07-11,,https://incidentdatabase.ai/cite/1
+2,AMZN,AMAZON COM INC,Warehouse robot ruptures can of bear spray and injures workers,2018-12-05,2018-12-05,,https://incidentdatabase.ai/cite/2
+3,BA,BOEING CO,Crashes with Maneuvering Characteristics Augmentation System (MCAS),2018-10-27,2018-10-30,,https://incidentdatabase.ai/cite/3
+4,UBER,"Uber Technologies, Inc",Uber AV Killed Pedestrian in Arizona,2018-03-18,2018-03-19,,https://incidentdatabase.ai/cite/4
+5,ISRG,INTUITIVE SURGICAL INC,Collection of Robotic Surgery Malfunctions,2015-07-13,2015-07-13,,https://incidentdatabase.ai/cite/5
+6,MSFT,MICROSOFT CORP,"Microsoft's TayBot Allegedly Posts Racist, Sexist, and Anti-Semitic Content to Twitter",2016-03-24,2016-03-24,,https://incidentdatabase.ai/cite/6
+10,SBUX,STARBUCKS CORP,Kronos Scheduling Algorithm Allegedly Caused Financial Issues for Starbucks Employees,2014-08-14,2014-08-14,,https://incidentdatabase.ai/cite/10
+12,GOOGL,Alphabet Inc.,Common Biases of Vector Embeddings,2016-07-21,2016-07-21,arxiv,https://incidentdatabase.ai/cite/12
+13,GOOGL,Alphabet Inc.,High-Toxicity Assessed on Text Involving Women and Minority Groups,2017-02-27,2017-03-01,,https://incidentdatabase.ai/cite/13
+15,AMZN,AMAZON COM INC,Amazon Censors Gay Books,2008-05-23,2008-05-23,,https://incidentdatabase.ai/cite/15
+16,GOOGL,Alphabet Inc.,Images of Black People Labeled as Gorillas,2015-06-03,2015-07-01,,https://incidentdatabase.ai/cite/16
+17,GOOGL,Alphabet Inc.,Inappropriate Gmail Smart Reply Suggestions,2015-11-03,2015-11-03,twitter/x,https://incidentdatabase.ai/cite/17
+18,GOOGL,Alphabet Inc.,Gender Biases of Google Image Search,2015-04-04,2015-04-04,,https://incidentdatabase.ai/cite/18
+19,GOOGL,Alphabet Inc.,Sexist and Racist Google Adsense Advertisements,2013-01-23,2013-01-29,arxiv,https://incidentdatabase.ai/cite/19
+20,TSLA,"Tesla, Inc.",A Collection of Tesla Autopilot-Involved Crashes,2016-06-30,2016-06-30,,https://incidentdatabase.ai/cite/20
+22,GOOGL,Alphabet Inc.,Waze Navigates Motorists into Wildfires,2017-12-06,2017-12-06,,https://incidentdatabase.ai/cite/22
+25,GOOGL,Alphabet Inc.,"Google and Delphi Self-Driving Prototypes Allegedly Involved in Near-Miss on San Antonio Road, Palo Alto",2015-06-23,2015-05-11,before_incident,https://incidentdatabase.ai/cite/25
+26,AAPL,Apple Inc.,Hackers Break Apple Face ID,2017-09-13,2017-09-13,,https://incidentdatabase.ai/cite/26
+30,TSLA,"Tesla, Inc.",Poor Performance of Tesla Factory Robots,2016-10-08,2016-10-08,,https://incidentdatabase.ai/cite/30
+32,AAPL,Apple Inc.,Identical Twins Can Open Apple FaceID Protected Devices,2017-09-13,2017-09-13,,https://incidentdatabase.ai/cite/32
+34,AMZN,AMAZON COM INC,Amazon Alexa Responding to Environmental Inputs,2015-12-05,2015-12-05,,https://incidentdatabase.ai/cite/34
+37,AMZN,AMAZON COM INC,Amazon's Experimental Hiring Tool Allegedly Displayed Gender Bias in Candidate Rankings,2016-08-10,2018-10-09,twitter/x,https://incidentdatabase.ai/cite/37
+45,GOOGL,Alphabet Inc.,Defamation via AutoComplete,2011-04-05,2011-04-05,twitter/x,https://incidentdatabase.ai/cite/45
+47,MSFT,MICROSOFT CORP,LinkedIn Search Prefers Male Names,2016-09-06,2016-09-06,,https://incidentdatabase.ai/cite/47
+52,TSLA,"Tesla, Inc.",Tesla on AutoPilot Killed Driver in Crash in Florida while Watching Movie,2016-07-01,2016-07-01,,https://incidentdatabase.ai/cite/52
+55,AMZN,AMAZON COM INC,Alexa Plays Pornography Instead of Kids Song,2016-12-30,2016-12-30,,https://incidentdatabase.ai/cite/55
+59,GOOGL,Alphabet Inc.,Gender Biases in Google Translate,2017-04-13,2016-08-25,before_incident;arxiv,https://incidentdatabase.ai/cite/59
+66,MSFT,MICROSOFT CORP,Chinese Chatbots Question Communist Party,2017-08-02,2017-08-03,,https://incidentdatabase.ai/cite/66
+67,TSLA,"Tesla, Inc.",Sleeping Driver on Tesla AutoPilot,2018-12-01,2018-01-19,before_incident,https://incidentdatabase.ai/cite/67
+68,KSCP,"Knightscope, Inc.",Security Robot Drowns Itself in a Fountain,2017-07-17,2017-07-17,twitter/x,https://incidentdatabase.ai/cite/68
+71,GOOGL,Alphabet Inc.,Google Waymo Vehicle and Bus Allegedly Collide in California,2016-02-14,2008-08-19,before_incident,https://incidentdatabase.ai/cite/71
+72,META,"Meta Platforms, Inc.","Facebook translates 'good morning' into 'attack them', leading to arrest",2017-10-17,2017-10-17,,https://incidentdatabase.ai/cite/72
+75,GOOGL,Alphabet Inc.,Google Instant's Allegedly 'Anti-Semitic' Results Lead To Lawsuit In France,2012-01-05,2012-01-05,twitter/x,https://incidentdatabase.ai/cite/75
+77,KSCP,"Knightscope, Inc.",Knightscope's Park Patrol Robot Ignored Bystander Pressing Emergency Button to Alert Police about Fight,2019-10-04,2019-10-04,,https://incidentdatabase.ai/cite/77
+81,GOOGL,Alphabet Inc.,"Researchers find evidence of racial, gender, and socioeconomic bias in chest X-ray classifiers",2020-10-21,2020-10-21,twitter/x,https://incidentdatabase.ai/cite/81
+82,META,"Meta Platforms, Inc.",#LekkiMassacre: Why Facebook labelled content from October 20 incident ‘false’,2020-10-21,2020-10-22,,https://incidentdatabase.ai/cite/82
+83,MSFT,MICROSOFT CORP,AI Spam Filters Allegedly Block Legitimate Emails Based on Biased Keyword Detection,2020-10-22,2020-10-22,,https://incidentdatabase.ai/cite/83
+84,META,"Meta Platforms, Inc.","Tiny Changes Let False Claims About COVID-19, Voting Evade Facebook Fact Checks",2020-10-09,2020-10-09,,https://incidentdatabase.ai/cite/84
+89,GOOGL,Alphabet Inc.,The Christchurch shooter and YouTube’s radicalization trap,2019-03-15,2020-12-12,,https://incidentdatabase.ai/cite/89
+92,AAPL,Apple Inc.,Apple Card's Credit Assessment Algorithm Allegedly Discriminated against Women,2019-11-11,2019-11-11,twitter/x,https://incidentdatabase.ai/cite/92
+92,GS,GOLDMAN SACHS GROUP INC,Apple Card's Credit Assessment Algorithm Allegedly Discriminated against Women,2019-11-11,2019-11-11,twitter/x,https://incidentdatabase.ai/cite/92
+93,META,"Meta Platforms, Inc.",HUD charges Facebook with enabling housing discrimination,2018-08-13,2019-03-28,,https://incidentdatabase.ai/cite/93
+97,TSLA,"Tesla, Inc.",Tesla Autopilot Mistakes Red Letters on Flag for Red Traffic Lights,2020-10-22,2020-10-26,,https://incidentdatabase.ai/cite/97
+102,AAPL,Apple Inc.,"Personal voice assistants struggle with black voices, new study shows",2020-03-23,2020-03-24,,https://incidentdatabase.ai/cite/102
+102,AMZN,AMAZON COM INC,"Personal voice assistants struggle with black voices, new study shows",2020-03-23,2020-03-24,,https://incidentdatabase.ai/cite/102
+102,GOOGL,Alphabet Inc.,"Personal voice assistants struggle with black voices, new study shows",2020-03-23,2020-03-24,,https://incidentdatabase.ai/cite/102
+102,IBM,INTERNATIONAL BUSINESS MACHINES CORP,"Personal voice assistants struggle with black voices, new study shows",2020-03-23,2020-03-24,,https://incidentdatabase.ai/cite/102
+105,TSLA,"Tesla, Inc.","Tesla Model 3 on Autopilot Crashed into a Ford Explorer Pickup, Killing a Fifteen-Year-Old in California",2019-08-24,2021-07-05,,https://incidentdatabase.ai/cite/105
+111,AMZN,AMAZON COM INC,Amazon Flex Drivers Allegedly Fired via Automated Employee Evaluations,2015-09-25,2021-06-28,,https://incidentdatabase.ai/cite/111
+113,META,"Meta Platforms, Inc.","Facebook's AI Put ""Primates"" Label on Video Featuring Black Men",2020-06-27,2021-09-03,,https://incidentdatabase.ai/cite/113
+114,AMZN,AMAZON COM INC,Amazon's Rekognition Falsely Matched Members of Congress to Mugshots,2018-07-26,2018-07-26,,https://incidentdatabase.ai/cite/114
+116,AMZN,AMAZON COM INC,Amazon's AI Cameras Incorrectly Penalized Delivery Drivers for Mistakes They Did Not Make,2021-09-20,2021-09-20,,https://incidentdatabase.ai/cite/116

@@ -1,0 +1,53 @@
+incident_id,ticker,responsibility_type,correct_ticker,duplicate_of,corrected_event_date,keep,reason
+1,GOOGL,1,Y,,,Y,YouTube Kids filtering and recommendation systems exposed children to inappropriate videos.
+2,AMZN,1,Y,,,Y,An Amazon warehouse robot punctured bear repellent and hospitalized workers.
+3,BA,1,Y,,,Y,Boeing's MCAS repeatedly pushed a passenger aircraft downward after receiving faulty sensor data.
+4,UBER,1,Y,,,Y,Uber's autonomous vehicle struck and killed Elaine Herzberg while operating in autonomous mode.
+5,ISRG,1,Y,,,Y,UNCERTAIN: A retrospective study documented malfunctions of Intuitive Surgical's deployed surgical robots although their AI involvement is unclear.
+6,MSFT,1,Y,,,Y,Users exploited Microsoft's live Tay chatbot and it generated racist and sexist tweets.
+10,SBUX,1,Y,,,Y,Starbucks deployed Kronos scheduling software that destabilized employees' working hours and finances.
+12,GOOGL,3,Y,,2016-07-27,N,Research found gender stereotypes in Google's word embeddings; MIT Technology Review reported it on 2016-07-27 rather than the arXiv date.
+13,GOOGL,1,Y,,,Y,Google's deployed Perspective API assigned excessive toxicity scores to benign statements about minority groups.
+15,AMZN,1,Y,,,Y,Amazon's cataloging system removed sales rankings and search visibility from books with gay and lesbian themes.
+16,GOOGL,1,Y,,,Y,Google Photos incorrectly labeled Black people as gorillas.
+17,GOOGL,1,Y,,,Y,Google's Smart Reply system suggested expressions of love too frequently during testing.
+18,GOOGL,1,Y,,,Y,A study of Google Images found that its occupational search results underrepresented women in leadership roles.
+19,GOOGL,1,Y,,2013-02-04,Y,Google's ad delivery associated Black-identifying names with arrest advertisements; news coverage began on 2013-02-04 rather than the paper date.
+20,TSLA,1,Y,,,Y,Tesla Autopilot was involved in multiple crashes including Joshua Brown's fatal Florida collision.
+22,GOOGL,1,Y,,,Y,Google-owned Waze directed motorists toward roads affected by California wildfires.
+25,GOOGL,1,Y,,2015-06-25,Y,Google's autonomous prototype was involved in a disputed near-miss with Delphi; Reuters first reported this encounter on 2015-06-25.
+26,AAPL,1,Y,,,Y,Bkav researchers bypassed Apple's Face ID authentication using a specially constructed mask.
+30,TSLA,1,Y,,,Y,Tesla's factory automation hindered Model 3 production and required additional manual assembly.
+32,AAPL,1,Y,,,Y,Apple's Face ID sometimes allowed an identical twin to unlock the enrolled sibling's iPhone.
+34,AMZN,1,Y,,,Y,Amazon Echo devices interpreted television audio as user commands and acted on it.
+37,AMZN,1,Y,,,Y,Amazon's experimental recruiting model penalized women's resumes after learning from predominantly male applications.
+45,GOOGL,1,Y,,,Y,Google's autocomplete associated people's names with defamatory terms and prompted lawsuits.
+47,MSFT,1,Y,,,Y,LinkedIn's search system suggested male alternatives to female names without comparable female alternatives for male searches.
+52,TSLA,1,Y,20,,N,Joshua Brown's fatal Autopilot collision with a Florida tractor-trailer is already covered by incident 20.
+55,AMZN,1,Y,,,Y,Alexa misinterpreted a child's song request and read an explicit ringtone-album title.
+59,GOOGL,1,Y,,2017-04-13,Y,Google Translate reproduced gender stereotypes in translations; news coverage of the cited finding appeared on 2017-04-13 rather than the preprint date.
+66,MSFT,1,Y,,,Y,Microsoft's XiaoBing chatbot generated politically unwelcome responses and was removed from Tencent's QQ service.
+67,TSLA,1,Y,,2018-11-30,Y,Autopilot reportedly continued while Alexander Samek slept at the wheel; this incident was reported on 2018-11-30 rather than the unrelated January stop.
+68,KSCP,1,Y,,,Y,A Knightscope K5 security robot drove into a Washington DC fountain.
+71,GOOGL,1,Y,,2016-02-29,Y,Google's autonomous vehicle collided with a bus after expecting it to yield; the crash was first reported on 2016-02-29.
+72,META,1,Y,,,Y,Facebook mistranslated a Palestinian man's Arabic greeting as a threat and police arrested him.
+75,GOOGL,1,Y,45,2012-04-28,N,The French lawsuit over Google's Jewish autocomplete suggestions is also reported under incident 45; AFP coverage dates to 2012-04-28.
+77,KSCP,1,Y,,,Y,A deployed Knightscope patrol robot failed to summon police when a bystander pressed its alert button during a fight.
+81,GOOGL,3,N,,,N,Academic researchers trained chest X-ray classifiers on public datasets; Google was background context rather than a tested product developer.
+82,META,1,Y,,,Y,Facebook's moderation system incorrectly marked posts about the Lekki shootings as misinformation.
+83,MSFT,3,Y,,,N,AlgorithmWatch's audit of five email providers found Outlook disproportionately filtered legitimate messages containing certain keywords.
+84,META,1,Y,,,Y,A Facebook-specific audit found its misinformation detection missed altered versions of previously debunked posts.
+89,GOOGL,1,Y,,,Y,A government investigation linked YouTube's recommendation system to the Christchurch attacker's radicalization.
+92,AAPL,1,N,,2019-11-09,N,UNCERTAIN: Goldman Sachs operated the allegedly discriminatory underwriting algorithm for Apple's co-branded card; Bloomberg reported the allegations on 2019-11-09.
+92,GS,1,Y,,2019-11-09,Y,Goldman Sachs's Apple Card underwriting allegedly assigned women lower credit limits; Bloomberg reported the allegations on 2019-11-09.
+93,META,1,Y,,,Y,HUD alleged Facebook's ad targeting and delivery systems discriminated in access to housing advertisements.
+97,TSLA,1,Y,,,Y,Tesla's vision system mistook colored letters on service-station flags for traffic lights.
+102,AAPL,3,Y,,,N,A multi-company study found Apple's speech recognition made disproportionately more errors for Black speakers.
+102,AMZN,3,Y,,,N,A multi-company study found Amazon's speech recognition made disproportionately more errors for Black speakers.
+102,GOOGL,3,Y,,,N,A multi-company study found Google's speech recognition made disproportionately more errors for Black speakers.
+102,IBM,3,Y,,,N,A multi-company study found IBM's speech recognition made disproportionately more errors for Black speakers.
+105,TSLA,1,Y,,,Y,A Tesla Model 3 using Autopilot struck the Maldonado family's pickup and killed their teenage son.
+111,AMZN,1,Y,,,Y,Amazon Flex's automated performance system dismissed drivers for delivery problems outside their control.
+113,META,1,Y,,,Y,Facebook's recommendation system attached a primates prompt to a video featuring Black men.
+114,AMZN,1,Y,,,Y,An ACLU test of Amazon Rekognition incorrectly matched 28 members of Congress to mugshots.
+116,AMZN,1,Y,,,Y,Amazon's deployed AI driver-monitoring cameras generated erroneous penalties that affected drivers' performance rewards.

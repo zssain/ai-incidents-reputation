@@ -1,0 +1,31 @@
+incident_id,ticker,responsibility_type,correct_ticker,duplicate_of,corrected_event_date,keep,reason
+15,AMZN,1,Y,,,Y,amazons ai led to the cataloging error which resulted in the gay books being censored
+77,KSCP,1,Y,,,Y,Lack of robustness
+125,AMZN,1,Y,,,Y,lack of robustness
+144,GOOGL,1,Y,,2020-06-28,Y,Antonio Radic may have lost some revenue from having his YouTube channel suspended for 24 hours.
+168,GOOGL,1,N,,,N,unequal performance across led to discrimination
+213,META,1,Y,,,Y,lack of robustness
+228,AAPL,1,Y,,,Y,lack of robustness
+231,TSLA,1,Y,,,Y,lack of capability
+251,AMZN,2,Y,,,N,Intentional misuse fo ai to boost their own products which led to smaller businesses being affected.
+253,GM,1,Y,,,Y,
+257,SSTI,1,Y,,,Y,
+265,UBER,1,Y,,,Y,
+291,TSLA,2,Y,,,N,misinformation
+292,AAPL,1,Y,,,Y,lack of robustness
+303,GOOGL,1,Y,,,Y,
+327,META,1,Y,,,Y,
+343,META,1,Y,,,Y,
+401,GOOGL,1,Y,,,Y,
+408,META,1,Y,,,Y,
+417,META,1,Y,,,Y,unequal performance across groups
+427,GM,1,Y,,,Y,
+445,LMT,1,Y,,,Y,
+469,MSFT,1,Y,,,Y,
+470,MSFT,1,Y,,,Y,
+471,META,1,Y,,,Y,
+525,TSLA,1,Y,,,Y,
+550,TSLA,1,Y,,,Y,
+553,GOOGL,1,Y,,,Y,
+556,AMZN,2,Y,,,N,"Compromise of privacy by obtaining, leaking or correctly inferring sensitive information"
+609,GOOGL,1,Y,,,Y,

@@ -1,0 +1,52 @@
+incident_id,ticker,company,title,aiid_incident_date,earliest_report_date,date_flag,incident_url
+1358,GOOGL,Alphabet Inc.,Purportedly AI-Altered Images Reportedly Distort Evidence After Minneapolis Shooting of ICU Nurse Alex Pretti,2026-01-24,2026-01-25,,https://incidentdatabase.ai/cite/1358
+1361,GOOGL,Alphabet Inc.,"Waymo Autonomous Vehicle Reportedly Struck Child Near Elementary School in Santa Monica, California",2026-01-23,2026-01-29,,https://incidentdatabase.ai/cite/1361
+1376,AMZN,AMAZON COM INC,Amazon Delivery Van Reportedly Became Stranded on Essex Mudflats After GPS Routed It Onto the Broomway,2026-02-15,2026-02-15,,https://incidentdatabase.ai/cite/1376
+1386,GOOGL,Alphabet Inc.,"NPR Host David Greene Alleged Google's NotebookLM Replicated His Voice Without Consent, Prompting Lawsuit",2026-01-23,2026-02-15,twitter/x,https://incidentdatabase.ai/cite/1386
+1393,GOOGL,Alphabet Inc.,Woolworths' Olive Chatbot Reportedly Generated 'Angry Mother' Anecdotes During Support Calls After Gemini Upgrade,2026-02-12,2026-02-26,,https://incidentdatabase.ai/cite/1393
+1400,MSFT,MICROSOFT CORP,West Midlands Police Reportedly Relied on Erroneous Copilot-Generated Intelligence in Maccabi Tel Aviv Away-Fan Ban Deci,2025-10-24,2026-01-14,,https://incidentdatabase.ai/cite/1400
+1401,AMZN,AMAZON COM INC,Washington State DOL's AI Phone System Reportedly Failed to Provide Spanish-Language Service to Callers Requesting Spani,2026-02-27,2026-02-25,before_incident,https://incidentdatabase.ai/cite/1401
+1414,GOOGL,Alphabet Inc.,Purported Gemini-Generated AI Images Reportedly Claimed U.S. Delta Force Soldiers Were Captured by the IRGC,2026-03-05,2026-03-06,,https://incidentdatabase.ai/cite/1414
+1427,DKNG,DraftKings Inc.,Baltimore Lawsuit Alleged DraftKings and FanDuel Used Machine-Learning-Driven Targeting to Exploit Vulnerable Gamblers,2025-04-03,2025-04-07,,https://incidentdatabase.ai/cite/1427
+1427,FLUT,Flutter Entertainment plc,Baltimore Lawsuit Alleged DraftKings and FanDuel Used Machine-Learning-Driven Targeting to Exploit Vulnerable Gamblers,2025-04-03,2025-04-07,,https://incidentdatabase.ai/cite/1427
+1431,GOOGL,Alphabet Inc.,"Google Gemini Reportedly Reinforced Delusions,  Allegedly Contributing to Florida User's Near-Harm Episode and Suicide",2025-09-29,2026-03-04,,https://incidentdatabase.ai/cite/1431
+1436,IART,INTEGRA LIFESCIENCES HOLDINGS CORP,AI-Enabled TruDi Navigation System Was Alleged to Have Contributed to Patient's Stroke During June 2022 Sinus Procedure,2022-06-23,2026-02-09,,https://incidentdatabase.ai/cite/1436
+1436,JNJ,JOHNSON & JOHNSON,AI-Enabled TruDi Navigation System Was Alleged to Have Contributed to Patient's Stroke During June 2022 Sinus Procedure,2022-06-23,2026-02-09,,https://incidentdatabase.ai/cite/1436
+1460,BIDU,"Baidu, Inc.","Baidu Apollo Go Robotaxis Stopped in Traffic During Reported System Failure in Wuhan, Stranding Some Passengers",2026-03-31,2026-03-31,,https://incidentdatabase.ai/cite/1460
+1471,META,"Meta Platforms, Inc.",Meta Internal AI Agent Reportedly Gave Advice That Allegedly Exposed Sensitive Data to Unauthorized Employees,2026-03-18,2026-03-19,,https://incidentdatabase.ai/cite/1471
+1493,GOOGL,Alphabet Inc.,Gemini and Grok Reportedly Misidentified Authentic Minab School-Strike Graveyard Photo as Unrelated Disaster Imagery,2026-03-17,2026-03-17,,https://incidentdatabase.ai/cite/1493
+1507,GOOGL,Alphabet Inc.,COEMPT Quality Assurance Engineers Allegedly Violated Indian CBSE Student Data Privacy Rights by Processing It with Goog,2026-05-30,2026-05-31,,https://incidentdatabase.ai/cite/1507
+1512,MSFT,MICROSOFT CORP,The Sydney Morning Herald and The Age Removed an Opinion Article After Undisclosed Copilot Use,2026-05-31,2026-06-03,,https://incidentdatabase.ai/cite/1512
+1523,META,"Meta Platforms, Inc.",Reported AI-Generated Videos Placed Kosovo Parliamentary Candidates in Purportedly Fabricated Campaign Scenes,2026-05-14,2026-05-29,,https://incidentdatabase.ai/cite/1523
+1528,IART,INTEGRA LIFESCIENCES HOLDINGS CORP,AI-Enabled TruDi Navigation System Was Alleged to Have Contributed to Patient's Stroke During May 2023 Sinuplasty,2023-05-19,2026-02-09,,https://incidentdatabase.ai/cite/1528
+1528,JNJ,JOHNSON & JOHNSON,AI-Enabled TruDi Navigation System Was Alleged to Have Contributed to Patient's Stroke During May 2023 Sinuplasty,2023-05-19,2026-02-09,,https://incidentdatabase.ai/cite/1528
+1537,GOOGL,Alphabet Inc.,Two Waymo Robotaxis Allegedly Contributed to Bike-Lane Collision That Injured San Francisco Cyclist,2025-02-16,2025-06-20,,https://incidentdatabase.ai/cite/1537
+1539,AMZN,AMAZON COM INC,Zoox Robotaxi Crossed Into Opposing Lane and Stopped Near Oncoming Traffic,2025-08-26,2025-12-23,,https://incidentdatabase.ai/cite/1539
+1543,GOOGL,Alphabet Inc.,Waymo Robotaxi Reportedly Obstructed Ambulance Responding to Austin Mass Shooting,2026-03-01,2026-03-01,,https://incidentdatabase.ai/cite/1543
+1544,GOOGL,Alphabet Inc.,Waymo Robotaxi Reportedly Entered Flooded San Antonio Roadway and Was Swept Into Waterway,2026-04-20,2026-04-21,,https://incidentdatabase.ai/cite/1544
+1546,GOOGL,Alphabet Inc.,Google Android Earthquake Alerts System Reportedly Underestimated Kahramanmaraş Earthquake and Failed to Send Urgent War,2023-02-03,2023-07-27,,https://incidentdatabase.ai/cite/1546
+1547,GOOGL,Alphabet Inc.,Waymo Robotaxis Reportedly Entered Closed Freeway Construction Zones in Arizona and California,2026-04-11,2026-05-22,,https://incidentdatabase.ai/cite/1547
+1552,TSLA,"Tesla, Inc.",Tesla Driver Reportedly Said Driver-Assistance Mode Was Engaged During Fatal Texas Home Crash,2026-06-19,2026-06-21,,https://incidentdatabase.ai/cite/1552
+1557,GOOGL,Alphabet Inc.,Former New York City Council Candidate Jonathan Rinaldi Allegedly Used AI to Create False Endorsements and Fabricated Ne,2025-01-17,2026-06-24,,https://incidentdatabase.ai/cite/1557
+1559,ACI,"Albertsons Companies, Inc.",Kalibrate Fuel Pricing Allegedly Enabled California Gas Station Operators to Coordinate Higher Pump Prices,2022-06-22,2026-06-22,,https://incidentdatabase.ai/cite/1559
+1559,MPC,Marathon Petroleum Corp,Kalibrate Fuel Pricing Allegedly Enabled California Gas Station Operators to Coordinate Higher Pump Prices,2022-06-22,2026-06-22,,https://incidentdatabase.ai/cite/1559
+1567,SERV,Serve Robotics Inc. /DE/,Serve Robotics Delivery Robot Reportedly Crashed into Chicago Bus Shelter After Failing to Detect Glass,2026-03-22,2026-04-14,,https://incidentdatabase.ai/cite/1567
+1572,TRI,THOMSON REUTERS CORP /CAN/,Westlaw CoCounsel Reportedly Generated False Legal Quotations in United States v. Farris,2025-10-21,2026-04-09,,https://incidentdatabase.ai/cite/1572
+1575,MSFT,MICROSOFT CORP,Eightfold AI Hiring Tools Allegedly Secretly Scored Job Applicants for Employers,2026-01-20,2026-01-21,,https://incidentdatabase.ai/cite/1575
+1575,PYPL,"PayPal Holdings, Inc.",Eightfold AI Hiring Tools Allegedly Secretly Scored Job Applicants for Employers,2026-01-20,2026-01-21,,https://incidentdatabase.ai/cite/1575
+1583,GOOGL,Alphabet Inc.,Waymo Robotaxi Reportedly Caught Fire After Driving Over Firework in San Francisco,2026-07-04,2026-07-05,,https://incidentdatabase.ai/cite/1583
+1584,META,"Meta Platforms, Inc.",Meta's AI-Assisted Layoff Process Allegedly Disproportionately Selected Employees on Protected Leave,2026-05-20,2026-07-14,,https://incidentdatabase.ai/cite/1584
+1588,GOOGL,Alphabet Inc.,Purportedly AI-Powered KT Platform Reportedly Used in Forced Scamming Operation Involving Trafficked Worker in Myanmar,2026-06-29,2026-06-29,,https://incidentdatabase.ai/cite/1588
+1589,GOOGL,Alphabet Inc.,Purportedly AI-Powered 007TG Platform Reportedly Used by Scam Networks Linked to $75 Million in Proceeds,2024-04-01,2026-02-25,,https://incidentdatabase.ai/cite/1589
+1590,PM,Philip Morris International Inc.,Purported Philip Morris-Backed AI Tool Reportedly Generated Responses Opposing Stricter EU Tobacco Rules,2026-05-19,2026-06-29,,https://incidentdatabase.ai/cite/1590
+1599,GOOGL,Alphabet Inc.,Waymo Robotaxi Reportedly Remained Immobilized While Vandals Smashed Vehicle with Passenger Inside,2026-05-09,2026-07-16,,https://incidentdatabase.ai/cite/1599
+1618,UDR,"UDR, Inc.","Apartment Owner and Manager UDR Allegedly Used RealPage Algorithms to Set San Diego Rents in Keller v. UDR, Inc.",2026-06-21,2026-07-02,,https://incidentdatabase.ai/cite/1618
+1622,WMT,Walmart Inc.,Walmart's AI Voice System Allegedly Collected Illinois Callers' Biometric Voiceprints Without Consent,2025-12-01,2026-07-06,,https://incidentdatabase.ai/cite/1622
+1630,CZR,"Caesars Entertainment, Inc.",Atlantic City Casino-Hotels Allegedly Used Cendyn's Rainmaker AI to Coordinate and Inflate Room Rates,2018-06-28,2026-07-29,,https://incidentdatabase.ai/cite/1630
+1630,MGM,MGM Resorts International,Atlantic City Casino-Hotels Allegedly Used Cendyn's Rainmaker AI to Coordinate and Inflate Room Rates,2018-06-28,2026-07-29,,https://incidentdatabase.ai/cite/1630
+1631,ZTS,Zoetis Inc.,"Zoetis Vetscan Imagyst Allegedly Misclassified Dog's Cancerous Tumor, Leading to Second Surgery and Death",2025-10-01,2026-07-30,,https://incidentdatabase.ai/cite/1631
+1634,GOOGL,Alphabet Inc.,Purportedly AI-Generated Video Reportedly Misled Elderly Malaysian Couple Into Traveling to Nonexistent Cable Car Attrac,2025-06-30,2025-07-01,twitter/x,https://incidentdatabase.ai/cite/1634
+1649,META,"Meta Platforms, Inc.",Meta AI Model Reportedly Exploited Security Vulnerability in Real Third-Party Service During Cybersecurity Evaluation,2026-08-05,2026-08-05,,https://incidentdatabase.ai/cite/1649
+1679,GOOGL,Alphabet Inc.,"Lyft Driver in Boca Raton, Florida, Allegedly Used Purported Google Gemini-Generated Image to Support False $75 Damage F",2026-05-16,2026-05-18,,https://incidentdatabase.ai/cite/1679
+1682,GOOGL,Alphabet Inc.,D.C. Court of Appeals Struck Deutsche Bank National Trust Company Brief After Attorney Used Google Generative AI Search ,2025-08-12,2026-09-03,pdf,https://incidentdatabase.ai/cite/1682
+1700,GOOGL,Alphabet Inc.,Google Gemini Reportedly Accessed Three Real Companies' Protected Systems During Cybersecurity Evaluation,2026-05-01,2026-09-18,,https://incidentdatabase.ai/cite/1700

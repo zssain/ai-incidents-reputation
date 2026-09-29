@@ -1,0 +1,52 @@
+incident_id,ticker,responsibility_type,correct_ticker,duplicate_of,corrected_event_date,keep,reason
+378,TSPH,1,Y,,,Y,TuSimple's autonomous truck executed an outdated command and struck a highway barrier.
+380,META,1,Y,,,Y,Facebook automatically generated antisemitic advertising categories and approved ads targeting them.
+382,META,1,Y,,,Y,Instagram recommendations exposed Molly Russell to self-harm material before her death.
+383,GOOGL,1,Y,,,Y,Google Home Mini misrecognized a song request and returned an offensive racial slur.
+387,ORCL,1,Y,,,Y,Oracle's advertising and profiling systems allegedly compiled extensive personal dossiers without meaningful consent.
+389,GM,1,Y,,,Y,A Cruise autonomous vehicle obstructed a fire engine responding to an emergency.
+393,META,1,Y,,,Y,A Facebook-specific test found the platform approved advertisements containing violent hate speech in Kenya.
+394,GOOGL,3,Y,,,N,UNCERTAIN: A cross-platform investigation described how automated moderation drives coded language rather than one discrete Google event.
+396,UBER,1,Y,,,Y,Uber's facial-verification system suspended a transgender driver after failing to recognize her.
+398,TSLA,1,Y,,2022-08-20,Y,Tesla's perception system misidentified a horse-drawn carriage; the news article is dated 2022-08-20 rather than 2020.
+399,META,1,Y,,,Y,Meta withdrew its Galactica demo after it generated plausible but false scientific material.
+401,GOOGL,1,Y,,,Y,Google search surfaced a derogatory answer identifying Kannada as India's ugliest language.
+403,GOOGL,1,Y,,,Y,Gmail's filtering allegedly reduced delivery and open rates for advocacy organizations' messages.
+407,UBER,1,Y,,,Y,A study of Uber's deployed surge-pricing system found service disparities associated with neighborhood demographics.
+408,META,1,Y,,,Y,Facebook's People You May Know recommendations linked a sex worker's separate personal and professional identities.
+414,META,1,Y,,,Y,Facebook's translation system rendered Xi Jinping's name as vulgar language in Burmese posts.
+415,META,1,Y,,,Y,Facebook's automatic translation produced an offensive rendering of a reference to Thailand's king.
+416,META,1,Y,,,Y,Female truckers alleged Facebook's ad-delivery system discriminated against women and older job seekers.
+417,META,1,Y,,,Y,Facebook's feed algorithms reportedly exposed users with lower literacy to more harmful content.
+418,UBER,1,Y,,,Y,Uber's facial-verification process allegedly locked out a driver after his appearance changed.
+419,META,1,Y,,,Y,Facebook approved advertisements threatening election workers.
+426,XPEV,1,Y,,,Y,An Xpeng P7 using assisted driving failed to maintain distance and collided with a truck.
+427,GM,1,Y,,2022-12-16,Y,Regulators investigated Cruise's unexpected braking and immobilization; news reporting began on 2022-12-16 rather than the regulatory PDF date.
+428,HSBC,1,Y,,,Y,A reporter's twin bypassed HSBC's live voice-authentication service.
+430,MSGE,1,Y,,,Y,Madison Square Garden deployed facial recognition to exclude lawyers associated with litigation against it.
+432,GE,1,Y,,,Y,SkySolver's crew-scheduling failure contributed to Southwest's mass flight cancellations.
+432,LUV,1,Y,,,Y,SkySolver's crew-scheduling failure contributed to Southwest's mass flight cancellations.
+434,TSLA,1,Y,,,Y,"A Tesla reportedly using Full Self-Driving braked abruptly in the Bay Bridge tunnel, causing a multi-car collision."
+435,CPNG,1,Y,,,Y,Coupang allegedly manipulated search rankings to favor its own merchandise.
+436,TSLA,1,Y,,,Y,Tesla Autopilot continued driving while a sleeping driver used a steering-wheel weight to defeat monitoring.
+437,AMZN,1,Y,,,Y,Amazon allegedly used seller data and search-ranking manipulation to promote copied products in India.
+444,LMT,1,Y,,,Y,"The Patriot identification system misclassified a British Tornado aircraft, leading to a fatal friendly-fire engagement."
+444,RTX,1,Y,,,Y,"The Patriot identification system misclassified a British Tornado aircraft, leading to a fatal friendly-fire engagement."
+445,LMT,1,Y,,,Y,"The Patriot identification system misclassified a US Navy F/A-18, leading to a fatal friendly-fire engagement."
+445,RTX,1,Y,,,Y,"The Patriot identification system misclassified a US Navy F/A-18, leading to a fatal friendly-fire engagement."
+446,SSTI,1,Y,,,Y,ShotSpotter failed to notify Durham police about gunfire in a mass shooting.
+447,META,1,Y,,,Y,Instagram's automatic translation turned a footballer's Spanish message into an unintended sexual statement.
+454,MSFT,3,Y,,2019-01-03,N,A study compared Microsoft and Face++ emotion classifiers for racial bias; news coverage appeared on 2019-01-03 rather than SSRN.
+465,GOOGL,1,N,,,N,"UNCERTAIN: Private medical images were found in LAION data, but the report does not establish their use in Google's Imagen."
+467,GOOGL,1,Y,,,Y,Google's Bard promotional demonstration falsely credited the James Webb telescope with the first exoplanet photograph.
+469,AMZN,3,Y,,,N,"A comparative investigation found Google's, Microsoft's and Amazon's image classifiers sexualized women's bodies."
+469,GOOGL,3,Y,,,N,"A comparative investigation found Google's, Microsoft's and Amazon's image classifiers sexualized women's bodies."
+469,MSFT,3,Y,,,N,"A comparative investigation found Google's, Microsoft's and Amazon's image classifiers sexualized women's bodies."
+470,MSFT,1,Y,,,Y,Bing repeated a COVID-vaccine conspiracy previously generated by ChatGPT and quoted in a research report.
+471,META,1,Y,,,Y,Facebook's moderation and recommendations allegedly enabled hate speech and violence in Ethiopia.
+475,MCD,1,Y,,,Y,McDonald's deployed ordering bots repeatedly misheard customers and added unwanted items.
+476,GOOGL,1,Y,,,Y,A lawsuit alleged YouTube's recommendations helped spread ISIS material linked to the Paris attacks.
+477,MSFT,1,Y,,,Y,"Microsoft's Bing chatbot generated manipulative, false and disturbing replies during extended conversations."
+478,TSLA,1,Y,,,Y,Tesla recalled Full Self-Driving software because it could make unsafe decisions at intersections and exceed speed limits.
+489,WDAY,1,Y,,,Y,"Workday's applicant-screening algorithms allegedly discriminated by race, age and disability."
+501,UNH,1,Y,,,Y,NaviHealth's predicted recovery time allegedly contributed to premature termination of Frances Walter's rehabilitation coverage.

@@ -1,0 +1,52 @@
+incident_id,ticker,responsibility_type,correct_ticker,duplicate_of,corrected_event_date,keep,reason
+700,META,1,Y,,,Y,Meta's chatbot falsely claimed to be a parent of a gifted and disabled child in a Facebook support group.
+704,TRI,3,Y,,,N,"Stanford researchers compared legal AI tools, including Thomson Reuters products, and found hallucinated legal information."
+707,TSLA,1,Y,,,Y,A Tesla reportedly in self-driving mode struck a parked Fullerton police vehicle.
+711,TSLA,1,Y,,,Y,Federal regulators questioned whether Tesla's Autopilot recall adequately corrected driver-engagement risks.
+712,META,1,Y,,,Y,Meta AI fabricated sexual-harassment allegations against New York legislators.
+716,BKD,1,Y,,,Y,Brookdale's staffing algorithm allegedly underestimated care needs and left assisted-living facilities understaffed.
+718,GOOGL,3,Y,,,N,"A multi-company investigation examined Google, Meta and OpenAI's acquisition of copyrighted AI-training data."
+718,META,3,Y,,,N,"A multi-company investigation examined Google, Meta and OpenAI's acquisition of copyrighted AI-training data."
+723,META,1,Y,,,Y,Instagram's ad targeting allegedly delivered advertisements featuring children to users with sexual interests in minors.
+726,GM,1,Y,,,Y,A Cruise robotaxi dragged a pedestrian after another vehicle initially struck her.
+731,GOOGL,3,Y,,,N,Researchers compared several coding models and found hallucinated software-package recommendations that could enable supply-chain attacks.
+733,ALL,3,Y,,,N,A multi-company investigation examined the collection and algorithmic scoring of drivers' telematics data for insurance.
+733,GM,3,Y,,,N,A multi-company investigation examined the collection and algorithmic scoring of drivers' telematics data for insurance.
+733,LIF,3,Y,,,N,A multi-company investigation examined the collection and algorithmic scoring of drivers' telematics data for insurance.
+733,PGR,3,Y,,,N,A multi-company investigation examined the collection and algorithmic scoring of drivers' telematics data for insurance.
+734,META,3,Y,,,N,A NewsGuard audit tested major chatbots and found that they repeated Russian disinformation.
+734,MSFT,3,Y,,,N,A NewsGuard audit tested major chatbots and found that they repeated Russian disinformation.
+743,GOOGL,1,Y,,,Y,"Gemini reportedly summarized private Drive documents without an explicit request, prompting a dispute over user controls."
+744,GOOGL,3,Y,,,N,A cross-vendor investigation found enterprise AI assistants required substantial implementation effort and delivered uneven value.
+744,MSFT,3,Y,,,N,A cross-vendor investigation found enterprise AI assistants required substantial implementation effort and delivered uneven value.
+745,FIG,1,Y,,,Y,Figma disabled its Make Design feature after it repeatedly reproduced Apple's Weather app interface.
+748,PYPL,1,Y,,,Y,PayPal's support chatbot fabricated a declined transaction that did not exist.
+750,GOOGL,3,Y,,,N,A comparative test found major chatbots gave stale or incorrect answers about breaking US political events.
+750,META,3,Y,,,N,A comparative test found major chatbots gave stale or incorrect answers about breaking US political events.
+770,MSFT,1,Y,,,Y,Microsoft Copilot falsely accused journalist Martin Bernklau of serious crimes and disclosed identifying information.
+773,MSFT,1,Y,,,Y,Copilot inserted a real former employee's name into a purportedly fictional harassment-training scenario.
+778,AMZN,1,Y,,,Y,Alexa gave favorable reasons to vote for Kamala Harris while declining an equivalent request about Donald Trump.
+788,META,1,Y,,,Y,An audit of Instagram found its Reels recommendations quickly exposed teenage accounts to sexual content.
+789,META,1,Y,,,Y,Facebook's moderation incorrectly removed legitimate publishers' news links as spam.
+791,GOOGL,1,Y,,,Y,Google AI Overviews suggested using feces on a balloon for toilet training.
+796,META,1,Y,,,Y,Facebook's spam detection removed emergency wildfire warnings and evacuation updates.
+821,BIDU,1,Y,,,Y,Baidu's robotaxi struck a pedestrian reportedly crossing against the light and was described as not at fault.
+831,EVLV,1,Y,,,Y,Evolv's New York subway trial produced false alarms without detecting any guns.
+838,MSFT,1,Y,,,Y,A test of Microsoft Copilot's medication responses found inaccurate and potentially dangerous advice.
+845,GOOGL,1,Y,,,Y,Google Gemini sent a Michigan student an abusive message telling him to die.
+846,META,1,Y,,,Y,Facebook's detection and amplification systems allowed a coordinated Honduran political influence network to operate.
+853,GOOGL,1,Y,,,Y,"Attackers interfered with a Waymo vehicle's sensors while passengers were inside, immobilizing its live autonomous service."
+857,GOOGL,1,Y,,,Y,"Google Maps allegedly routed motorists onto a broken bridge, leading to three deaths."
+859,GOOGL,3,Y,,,N,A multi-company audit found chatbots provided less accurate election information in Spanish than in English.
+859,META,3,Y,,,N,A multi-company audit found chatbots provided less accurate election information in Spanish than in English.
+861,AAPL,1,Y,,,Y,Apple Intelligence falsely summarized a BBC notification as reporting that Luigi Mangione had killed himself.
+873,GOOGL,1,Y,,,Y,YouTube's recommender allegedly steered vulnerable teenagers toward eating-disorder content.
+892,AAPL,1,Y,,,Y,Apple Intelligence incorrectly prioritized phishing emails as important messages.
+939,META,2,Y,,,N,Chinese surveillance developers reportedly used Meta's Llama model to monitor and profile social-media users.
+940,TSLA,1,Y,,,Y,A Cybertruck running Full Self-Driving failed to merge and struck a pole.
+956,MSFT,3,N,,,N,A study found secrets in Common Crawl data; Microsoft's separate Copilot incident was background rather than the audited system.
+957,META,1,Y,,,Y,Instagram's recommendation malfunction flooded Reels feeds with graphic violence.
+963,GOOGL,1,Y,,,Y,Google reported complaints about harmful Gemini outputs including child-abuse and terrorist material.
+967,AMZN,1,Y,,,Y,Amazon's AI review summary praised Mein Kampf and Google's featured snippet amplified the misleading summary.
+967,GOOGL,1,Y,,,Y,Amazon's AI review summary praised Mein Kampf and Google's featured snippet amplified the misleading summary.
+968,GOOGL,3,Y,,,N,NewsGuard tested ten chatbots and found they repeated narratives from Russia's Pravda disinformation network.

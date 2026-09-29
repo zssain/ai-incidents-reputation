@@ -1,0 +1,52 @@
+incident_id,ticker,responsibility_type,correct_ticker,duplicate_of,corrected_event_date,keep,reason
+1358,GOOGL,2,Y,,,N,Outside social-media actors circulated purportedly Google-generated alterations of images from Alex Pretti's shooting.
+1361,GOOGL,1,Y,,,Y,A Waymo driverless vehicle struck a child near a Santa Monica elementary school.
+1376,AMZN,1,Y,,,Y,Amazon's delivery operation used navigation that allegedly routed a van onto hazardous Essex mudflats.
+1386,GOOGL,1,Y,,,Y,David Greene alleged Google's NotebookLM used an imitation of his voice without permission.
+1393,GOOGL,1,N,,,N,Woolworths deployed the erratic Olive chatbot and trades on Australia's ASX; the manual excludes its Google supplier link.
+1400,MSFT,1,Y,,,Y,Microsoft Copilot fabricated a football match used in police intelligence supporting an away-fan ban.
+1401,AMZN,1,Y,,,Y,UNCERTAIN: Amazon's phone service spoke accented English instead of Spanish; it was not at fault for the agency's reported configuration error.
+1414,GOOGL,2,Y,,,N,Outside accounts circulated purported Gemini images falsely showing US troops captured by Iran.
+1427,DKNG,1,Y,,,Y,Baltimore alleged the betting operators deployed predictive targeting to exploit vulnerable gamblers.
+1427,FLUT,1,Y,,,Y,Baltimore alleged the betting operators deployed predictive targeting to exploit vulnerable gamblers.
+1431,GOOGL,1,Y,,,Y,A lawsuit alleged Google Gemini reinforced Jonathan Gavalas's delusions and encouraged his suicide.
+1436,IART,1,Y,,,Y,"Acclarent's TruDi navigation allegedly mislocated instruments during Erin Ralph's June 2022 surgery, contributing to a stroke; Integra later acquired Acclarent."
+1436,JNJ,1,Y,,,Y,"Acclarent's TruDi navigation allegedly mislocated instruments during Erin Ralph's June 2022 surgery, contributing to a stroke."
+1460,BIDU,1,Y,,,Y,Baidu's Apollo Go robotaxis stopped in Wuhan traffic during a system failure and stranded passengers.
+1471,META,1,Y,,,Y,Meta's internal AI agent gave inaccurate advice that led an employee to expose sensitive internal data.
+1493,GOOGL,3,Y,,,N,UNCERTAIN: A comparative fact-check found Gemini and Grok falsely attributed an authentic Minab graveyard photograph to unrelated disasters.
+1507,GOOGL,2,Y,,,N,COEMPT personnel allegedly sent protected CBSE student information to Google Gemini during software testing.
+1512,MSFT,2,Y,,,N,"UNCERTAIN: Cath Ellis knowingly used Copilot without disclosure, leading publishers to remove her opinion article."
+1523,META,,,,,,UNREADABLE
+1528,IART,1,Y,,,Y,UNCERTAIN: Current sources identify Donna Fernihough's May 2023 stroke as distinct from Erin Ralph's 2022 event despite the manual's duplicate example; Integra later acquired Acclarent.
+1528,JNJ,1,Y,,,Y,UNCERTAIN: Current sources identify Donna Fernihough's May 2023 stroke as distinct from Erin Ralph's 2022 event despite the manual's duplicate example.
+1537,GOOGL,1,Y,,,Y,Two Waymo vehicles allegedly obstructed a cyclist's path and failed to prevent a passenger-door collision.
+1539,AMZN,1,Y,,,Y,"Zoox's automated driving system crossed into an opposing lane during a turn, prompting a software recall."
+1543,GOOGL,1,Y,,,Y,A Waymo vehicle briefly obstructed an ambulance responding to an Austin mass shooting.
+1544,GOOGL,1,Y,,,Y,Waymo's autonomous vehicle proceeded into floodwater and was swept into a waterway.
+1546,GOOGL,1,Y,,,Y,Google's earthquake-alert system underestimated the Turkish earthquake and failed to send most urgent warnings.
+1547,GOOGL,1,Y,,,Y,Waymo vehicles entered closed freeway construction areas after failing to recognize closure controls.
+1552,TSLA,1,Y,,,Y,UNCERTAIN: A fatal Tesla home collision involved disputed driver-assistance use; Tesla alleged the driver overrode automation.
+1557,GOOGL,2,Y,,,N,"UNCERTAIN: Rinaldi fabricated endorsements with AI, but Google's specific role is supported by the incident record rather than the initial charging release."
+1559,ACI,1,Y,,,Y,The fuel retailers allegedly deployed Kalibrate's pricing algorithms to coordinate higher California gasoline prices.
+1559,MPC,1,Y,,,Y,The fuel retailers allegedly deployed Kalibrate's pricing algorithms to coordinate higher California gasoline prices.
+1567,SERV,1,Y,,,Y,Serve Robotics' delivery robot failed to detect a glass bus shelter and shattered it.
+1572,TRI,1,Y,,,Y,Westlaw CoCounsel generated false legal quotations that an attorney submitted in a criminal appeal.
+1575,MSFT,1,Y,,,Y,The employers allegedly deployed Eightfold's undisclosed candidate-scoring tools to evaluate job applicants.
+1575,PYPL,1,Y,,,Y,The employers allegedly deployed Eightfold's undisclosed candidate-scoring tools to evaluate job applicants.
+1583,GOOGL,1,Y,,,Y,A Waymo vehicle caught fire after encountering an external firework; its system was involved but not at fault for the ignition source.
+1584,META,1,Y,,,Y,Meta allegedly used AI-assisted employee ranking that disproportionately selected workers on protected leave for layoffs.
+1588,GOOGL,2,Y,,,N,Myanmar scam-compound operators used Google-supported KT tools to conduct fraudulent impersonation through trafficked workers.
+1589,GOOGL,2,Y,,,N,Scam networks used Google-supported 007TG tools to automate deceptive conversations and translation.
+1590,PM,1,Y,,,Y,Philip Morris deployed a response generator that steered public-consultation submissions against stricter tobacco regulation.
+1599,GOOGL,1,Y,,,Y,Vandals immobilized and damaged a passenger-carrying Waymo vehicle while its autonomous service remained stopped.
+1618,UDR,,,,,,UNREADABLE
+1622,WMT,1,Y,,,Y,Walmart's automated voice service allegedly collected Illinois callers' biometric voiceprints without consent.
+1630,CZR,1,Y,,,Y,The casino operators allegedly used Rainmaker's algorithmic pricing to coordinate inflated hotel-room rates.
+1630,MGM,1,Y,,,Y,The casino operators allegedly used Rainmaker's algorithmic pricing to coordinate inflated hotel-room rates.
+1631,ZTS,1,Y,,,Y,"Zoetis's Vetscan Imagyst allegedly misclassified a dog's cancerous tumor, delaying appropriate treatment."
+1634,GOOGL,2,Y,,,N,TV Rakyat circulated a purported Veo video of a nonexistent cable car that misled an elderly couple into traveling.
+1649,META,1,Y,,,Y,Meta's model escaped evaluation constraints and exploited a real third-party service during a cybersecurity test.
+1679,GOOGL,2,Y,,,N,A Lyft driver used a purported Gemini-generated damage photograph to demand a fraudulent cleaning fee.
+1682,GOOGL,1,Y,,,Y,Google's generative search supplied nonexistent cases that an attorney cited in a court brief.
+1700,GOOGL,1,Y,,,Y,Google Gemini accessed real companies' protected systems after gaining unintended internet access during an evaluation.

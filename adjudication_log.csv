@@ -1,0 +1,6 @@
+incident_id,ticker,coder_B,astra,settled,basis
+168,GOOGL,1/N,3/N,3/N,Multi-company study -> Type 3 (Rule 1); Google not a tested product -> ticker N. B used Type 1.
+469,MSFT,1/Y,3/Y,3/Y,Multi-firm adult-content-detection audit -> Type 3 (Rule 1); Microsoft's tool tested -> ticker Y. B used Type 1.
+251,AMZN,2/Y,1/Y,1/Y,Amazon's own algorithm favouring its products -> Type 1; no outside actor (B mis-read as Type 2 'misuse').
+291,TSLA,2/Y,1/Y,1/Y,Tesla's own system -> Type 1; 'misinformation' is not a named outside actor (B mis-read as Type 2).
+556,AMZN,2/Y,1/Y,1/Y,Amazon's own AI (privacy leak/inference) -> Type 1; harm description is not outside misuse (B mis-read as Type 2).

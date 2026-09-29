@@ -1,0 +1,154 @@
+incident_id,ticker,event_date,reason
+4,UBER,2018-03-19,insufficient_pre_history(0<250)
+8,UBER,2016-12-15,insufficient_pre_history(0<250)
+51,KSCP,2016-07-12,insufficient_pre_history(0<250)
+68,KSCP,2017-07-17,insufficient_pre_history(0<250)
+77,KSCP,2019-10-04,insufficient_pre_history(0<250)
+112,SSTI,2012-10-31,insufficient_pre_history(0<250)
+151,PONY,2021-11-01,insufficient_pre_history(0<250)
+183,ABNB,2020-02-27,insufficient_pre_history(0<250)
+204,ZH,2022-02-14,insufficient_pre_history(224<250)
+272,GRAB,2019-10-13,insufficient_pre_history(0<250)
+334,UBER,2017-03-03,insufficient_pre_history(0<250)
+350,SERV,2022-09-14,insufficient_pre_history(0<250)
+354,UBER,2019-03-21,insufficient_pre_history(0<250)
+396,UBER,2018-08-08,insufficient_pre_history(0<250)
+407,UBER,2016-03-10,insufficient_pre_history(0<250)
+429,SSTI,2017-11-17,insufficient_pre_history(115<250)
+430,MSGE,2022-12-19,insufficient_pre_history(0<250)
+435,CPNG,2021-07-04,insufficient_pre_history(80<250)
+616,AREN,2023-11-27,insufficient_pre_history(0<250)
+745,FIG,2024-07-02,insufficient_pre_history(0<250)
+881,SERV,2024-12-31,insufficient_pre_history(205<250)
+1700,GOOGL,2026-09-18,insufficient_post_history(4<5)
+32,AAPL,2017-09-13,merged_with_prior(<= 10td)
+981,AAPL,2025-03-07,merged_with_prior(<= 10td)
+1401,AMZN,2026-02-25,merged_with_prior(<= 10td)
+389,GM,2022-05-27,merged_with_prior(<= 10td)
+460,GM,2023-01-31,merged_with_prior(<= 10td)
+596,GM,2023-10-17,merged_with_prior(<= 10td)
+16,GOOGL,2015-07-01,merged_with_prior(<= 10td)
+63,GOOGL,2018-01-25,merged_with_prior(<= 10td)
+303,GOOGL,2022-08-21,merged_with_prior(<= 10td)
+383,GOOGL,2022-10-04,merged_with_prior(<= 10td)
+609,GOOGL,2023-11-06,merged_with_prior(<= 10td)
+853,GOOGL,2024-02-08,merged_with_prior(<= 10td)
+640,GOOGL,2024-02-13,merged_with_prior(<= 10td)
+645,GOOGL,2024-02-21,merged_with_prior(<= 10td)
+857,GOOGL,2024-11-25,merged_with_prior(<= 10td)
+967,GOOGL,2025-03-06,merged_with_prior(<= 10td)
+1537,GOOGL,2025-06-20,merged_with_prior(<= 10td)
+1178,GOOGL,2025-07-26,merged_with_prior(<= 10td)
+1173,GOOGL,2025-08-08,merged_with_prior(<= 10td)
+1187,GOOGL,2025-08-15,merged_with_prior(<= 10td)
+1248,GOOGL,2025-10-22,merged_with_prior(<= 10td)
+1269,GOOGL,2025-10-28,merged_with_prior(<= 10td)
+1300,GOOGL,2025-12-04,merged_with_prior(<= 10td)
+1337,GOOGL,2025-12-11,merged_with_prior(<= 10td)
+1316,GOOGL,2025-12-23,merged_with_prior(<= 10td)
+1543,GOOGL,2026-03-01,merged_with_prior(<= 10td)
+1547,GOOGL,2026-05-22,merged_with_prior(<= 10td)
+1599,GOOGL,2026-07-16,merged_with_prior(<= 10td)
+1528,IART,2026-02-09,merged_with_prior(<= 10td)
+1528,JNJ,2026-02-09,merged_with_prior(<= 10td)
+445,LMT,2004-05-20,merged_with_prior(<= 10td)
+325,META,2017-09-21,merged_with_prior(<= 10td)
+72,META,2017-10-17,merged_with_prior(<= 10td)
+161,META,2019-04-03,merged_with_prior(<= 10td)
+122,META,2020-01-29,merged_with_prior(<= 10td)
+331,META,2020-08-05,merged_with_prior(<= 10td)
+84,META,2020-10-09,merged_with_prior(<= 10td)
+220,META,2020-11-26,merged_with_prior(<= 10td)
+363,META,2021-01-27,merged_with_prior(<= 10td)
+142,META,2021-02-11,merged_with_prior(<= 10td)
+362,META,2021-07-20,merged_with_prior(<= 10td)
+164,META,2021-09-15,merged_with_prior(<= 10td)
+534,META,2021-11-15,merged_with_prior(<= 10td)
+846,META,2021-11-15,merged_with_prior(<= 10td)
+278,META,2022-08-08,merged_with_prior(<= 10td)
+416,META,2022-12-01,merged_with_prior(<= 10td)
+419,META,2022-12-01,merged_with_prior(<= 10td)
+580,META,2023-06-12,merged_with_prior(<= 10td)
+710,META,2024-04-15,merged_with_prior(<= 10td)
+700,META,2024-04-17,merged_with_prior(<= 10td)
+696,META,2024-04-28,merged_with_prior(<= 10td)
+803,META,2024-05-14,merged_with_prior(<= 10td)
+788,META,2024-06-20,merged_with_prior(<= 10td)
+997,META,2025-01-09,merged_with_prior(<= 10td)
+1247,META,2025-04-28,merged_with_prior(<= 10td)
+1101,META,2025-05-01,merged_with_prior(<= 10td)
+1219,META,2025-07-24,merged_with_prior(<= 10td)
+1200,META,2025-08-28,merged_with_prior(<= 10td)
+1224,META,2025-10-01,merged_with_prior(<= 10td)
+470,MSFT,2023-02-08,merged_with_prior(<= 10td)
+473,MSFT,2023-02-10,merged_with_prior(<= 10td)
+504,MSFT,2023-02-14,merged_with_prior(<= 10td)
+511,MSFT,2023-02-14,merged_with_prior(<= 10td)
+477,MSFT,2023-02-16,merged_with_prior(<= 10td)
+503,MSFT,2023-02-16,merged_with_prior(<= 10td)
+773,MSFT,2024-08-21,merged_with_prior(<= 10td)
+1575,MSFT,2026-01-21,merged_with_prior(<= 10td)
+445,RTX,2004-05-20,merged_with_prior(<= 10td)
+294,TSLA,2018-05-25,merged_with_prior(<= 10td)
+323,TSLA,2018-05-29,merged_with_prior(<= 10td)
+105,TSLA,2021-07-05,merged_with_prior(<= 10td)
+208,TSLA,2021-11-15,merged_with_prior(<= 10td)
+153,TSLA,2022-01-18,merged_with_prior(<= 10td)
+291,TSLA,2022-08-05,merged_with_prior(<= 10td)
+638,TSLA,2022-11-11,merged_with_prior(<= 10td)
+436,TSLA,2022-12-29,merged_with_prior(<= 10td)
+1622,WMT,2026-07-06,merged_with_prior(<= 10td)
+892,AAPL,2024-08-05,earnings_within_5td
+528,AMZN,2011-04-25,earnings_within_5td
+114,AMZN,2018-07-26,earnings_within_5td
+139,AMZN,2021-01-26,earnings_within_5td
+156,AMZN,2022-02-04,earnings_within_5td
+1158,AMZN,2025-07-24,earnings_within_5td
+3,BA,2018-10-30,earnings_within_5td
+716,BKD,2024-04-01,earnings_within_5td
+459,GM,2023-01-30,earnings_within_5td
+14,GOOGL,2017-10-26,earnings_within_5td
+229,GOOGL,2018-04-24,earnings_within_5td
+281,GOOGL,2019-02-04,earnings_within_5td
+177,GOOGL,2022-04-19,earnings_within_5td
+372,GOOGL,2022-07-22,earnings_within_5td
+467,GOOGL,2023-02-08,earnings_within_5td
+1546,GOOGL,2023-07-27,earnings_within_5td
+1361,GOOGL,2026-01-29,earnings_within_5td
+225,IBM,2018-07-25,earnings_within_5td
+415,META,2020-07-29,earnings_within_5td
+82,META,2020-10-22,earnings_within_5td
+129,META,2021-10-18,earnings_within_5td
+393,META,2022-07-28,earnings_within_5td
+576,META,2023-10-24,earnings_within_5td
+712,META,2024-04-26,earnings_within_5td
+758,META,2024-07-31,earnings_within_5td
+1040,META,2025-04-26,earnings_within_5td
+188,MSFT,2019-01-30,earnings_within_5td
+612,MSFT,2023-10-31,earnings_within_5td
+1176,MSFT,2025-08-01,earnings_within_5td
+1222,OPRT,2022-08-10,earnings_within_5td
+170,TGT,2012-02-16,earnings_within_5td
+20,TSLA,2016-06-30,earnings_within_5td
+30,TSLA,2016-10-08,earnings_within_5td
+321,TSLA,2018-03-24,earnings_within_5td
+1686,TSLA,2019-04-26,earnings_within_5td
+319,TSLA,2019-12-30,earnings_within_5td
+232,TSLA,2020-04-30,earnings_within_5td
+97,TSLA,2020-10-26,earnings_within_5td
+337,TSLA,2021-04-18,earnings_within_5td
+145,TSLA,2021-07-23,earnings_within_5td
+209,TSLA,2022-01-10,earnings_within_5td
+178,TSLA,2022-04-22,earnings_within_5td
+271,TSLA,2022-07-24,earnings_within_5td
+525,TSLA,2023-04-21,earnings_within_5td
+560,TSLA,2023-06-26,earnings_within_5td
+620,TSLA,2023-12-26,earnings_within_5td
+711,TSLA,2024-04-26,earnings_within_5td
+889,TSLA,2025-01-07,earnings_within_5td
+378,TSPH,2022-08-01,earnings_within_5td
+418,UBER,2021-04-02,earnings_within_5td
+265,UBER,2022-07-28,earnings_within_5td
+489,WDAY,2023-02-23,earnings_within_5td
+364,WMT,2020-05-19,earnings_within_5td
+149,ZG,2021-11-02,earnings_within_5td

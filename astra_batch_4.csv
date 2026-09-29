@@ -1,0 +1,52 @@
+incident_id,ticker,company,title,aiid_incident_date,earliest_report_date,date_flag,incident_url
+378,TSPH,TuSimple Holdings Inc.,TuSimple Truck Steered into Interstate Freeway Divide,2022-04-06,2022-08-01,,https://incidentdatabase.ai/cite/378
+380,META,"Meta Platforms, Inc.",Facebook's Auto-Generated Targeting Ad Categories Contained Anti-Semitic Options,2014-03-04,2017-09-14,,https://incidentdatabase.ai/cite/380
+382,META,"Meta Platforms, Inc.",Instagram's Exposure of Harmful Content Allegedly Contributed to Teenage Girl's Suicide,2017-11-21,2022-10-01,,https://incidentdatabase.ai/cite/382
+383,GOOGL,Alphabet Inc.,Google Home Mini Speaker Reportedly Read N-Word in Song Title Aloud,2022-10-04,2022-10-04,,https://incidentdatabase.ai/cite/383
+387,ORCL,ORACLE CORP,Oracle's Algorithmic Data Processing System Alleged as Unlawful and Violating Privacy Rights,2014-12-22,2022-08-22,,https://incidentdatabase.ai/cite/387
+389,GM,General Motors Co,Cruise Autonomous Car Blocked Fire Truck Responding to Emergency,2022-04-05,2022-05-27,,https://incidentdatabase.ai/cite/389
+393,META,"Meta Platforms, Inc.",Facebook AI-Supported Moderation for Ads Failed to Detect Violating Content,2021-12-08,2022-07-28,,https://incidentdatabase.ai/cite/393
+394,GOOGL,Alphabet Inc.,Social Media's Automated Word-Flagging without Context Shifted Content Creators' Language Use,2017-03-15,2022-04-08,twitter/x,https://incidentdatabase.ai/cite/394
+396,UBER,"Uber Technologies, Inc",Transgender Uber Drivers Mistakenly Kicked off App for Appearance Change during Gender Transitions,2018-07-04,2018-08-08,,https://incidentdatabase.ai/cite/396
+398,TSLA,"Tesla, Inc.",Tesla Autopilot Misidentified On-Road Horse-Drawn Carriage,2022-08-15,2020-08-20,before_incident,https://incidentdatabase.ai/cite/398
+399,META,"Meta Platforms, Inc.",Meta AI's Scientific Paper Generator Reportedly Produced Inaccurate and Harmful Content,2022-11-15,2022-11-18,,https://incidentdatabase.ai/cite/399
+401,GOOGL,Alphabet Inc.,"Kannada Insulted by Google's Featured Answer as ""Ugliest Language in India""",2021-06-03,2021-06-03,,https://incidentdatabase.ai/cite/401
+403,GOOGL,Alphabet Inc.,Gmail’s Inbox Sorting System Reportedly Reduced Visibility of Political Emails and Campaign Calls-to-Action,2018-01-15,2020-02-26,,https://incidentdatabase.ai/cite/403
+407,UBER,"Uber Technologies, Inc",Uber's Surge Pricing Reportedly Offered Disproportionate Service Quality along Racial Lines,2016-02-03,2016-03-10,twitter/x,https://incidentdatabase.ai/cite/407
+408,META,"Meta Platforms, Inc.",Facebook Reportedly Outed Sex Workers through Friend Recommendations,2017-04-15,2017-10-11,,https://incidentdatabase.ai/cite/408
+414,META,"Meta Platforms, Inc.",Facebook Gave Vulgar English Translation of Chinese President's Name,2020-01-18,2020-01-18,,https://incidentdatabase.ai/cite/414
+415,META,"Meta Platforms, Inc.",Facebook Provided Offensive Translation for King of Thailand's Birthday Ceremony,2020-07-28,2020-07-29,,https://incidentdatabase.ai/cite/415
+416,META,"Meta Platforms, Inc.",Facebook's Job Ad Algorithm Allegedly Biased against Older and Female Workers,2022-12-01,2022-12-01,twitter/x,https://incidentdatabase.ai/cite/416
+417,META,"Meta Platforms, Inc.",Facebook Feed Algorithms Exposed Low Digitally Skilled Users to More Disturbing Content,2019-11-15,2021-11-03,,https://incidentdatabase.ai/cite/417
+418,UBER,"Uber Technologies, Inc",Uber Locked Indian Drivers out of Accounts Allegedly Due to Facial Recognition Fails,2017-03-13,2021-04-02,,https://incidentdatabase.ai/cite/418
+419,META,"Meta Platforms, Inc.",Facebook's Automated Moderation Allowed Ads Threatening Election Workers to be Posted,2022-12-01,2022-12-01,,https://incidentdatabase.ai/cite/419
+426,XPEV,XPENG INC.,XPeng P7 Crashed into Truck in Shangdong While on Automatic Navigation Assisted Driving,2022-09-23,2022-09-26,,https://incidentdatabase.ai/cite/426
+427,GM,General Motors Co,Cruise Taxis' Sudden Braking Allegedly Put People at Risk,2022-03-15,2022-12-12,pdf,https://incidentdatabase.ai/cite/427
+428,HSBC,HSBC HOLDINGS PLC,BBC Reporter's Twin Brother Cracked HSBC's Voice ID Authentication,2017-05-19,2017-05-19,,https://incidentdatabase.ai/cite/428
+430,MSGE,Madison Square Garden Entertainment Corp.,Lawyers Denied Entry to Performance Venue by Facial Recognition,2022-12-19,2022-12-19,,https://incidentdatabase.ai/cite/430
+432,GE,GENERAL ELECTRIC CO,Southwest Airlines Crew Scheduling Solver Degenerates Flight Network,2022-12-21,2022-12-28,,https://incidentdatabase.ai/cite/432
+432,LUV,SOUTHWEST AIRLINES CO,Southwest Airlines Crew Scheduling Solver Degenerates Flight Network,2022-12-21,2022-12-28,,https://incidentdatabase.ai/cite/432
+434,TSLA,"Tesla, Inc.",Sudden Braking by Tesla Allegedly on Self-Driving Mode Caused Multi-Car Pileup in Tunnel,2022-11-24,2022-12-21,,https://incidentdatabase.ai/cite/434
+435,CPNG,"Coupang, Inc.",Coupang Allegedly Tweaked Search Algorithms to Boost Own Products,2021-07-04,2021-07-04,,https://incidentdatabase.ai/cite/435
+436,TSLA,"Tesla, Inc.",Tesla Driver Put Car on Autopilot Before Falling Asleep in Germany,2022-12-28,2022-12-29,,https://incidentdatabase.ai/cite/436
+437,AMZN,AMAZON COM INC,Amazon India Allegedly Rigged Search Results to Promote Own Products,2016-12-31,2021-10-13,,https://incidentdatabase.ai/cite/437
+444,LMT,LOCKHEED MARTIN CORP,"US Air Force's Patriot Missile Mistakenly Launched at Ally Fighter Jet, Killing Two",2003-03-22,2004-05-15,,https://incidentdatabase.ai/cite/444
+444,RTX,RTX Corp,"US Air Force's Patriot Missile Mistakenly Launched at Ally Fighter Jet, Killing Two",2003-03-22,2004-05-15,,https://incidentdatabase.ai/cite/444
+445,LMT,LOCKHEED MARTIN CORP,"Patriot Missile System Misclassified US Navy Aircraft, Killing Pilot Upon Approval to Fire",2003-04-02,2004-05-20,,https://incidentdatabase.ai/cite/445
+445,RTX,RTX Corp,"Patriot Missile System Misclassified US Navy Aircraft, Killing Pilot Upon Approval to Fire",2003-04-02,2004-05-20,,https://incidentdatabase.ai/cite/445
+446,SSTI,"SOUNDTHINKING, INC.",ShotSpotter Failed to Alert Authorities of Mass Shooting in North Carolina,2023-01-01,2023-01-03,,https://incidentdatabase.ai/cite/446
+447,META,"Meta Platforms, Inc.","Footballer's ""X-Rated"" Comment Created by Instagram's Mistranslation",2022-12-19,2022-12-19,,https://incidentdatabase.ai/cite/447
+454,MSFT,MICROSOFT CORP,Emotion Detection Models Showed Disparate Performance along Racial Lines,2018-11-09,2018-12-06,ssrn,https://incidentdatabase.ai/cite/454
+465,GOOGL,Alphabet Inc.,Private Medical Photos Were Reportedly Found in LAION-5B AI Training Dataset,2022-03-03,2022-09-21,,https://incidentdatabase.ai/cite/465
+467,GOOGL,Alphabet Inc.,Google's Bard Shared Factually Inaccurate Info in Promo Video,2023-02-07,2023-02-08,,https://incidentdatabase.ai/cite/467
+469,AMZN,AMAZON COM INC,Automated Adult Content Detection Tools Showed Bias against Women Bodies,2006-02-25,2019-10-17,,https://incidentdatabase.ai/cite/469
+469,GOOGL,Alphabet Inc.,Automated Adult Content Detection Tools Showed Bias against Women Bodies,2006-02-25,2019-10-17,,https://incidentdatabase.ai/cite/469
+469,MSFT,MICROSOFT CORP,Automated Adult Content Detection Tools Showed Bias against Women Bodies,2006-02-25,2019-10-17,,https://incidentdatabase.ai/cite/469
+470,MSFT,MICROSOFT CORP,Bing Chat Response Cited ChatGPT Disinformation Example,2023-02-08,2023-02-08,,https://incidentdatabase.ai/cite/470
+471,META,"Meta Platforms, Inc.",Facebook Allegedly Failed to Police Hate Speech Content That Contributed to Ethnic Violence in Ethiopia,2019-06-22,2019-08-07,,https://incidentdatabase.ai/cite/471
+475,MCD,MCDONALDS CORP,McDonald's Reportedly Ends IBM Partnership After AI Drive-Thru Ordering Errors at U.S. Locations,2021-06-02,2023-02-13,twitter/x,https://incidentdatabase.ai/cite/475
+476,GOOGL,Alphabet Inc.,YouTube Recommendations Allegedly Promoted Radicalizing Material Contributing to Terrorist Acts,2015-11-13,2022-10-03,,https://incidentdatabase.ai/cite/476
+477,MSFT,MICROSOFT CORP,Bing Chat Tentatively Hallucinated in Extended Conversations with Users,2023-02-14,2023-02-16,twitter/x,https://incidentdatabase.ai/cite/477
+478,TSLA,"Tesla, Inc.","Tesla FSD Reportedly Increased Crash Risk, Prompting Recall",2016-09-09,2023-02-16,twitter/x,https://incidentdatabase.ai/cite/478
+489,WDAY,"Workday, Inc.",Workday's AI Tools Allegedly Enabled Employers to Discriminate against Applicants of Protected Groups,2019-06-03,2023-02-23,,https://incidentdatabase.ai/cite/489
+501,UNH,UNITEDHEALTH GROUP INC,Length of Stay False Diagnosis Cut Off Insurer's Payment for Treatment of Elderly Woman,2019-06-03,2023-03-13,,https://incidentdatabase.ai/cite/501

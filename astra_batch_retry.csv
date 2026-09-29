@@ -1,0 +1,16 @@
+incident_id,ticker,company,title,aiid_incident_date,earliest_report_date,date_flag,incident_url
+511,MSFT,MICROSOFT CORP,Microsoft's Bing Failed to Fetch Movie Showtimes Results Due to Date Confusion,2023-02-12,2023-02-13,twitter/x,https://incidentdatabase.ai/cite/511
+533,TSLA,"Tesla, Inc.",Tesla FSD Misidentified Truck Hauling Traffic Lights as Trail of Traffic Lights,2021-06-02,2021-06-03,twitter/x,https://incidentdatabase.ai/cite/533
+539,SNAP,Snap Inc,Snapchat's My AI Reported for Lacking Protection for Children,2023-03-11,2023-05-11,twitter/x,https://incidentdatabase.ai/cite/539
+540,TSLA,"Tesla, Inc.","Tesla Failed to Yield to Detected Pedestrian on Crosswalk, Reportedly Violated Traffic Law",2023-05-15,2023-05-16,,https://incidentdatabase.ai/cite/540
+552,MSFT,MICROSOFT CORP,Bing Chat Solved CAPTCHAs with Image Analysis Feature Despite Safeguards,2023-06-22,2023-06-22,twitter/x,https://incidentdatabase.ai/cite/552
+556,AMZN,AMAZON COM INC,Amazon Allegedly Violated Children's Privacy through Default Voice Collection Settings,2018-05-10,2023-05-31,,https://incidentdatabase.ai/cite/556
+570,META,"Meta Platforms, Inc.",Facebook Messenger AI Stickers Generate Ethical and Content Moderation Concerns,2023-10-04,2023-10-04,,https://incidentdatabase.ai/cite/570
+591,CI,Cigna Group,Cigna Algorithm PXDX Allegedly Rejected Thousands of Patient Claims En Masse in Breach of California Law,2023-07-24,2023-07-24,,https://incidentdatabase.ai/cite/591
+596,GM,General Motors Co,Cruise's Autonomous Vehicles Allegedly Engaging in Risky Behavior Near Pedestrians,2023-10-17,2023-10-17,,https://incidentdatabase.ai/cite/596
+614,GOOGL,Alphabet Inc.,Google Bard Allegedly Generates False Allegations Against Consulting Firms Used in Research Presented in Australian Parl,2023-11-02,2023-11-02,,https://incidentdatabase.ai/cite/614
+616,AREN,"Arena Group Holdings, Inc.",Sports Illustrated Is Alleged to Have Used AI to Invent Fake Authors and Their Articles,2023-11-27,2023-11-27,,https://incidentdatabase.ai/cite/616
+633,ADBE,ADOBE INC.,Nine Network's AI Alters Lawmaker Georgie Purcell's Image Inappropriately,2024-01-28,2024-01-30,,https://incidentdatabase.ai/cite/633
+640,GOOGL,Alphabet Inc.,Waymo Software Flaw Reportedly Leads to Double Collision with Tow Truck,2023-12-11,2024-02-13,,https://incidentdatabase.ai/cite/640
+1523,META,"Meta Platforms, Inc.",Reported AI-Generated Videos Placed Kosovo Parliamentary Candidates in Purportedly Fabricated Campaign Scenes,2026-05-14,2026-05-29,,https://incidentdatabase.ai/cite/1523
+1618,UDR,"UDR, Inc.","Apartment Owner and Manager UDR Allegedly Used RealPage Algorithms to Set San Diego Rents in Keller v. UDR, Inc.",2026-06-21,2026-07-02,,https://incidentdatabase.ai/cite/1618

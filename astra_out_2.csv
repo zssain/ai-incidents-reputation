@@ -1,0 +1,53 @@
+incident_id,ticker,responsibility_type,correct_ticker,duplicate_of,corrected_event_date,keep,reason
+122,META,1,Y,,,Y,Facebook's facial tagging system allegedly stored users' biometric data without consent.
+125,AMZN,1,Y,,,Y,Amazon's robotic warehouses reportedly imposed work rates associated with higher serious-injury rates.
+127,MSFT,1,Y,,2020-06-09,Y,MSN's automated editor confused two Little Mix singers; the error was reported on 2020-06-09 rather than the earlier layoffs.
+128,TSLA,1,Y,,,Y,Tesla Autopilot struck a raised curb and damaged Eric Horvitz's vehicle.
+129,META,1,Y,,,Y,Facebook's automated moderation reportedly detected only a small fraction of prohibited violent and hateful content.
+139,AMZN,1,Y,,2021-01-26,Y,Amazon's recommendations amplified vaccine misinformation; news coverage appeared on 2021-01-26 rather than the preprint date.
+141,META,1,Y,,2021-02-09,Y,Police tried to trigger Instagram's live copyright filter with music; Vice reported the attempt on 2021-02-09.
+142,META,1,Y,,,Y,Facebook's advertising filters rejected adaptive clothing as prohibited medical products.
+143,META,3,Y,,,N,A BIRN investigation compared Facebook and Twitter's failures to moderate abusive Balkan-language content.
+144,GOOGL,1,Y,,,Y,YouTube suspended a chess channel after apparently misinterpreting discussion of black and white pieces.
+149,ZG,1,Y,,,Y,Zillow's home-valuation and purchasing forecasts contributed to losses and the closure of Zillow Offers.
+151,PONY,1,Y,,,Y,Pony.ai's autonomous vehicle hit a center divider and traffic sign.
+153,TSLA,1,Y,,,Y,"A Tesla using Autopilot ran a red light in Gardena and collided with another vehicle, killing two people."
+155,GOOGL,1,Y,,,Y,Google Maps routed Tahoe travelers toward unsafe snow-covered roads.
+159,TSLA,1,Y,,,Y,Researchers manipulated Tesla's lane-recognition system with adversarial markings during a single-product security test.
+160,AMZN,1,Y,,2021-12-28,Y,Alexa suggested a dangerous electrical-outlet challenge to a child; news reporting dates to 2021-12-28 rather than the tweet.
+161,META,1,Y,,,Y,Researchers found Facebook's deployed ad-delivery optimization produced racially and gender-skewed audiences.
+163,META,1,Y,,2021-11-21,Y,Facebook's race-blind hate filters disproportionately failed minorities; the specific racial-bias investigation appeared on 2021-11-21.
+168,GOOGL,3,N,,2022-03-02,N,General recommender research tested public datasets rather than this firm's product; news coverage appeared on 2022-03-02 rather than arXiv.
+168,META,3,N,,2022-03-02,N,General recommender research tested public datasets rather than this firm's product; news coverage appeared on 2022-03-02 rather than arXiv.
+168,MSFT,3,N,,2022-03-02,N,General recommender research tested public datasets rather than this firm's product; news coverage appeared on 2022-03-02 rather than arXiv.
+168,NFLX,3,N,,2022-03-02,N,General recommender research tested public datasets rather than this firm's product; news coverage appeared on 2022-03-02 rather than arXiv.
+169,META,1,Y,,,Y,Facebook's moderation failures allowed anti-Muslim and anti-Rohingya incitement to circulate in Myanmar.
+170,TGT,1,Y,,,Y,Target's purchasing-pattern model inferred a teenager's pregnancy and exposed it through mailed promotions.
+175,GM,1,Y,,,Y,Cruise's driverless taxi moved after police stopped it for driving without headlights.
+178,TSLA,1,Y,,,Y,Tesla's Smart Summon drove a vehicle into a parked aircraft.
+181,GM,1,Y,,,Y,Cruise's autonomous vehicle was hit by a BMW making an improper turn and was not at fault.
+182,GM,1,Y,,,Y,"A human-operated Cruise vehicle rear-ended an autonomous Cruise vehicle, whose automated system was not at fault."
+183,ABNB,1,Y,,,Y,Airbnb's opaque trustworthiness-scoring system allegedly profiled customers using personal and social information.
+187,TSLA,1,Y,,,Y,A Tesla running Full Self-Driving struck a bollard during John Bernal's recorded test.
+188,MSFT,1,Y,,,Y,Researchers identified methodological defects in Microsoft's teenage-pregnancy prediction system deployed by Salta authorities.
+189,PATH,1,N,,,N,"The DWP operated the disputed fraud-scoring system, but the reviewed evidence does not establish UiPath's involvement."
+193,TGT,1,Y,,,Y,Target's security system raised breach alerts that staff ignored; the alerting system was involved but not at fault for that failure to respond.
+203,UBER,1,Y,,,Y,Uber's pay algorithm made driver compensation opaque and disconnected it from passenger fares.
+204,ZH,1,Y,,,Y,UNCERTAIN: Zhihu was alleged to deploy Sangfor's employee-resignation prediction system but denied doing so.
+208,TSLA,1,Y,,,Y,"Tesla Autopilot reportedly braked unexpectedly without obstacles, creating collision risks."
+209,TSLA,1,Y,,,Y,Tesla's driving software allowed rolling stops at intersections instead of stopping fully.
+212,XPEV,1,Y,,,Y,Xpeng collected customers' facial images in its stores without consent.
+213,META,1,Y,,,Y,A study of Facebook's own ad platform found discriminatory delivery of political advertisements.
+220,META,1,Y,,,Y,Facebook's automated advertising enforcement wrongly blocked legitimate small-business advertisers.
+221,TSLA,1,Y,,,Y,A Tesla reportedly using Autopilot struck a maintenance truck before a subsequent BMW collision killed a worker.
+225,IBM,1,Y,,,Y,IBM Watson for Oncology reportedly recommended unsafe or incorrect cancer treatments.
+227,GOOGL,1,Y,,,Y,Waze navigation reportedly directed a driver into Lake Champlain.
+228,AAPL,1,Y,,,Y,Apple Maps routed skiers onto an unsafe winter road.
+229,GOOGL,1,Y,,,Y,YouTube's moderation failed to remove Cambodian videos using purported bestiality thumbnails.
+230,TSLA,1,Y,,,Y,Jeremy Banner died when his Tesla Model 3 using Autopilot struck a tractor-trailer in Florida.
+231,TSLA,1,Y,,,Y,"A Tesla reportedly using Autopilot struck a street-cleaning vehicle in China, killing its driver."
+232,TSLA,1,Y,,,Y,A Tesla reportedly using Autopilot struck and killed a motorcyclist on a Japanese expressway.
+234,GOOGL,1,Y,,,Y,"Waze diverted beach traffic through Los Gatos neighborhoods, allegedly obstructing residents' only emergency escape route."
+251,AMZN,1,Y,,2019-09-16,Y,Amazon reportedly changed search rankings to favor profitability; the specific change was reported on 2019-09-16.
+252,AXON,1,Y,,,Y,UNCERTAIN: Axon's proposed Taser-equipped drone system prompted ethics-board resignations although the system had not been deployed.
+253,GM,1,Y,,,Y,UNCERTAIN: Cruise fleet connection failures blocked San Francisco traffic; the earliest qualifying news date remains unresolved.

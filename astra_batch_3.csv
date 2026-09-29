@@ -1,0 +1,52 @@
+incident_id,ticker,company,title,aiid_incident_date,earliest_report_date,date_flag,incident_url
+254,GOOGL,Alphabet Inc.,"Google's Face Grouping Allegedly Collected and Analyzed Users' Facial Structure without Consent, Violated BIPA",2015-05-01,2022-06-06,,https://incidentdatabase.ai/cite/254
+256,SSTI,"SOUNDTHINKING, INC.",DUI Arrest Case Allegedly Based Only on ShotSpotter's Alert,2021-11-07,2022-07-26,,https://incidentdatabase.ai/cite/256
+257,SSTI,"SOUNDTHINKING, INC.",Police Reportedly Deployed ShotSpotter Sensors Disproportionately in Neighborhoods of Color,2012-05-04,2021-05-03,,https://incidentdatabase.ai/cite/257
+263,GOOGL,Alphabet Inc.,YouTube Recommendations Implicated in Political Radicalization of User,2015-09-01,2019-06-08,,https://incidentdatabase.ai/cite/263
+265,UBER,"Uber Technologies, Inc",Black Uber Eats Driver Allegedly Subjected to Excessive Photo Checks and Dismissed via FRT Results,2021-04-01,2022-07-28,,https://incidentdatabase.ai/cite/265
+268,GOOGL,Alphabet Inc.,Permanent Removal of Social Media Content via Automated Tools Allegedly Prevented Investigative Efforts,2020-03-16,2020-06-19,,https://incidentdatabase.ai/cite/268
+268,META,"Meta Platforms, Inc.",Permanent Removal of Social Media Content via Automated Tools Allegedly Prevented Investigative Efforts,2020-03-16,2020-06-19,,https://incidentdatabase.ai/cite/268
+270,AAPL,Apple Inc.,"Apple Tweaked App Store Ranking Algorithms, Allegedly Resulted in Demotion of Local Apps in China",2011-04-18,2012-03-28,,https://incidentdatabase.ai/cite/270
+272,GRAB,Grab Holdings Ltd,"Grab Tweaked Matchmaking Algorithm, Providing Preferential Treatment to Drivers Registered with Affiliated Car Rental Se",2019-10-08,2019-10-13,,https://incidentdatabase.ai/cite/272
+275,META,"Meta Platforms, Inc.",Facebook’s Moderation Algorithm Banned Users for Historical Evidence of Slavery,2020-06-11,2020-06-13,,https://incidentdatabase.ai/cite/275
+278,META,"Meta Platforms, Inc.",Meta’s BlenderBot 3 Chatbot Demo Made Offensive Antisemitic Comments,2022-08-07,2022-08-07,twitter/x,https://incidentdatabase.ai/cite/278
+281,GOOGL,Alphabet Inc.,YouTube's Algorithms Failed to Remove Violating Content Related to Suicide and Self-Harm,2019-02-04,2019-02-04,,https://incidentdatabase.ai/cite/281
+283,META,"Meta Platforms, Inc.",Facebook’s Automated Content Moderation Tool Flagged a Post Containing Parts of the Declaration of Independence as Hate ,2018-07-02,2018-07-05,,https://incidentdatabase.ai/cite/283
+284,META,"Meta Platforms, Inc.",Facebook’s Automated Removal of Content Featuring Nudity-Containing Artworks Denounced as Censorship,2018-05-01,2016-02-12,before_incident,https://incidentdatabase.ai/cite/284
+285,GOOGL,Alphabet Inc.,Google Lens’s Camera-Based Translation Feature Provided an Offensive Mistranslation of a Book Title in Korean,2022-07-18,2022-08-10,,https://incidentdatabase.ai/cite/285
+291,TSLA,"Tesla, Inc.",Tesla Allegedly Misled Customers about Autopilot and FSD Capabilities,2021-05-28,2022-08-05,,https://incidentdatabase.ai/cite/291
+292,AAPL,Apple Inc.,Apple’s AVs Reportedly Struggled to Navigate Streets in Silicon Valley Test Drives,2021-09-01,2022-07-11,,https://incidentdatabase.ai/cite/292
+303,GOOGL,Alphabet Inc.,Google’s Automated Child Abuse Detection Wrongfully Flagged a Parent’s Naked Photo of His Child,2022-08-21,2022-08-21,,https://incidentdatabase.ai/cite/303
+305,GOOGL,Alphabet Inc.,YouTube’s Recommendation Algorithm Allegedly Promoted Climate Misinformation Content,2019-02-01,2020-01-16,,https://incidentdatabase.ai/cite/305
+306,TSLA,"Tesla, Inc.",Tesla on Autopilot TACC Crashed into Van on European Highway,2016-05-26,2016-05-26,twitter/x,https://incidentdatabase.ai/cite/306
+311,GOOGL,Alphabet Inc.,YouTube Auto-Moderation Reportedly Banned Women of Sex Tech Conference,2020-05-02,2020-05-08,,https://incidentdatabase.ai/cite/311
+313,META,"Meta Platforms, Inc.",BlenderBot 3 Cited Dutch Politician as a Terrorist,2022-08-25,2022-08-25,twitter/x,https://incidentdatabase.ai/cite/313
+316,META,"Meta Platforms, Inc.",Facebook Ad-Approval Algorithm Allegedly Missed Fraudulent Ads via Simple URL Checks,2016-06-02,2016-06-02,blog,https://incidentdatabase.ai/cite/316
+317,META,"Meta Platforms, Inc.",Bug in Facebook’s Anti-Spam Filter Allegedly Blocked Legitimate Posts about COVID-19,2020-03-17,2020-03-18,,https://incidentdatabase.ai/cite/317
+318,META,"Meta Platforms, Inc.",Facebook Recommended Military Gear Ads Despite Pause on Weapons Accessories Ads,2021-01-13,2021-01-14,,https://incidentdatabase.ai/cite/318
+319,TSLA,"Tesla, Inc.",Tesla on Autopilot Fatally Crashed into Parked Fire Truck in Indiana,2019-12-29,2019-12-30,,https://incidentdatabase.ai/cite/319
+322,TSLA,"Tesla, Inc.",Tesla Model 3 Crashed into Police Patrol Car on Connecticut Highway,2019-12-07,2019-12-07,,https://incidentdatabase.ai/cite/322
+323,TSLA,"Tesla, Inc.",Tesla on Autopilot Crashed into Parked Police Car in California,2018-05-29,2018-05-29,,https://incidentdatabase.ai/cite/323
+325,META,"Meta Platforms, Inc.",Offensive Instagram User Content Displayed as Facebook Ad,2017-09-21,2017-09-21,twitter/x,https://incidentdatabase.ai/cite/325
+326,META,"Meta Platforms, Inc.",Facebook Automated Year-in-Review Highlights Showed Users Painful Memories,2014-12-09,2014-12-24,,https://incidentdatabase.ai/cite/326
+327,META,"Meta Platforms, Inc.",Facebook’s On-This-Day Feature Mistakenly Showed Painful Memories to Users,2015-03-24,2015-04-02,,https://incidentdatabase.ai/cite/327
+329,AMZN,AMAZON COM INC,Amazon Reportedly Recommends Explosive-Producing Ingredients as 'Frequently Bought Together' Items for Chemicals,2017-09-18,2017-09-18,,https://incidentdatabase.ai/cite/329
+330,AMZN,AMAZON COM INC,“Amazon’s Choice” Algorithm Failed to Recommend Functional Products and Prone to Review Manipulation,2016-12-15,2019-06-15,,https://incidentdatabase.ai/cite/330
+331,META,"Meta Platforms, Inc.",Bug in Instagram’s “Related Hashtags” Algorithm Allegedly Caused Disproportionate Treatment of Political Hashtags,2020-08-05,2020-08-05,,https://incidentdatabase.ai/cite/331
+333,TSLA,"Tesla, Inc.",Tesla on Autopilot Crashed Parked Michigan Police Car on Interstate,2021-03-17,2021-03-17,,https://incidentdatabase.ai/cite/333
+343,META,"Meta Platforms, Inc.","Facebook, Instagram, and Twitter Failed to Proactively Remove Targeted Racist Remarks via Automated Systems",2021-07-11,2021-07-14,twitter/x,https://incidentdatabase.ai/cite/343
+347,GOOGL,Alphabet Inc.,"Waymo Self-Driving Taxi Reportedly Behaved Unexpectedly, Driving away from Support Crew",2021-05-06,2021-05-13,,https://incidentdatabase.ai/cite/347
+348,GOOGL,Alphabet Inc.,YouTube Recommendation Reportedly Pushed Election Fraud Content to Skeptics Disproportionately,2020-11-01,2022-08-31,,https://incidentdatabase.ai/cite/348
+349,EVLV,"Evolv Technologies Holdings, Inc.","Evolv AI Weapons Detection System Allegedly Misrepresents Accuracy, Leading to School Security Gaps",2022-03-22,2022-08-26,,https://incidentdatabase.ai/cite/349
+350,SERV,Serve Robotics Inc. /DE/,Delivery Robot Rolled Through Crime Scene,2022-09-13,2022-09-14,,https://incidentdatabase.ai/cite/350
+353,TSLA,"Tesla, Inc.","Tesla on Autopilot Crashed into Trailer Truck in Florida, Killing Driver",2019-03-01,2019-08-02,,https://incidentdatabase.ai/cite/353
+355,UBER,"Uber Technologies, Inc",Uber Allegedly Wrongfully Accused Drivers of Fraud via Automated Systems,2018-07-07,2020-07-20,,https://incidentdatabase.ai/cite/355
+359,META,"Meta Platforms, Inc.","Facebook, Instagram, and Twitter Cited Errors in Automated Systems as Cause for Blocking pro-Palestinian Content on Isra",2021-05-23,2021-03-28,before_incident;twitter/x,https://incidentdatabase.ai/cite/359
+361,AMZN,AMAZON COM INC,Amazon Echo Mistakenly Recorded and Sent Private Conversation to Random Contact,2018-05-11,2018-05-24,,https://incidentdatabase.ai/cite/361
+362,META,"Meta Platforms, Inc.",Facebook's Automated Moderation Flagged Gardening Group's Language Use by Mistake,2021-07-20,2021-07-20,,https://incidentdatabase.ai/cite/362
+363,META,"Meta Platforms, Inc.",Facebook's Automated Moderation Mistakenly Flagged Landmark's Name as Offensive,2021-01-15,2021-01-27,,https://incidentdatabase.ai/cite/363
+364,WMT,Walmart Inc.,Walmart's Bagging-Detection False Positives Exposed Workers to Health Risk,2020-04-15,2020-05-19,twitter/x,https://incidentdatabase.ai/cite/364
+367,GOOGL,Alphabet Inc.,"iGPT, SimCLR Learned Biased Associations from Internet Training Data",2020-06-17,2021-01-29,,https://incidentdatabase.ai/cite/367
+370,GOOGL,Alphabet Inc.,Google Fined for Changing Shopping Algorithms in EU to Favor Own Service,2017-09-27,2021-11-10,,https://incidentdatabase.ai/cite/370
+372,GOOGL,Alphabet Inc.,Users Reported Security Issues with Google Pixel 6a's Fingerprint Unlocking,2022-07-22,2022-07-22,,https://incidentdatabase.ai/cite/372
+377,WB,WEIBO Corp,Weibo Model Had Difficulty Detecting Shifts in Censored Speech,2022-10-11,2022-10-11,,https://incidentdatabase.ai/cite/377

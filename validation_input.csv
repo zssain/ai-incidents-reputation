@@ -1,0 +1,51 @@
+incident_id,ticker,company,title,aiid_incident_date,earliest_report_date,date_flag,incident_url
+15,AMZN,AMAZON COM INC,Amazon Censors Gay Books,2008-05-23,2008-05-23,,https://incidentdatabase.ai/cite/15
+77,KSCP,"Knightscope, Inc.",Knightscope's Park Patrol Robot Ignored Bystander Pressing Emergency Button to Alert Police about Fight,2019-10-04,2019-10-04,,https://incidentdatabase.ai/cite/77
+125,AMZN,AMAZON COM INC,Amazon’s Robotic Fulfillment Centers Have Higher Serious Injury Rates,2020-09-29,2020-09-29,,https://incidentdatabase.ai/cite/125
+144,GOOGL,Alphabet Inc.,YouTube's AI Mistakenly Banned Chess Channel over Chess Language Misinterpretation,2020-06-28,2021-02-18,twitter/x,https://incidentdatabase.ai/cite/144
+168,GOOGL,Alphabet Inc.,"Collaborative Filtering Prone to Popularity Bias, Resulting in Overrepresentation of Popular Items in the Recommendation",2022-03-01,2022-03-01,arxiv,https://incidentdatabase.ai/cite/168
+213,META,"Meta Platforms, Inc.",Facebook’s Political Ad Detection Reportedly Showed High and Geographically Uneven Error Rates,2020-07-01,2021-12-09,,https://incidentdatabase.ai/cite/213
+228,AAPL,Apple Inc.,Apple Maps Allegedly Directed Ski Trip Couple Onto Unpaved Road in the Mountains,2019-02-01,2019-02-22,,https://incidentdatabase.ai/cite/228
+231,TSLA,"Tesla, Inc.",A Tesla Crashed into and Killed a Road Sweeper on a Highway in China,2016-01-20,2016-09-14,,https://incidentdatabase.ai/cite/231
+251,AMZN,AMAZON COM INC,Amazon Allegedly Tweaked Search Algorithm to Boost Its Own Products,2018-08-01,2016-09-20,before_incident,https://incidentdatabase.ai/cite/251
+253,GM,General Motors Co,"Cruise's Self-Driving Cars Allegedly Lost Connection to Their Server, Causing Traffic Blockages in San Francisco",2022-05-18,2022-05-22,twitter/x,https://incidentdatabase.ai/cite/253
+257,SSTI,"SOUNDTHINKING, INC.",Police Reportedly Deployed ShotSpotter Sensors Disproportionately in Neighborhoods of Color,2012-05-04,2021-05-03,,https://incidentdatabase.ai/cite/257
+265,UBER,"Uber Technologies, Inc",Black Uber Eats Driver Allegedly Subjected to Excessive Photo Checks and Dismissed via FRT Results,2021-04-01,2022-07-28,,https://incidentdatabase.ai/cite/265
+291,TSLA,"Tesla, Inc.",Tesla Allegedly Misled Customers about Autopilot and FSD Capabilities,2021-05-28,2022-08-05,,https://incidentdatabase.ai/cite/291
+292,AAPL,Apple Inc.,Apple’s AVs Reportedly Struggled to Navigate Streets in Silicon Valley Test Drives,2021-09-01,2022-07-11,,https://incidentdatabase.ai/cite/292
+303,GOOGL,Alphabet Inc.,Google’s Automated Child Abuse Detection Wrongfully Flagged a Parent’s Naked Photo of His Child,2022-08-21,2022-08-21,,https://incidentdatabase.ai/cite/303
+327,META,"Meta Platforms, Inc.",Facebook’s On-This-Day Feature Mistakenly Showed Painful Memories to Users,2015-03-24,2015-04-02,,https://incidentdatabase.ai/cite/327
+343,META,"Meta Platforms, Inc.","Facebook, Instagram, and Twitter Failed to Proactively Remove Targeted Racist Remarks via Automated Systems",2021-07-11,2021-07-14,twitter/x,https://incidentdatabase.ai/cite/343
+401,GOOGL,Alphabet Inc.,"Kannada Insulted by Google's Featured Answer as ""Ugliest Language in India""",2021-06-03,2021-06-03,,https://incidentdatabase.ai/cite/401
+408,META,"Meta Platforms, Inc.",Facebook Reportedly Outed Sex Workers through Friend Recommendations,2017-04-15,2017-10-11,,https://incidentdatabase.ai/cite/408
+417,META,"Meta Platforms, Inc.",Facebook Feed Algorithms Exposed Low Digitally Skilled Users to More Disturbing Content,2019-11-15,2021-11-03,,https://incidentdatabase.ai/cite/417
+427,GM,General Motors Co,Cruise Taxis' Sudden Braking Allegedly Put People at Risk,2022-03-15,2022-12-12,pdf,https://incidentdatabase.ai/cite/427
+445,LMT,LOCKHEED MARTIN CORP,"Patriot Missile System Misclassified US Navy Aircraft, Killing Pilot Upon Approval to Fire",2003-04-02,2004-05-20,,https://incidentdatabase.ai/cite/445
+469,MSFT,MICROSOFT CORP,Automated Adult Content Detection Tools Showed Bias against Women Bodies,2006-02-25,2019-10-17,,https://incidentdatabase.ai/cite/469
+470,MSFT,MICROSOFT CORP,Bing Chat Response Cited ChatGPT Disinformation Example,2023-02-08,2023-02-08,,https://incidentdatabase.ai/cite/470
+471,META,"Meta Platforms, Inc.",Facebook Allegedly Failed to Police Hate Speech Content That Contributed to Ethnic Violence in Ethiopia,2019-06-22,2019-08-07,,https://incidentdatabase.ai/cite/471
+525,TSLA,"Tesla, Inc.",Tesla Vehicle Running on Self-Driving Mode Crashes on City Streets,2019-07-06,2023-04-21,,https://incidentdatabase.ai/cite/525
+550,TSLA,"Tesla, Inc.",Tesla Allegedly on Autopilot Struck High School Student Exiting School Bus,2023-03-17,2023-03-17,,https://incidentdatabase.ai/cite/550
+553,GOOGL,Alphabet Inc.,Google's Overview Panel for Artist Edward Hopper Featured Image Generated in His Style by AI,2023-05-03,2023-05-03,twitter/x,https://incidentdatabase.ai/cite/553
+556,AMZN,AMAZON COM INC,Amazon Allegedly Violated Children's Privacy through Default Voice Collection Settings,2018-05-10,2023-05-31,,https://incidentdatabase.ai/cite/556
+609,GOOGL,Alphabet Inc.,Flawed AI in Google Search Reportedly Misinforms about Geography,2023-08-16,2023-11-06,,https://incidentdatabase.ai/cite/609
+614,GOOGL,Alphabet Inc.,Google Bard Allegedly Generates False Allegations Against Consulting Firms Used in Research Presented in Australian Parl,2023-11-02,2023-11-02,,https://incidentdatabase.ai/cite/614
+633,ADBE,ADOBE INC.,Nine Network's AI Alters Lawmaker Georgie Purcell's Image Inappropriately,2024-01-28,2024-01-30,,https://incidentdatabase.ai/cite/633
+640,GOOGL,Alphabet Inc.,Waymo Software Flaw Reportedly Leads to Double Collision with Tow Truck,2023-12-11,2024-02-13,,https://incidentdatabase.ai/cite/640
+711,TSLA,"Tesla, Inc.",NHTSA Opens New Probe into Tesla’s Autopilot Following More than a Dozen Fatal Accidents,2024-04-26,2024-04-26,,https://incidentdatabase.ai/cite/711
+750,META,"Meta Platforms, Inc.",AI Chatbots Reportedly Inaccurately Conveyed Real-Time Political News,2024-07-22,2024-07-22,twitter/x,https://incidentdatabase.ai/cite/750
+770,MSFT,MICROSOFT CORP,Microsoft Copilot Falsely Accuses Journalist Martin Bernklau of Crimes,2024-08-16,2024-08-20,,https://incidentdatabase.ai/cite/770
+796,META,"Meta Platforms, Inc.",Facebook's Content Moderation System Flagged and Removed Emergency Updates as Spam During Wildfires,2024-06-01,2024-09-10,twitter/x,https://incidentdatabase.ai/cite/796
+831,EVLV,"Evolv Technologies Holdings, Inc.",NYC Subway AI Weapons Scanners Yield High False Positive Rate and Detect No Guns in Month-Long Pilot Test,2024-10-23,2024-10-24,,https://incidentdatabase.ai/cite/831
+968,META,"Meta Platforms, Inc.","'Pravda' Network, Successor to 'Portal Kombat,' Allegedly Seeding AI Models with Kremlin Disinformation",2022-02-24,2024-02-12,,https://incidentdatabase.ai/cite/968
+1159,MSFT,MICROSOFT CORP,Government‑Backed AI4Peat Mapping Tool Allegedly Misidentifies Granite Outcrops and Quarries as Peat,2025-05-10,2025-05-26,,https://incidentdatabase.ai/cite/1159
+1186,BABA,Alibaba Group Holding Ltd,"Reported Public Exposure of Over 100,000 LLM Conversations via Share Links Indexed by Search Engines and Archived",2025-07-31,2025-08-01,,https://incidentdatabase.ai/cite/1186
+1187,GOOGL,Alphabet Inc.,"Google AI Overviews and ChatGPT Reportedly Cited Fraudulent Cruise Hotline, Allegedly Enabling Successful Scam",2025-08-15,2025-08-15,twitter/x,https://incidentdatabase.ai/cite/1187
+1277,META,"Meta Platforms, Inc.","Alleged Harmful Outputs and Data Exposure in Children's AI Products by FoloToy, Miko, and Character.AI",2025-11-21,2025-11-21,twitter/x,https://incidentdatabase.ai/cite/1277
+1361,GOOGL,Alphabet Inc.,"Waymo Autonomous Vehicle Reportedly Struck Child Near Elementary School in Santa Monica, California",2026-01-23,2026-01-29,,https://incidentdatabase.ai/cite/1361
+1460,BIDU,"Baidu, Inc.","Baidu Apollo Go Robotaxis Stopped in Traffic During Reported System Failure in Wuhan, Stranding Some Passengers",2026-03-31,2026-03-31,,https://incidentdatabase.ai/cite/1460
+1523,META,"Meta Platforms, Inc.",Reported AI-Generated Videos Placed Kosovo Parliamentary Candidates in Purportedly Fabricated Campaign Scenes,2026-05-14,2026-05-29,,https://incidentdatabase.ai/cite/1523
+1543,GOOGL,Alphabet Inc.,Waymo Robotaxi Reportedly Obstructed Ambulance Responding to Austin Mass Shooting,2026-03-01,2026-03-01,,https://incidentdatabase.ai/cite/1543
+1544,GOOGL,Alphabet Inc.,Waymo Robotaxi Reportedly Entered Flooded San Antonio Roadway and Was Swept Into Waterway,2026-04-20,2026-04-21,,https://incidentdatabase.ai/cite/1544
+1575,MSFT,MICROSOFT CORP,Eightfold AI Hiring Tools Allegedly Secretly Scored Job Applicants for Employers,2026-01-20,2026-01-21,,https://incidentdatabase.ai/cite/1575
+1682,GOOGL,Alphabet Inc.,D.C. Court of Appeals Struck Deutsche Bank National Trust Company Brief After Attorney Used Google Generative AI Search ,2025-08-12,2026-09-03,pdf,https://incidentdatabase.ai/cite/1682

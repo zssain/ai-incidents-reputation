@@ -1,0 +1,26 @@
+incident_id,ticker,company,title,aiid_incident_date,earliest_report_date,date_flag,incident_url
+33,AMZN,AMAZON COM INC,Amazon Alexa Plays Loud Music when Owner is Away,2017-11-09,2017-11-09,,https://incidentdatabase.ai/cite/33
+102,MSFT,MICROSOFT CORP,"Personal voice assistants struggle with black voices, new study shows",2020-03-23,2020-03-24,,https://incidentdatabase.ai/cite/102
+211,TSLA,"Tesla, Inc.",A Tesla Taxi Cab Involved in an Accident in Paris with Twenty Injuries,2021-12-11,2021-12-13,,https://incidentdatabase.ai/cite/211
+215,META,"Meta Platforms, Inc.",Facebook Content Moderators Demand Better Working Conditions Due to Allegedly Inadequate AI Content Moderation,2020-04-01,2020-11-18,,https://incidentdatabase.ai/cite/215
+255,SSTI,"SOUNDTHINKING, INC.",Unreliable ShotSpotter Audio Previously Used to Convict Chicago Man in Murder Case,2020-05-31,2021-07-26,,https://incidentdatabase.ai/cite/255
+271,TSLA,"Tesla, Inc.",Tesla Model 3 Sedan on Autopilot Killed Motorcyclist in a Rear-End Collision in Utah,2022-07-24,2022-07-24,,https://incidentdatabase.ai/cite/271
+282,META,"Meta Platforms, Inc.",Facebook’s Algorithm Mistook an Advertisement of Onions as Sexual Suggestive Content,2020-10-03,2020-10-06,twitter/x,https://incidentdatabase.ai/cite/282
+294,TSLA,"Tesla, Inc.",Tesla Autopilot Allegedly Malfunctioned in a Non-Fatal Collision in Greece,2018-05-26,2018-05-25,before_incident,https://incidentdatabase.ai/cite/294
+334,UBER,"Uber Technologies, Inc",Uber Deployed Secret Program To Deny Local Authorities Rides,2014-10-01,2017-03-03,,https://incidentdatabase.ai/cite/334
+386,AMZN,AMAZON COM INC,"Amazon’s ""Time Off Task"" System Made False Assumptions about Workers' Time Management",2019-07-03,2020-12-01,,https://incidentdatabase.ai/cite/386
+392,META,"Meta Platforms, Inc.",Facebook's AI-Supported Moderation Failed to Classify Terrorist Content in East African Languages,2015-06-01,2022-06-14,pdf,https://incidentdatabase.ai/cite/392
+463,AAPL,Apple Inc.,"Apple Devices Mistook Skiing Activities, Dialed False Distress Emergency Calls ",2022-11-15,2023-01-14,,https://incidentdatabase.ai/cite/463
+595,GM,General Motors Co,Driverless Cruise Cars Immobilized in San Francisco Traffic Jam,2023-08-11,2023-08-12,,https://incidentdatabase.ai/cite/595
+684,GOOGL,Alphabet Inc.,Google Books Appears to Be Indexing Works Written by AI,2024-04-04,2024-04-05,,https://incidentdatabase.ai/cite/684
+710,META,"Meta Platforms, Inc.",Facebook AI Reportedly Mislabels Auschwitz Photos as 'Bullying' and 'Nudity',2024-04-15,2024-04-15,,https://incidentdatabase.ai/cite/710
+714,MSFT,MICROSOFT CORP,Microsoft-Powered New York City Chatbot Advises Illegal Practices,2024-03-29,2024-03-29,,https://incidentdatabase.ai/cite/714
+996,META,"Meta Platforms, Inc.","Meta Allegedly Used Books3, a Dataset of 191,000 Pirated Books, to Train LLaMA AI",2020-10-25,2023-07-09,,https://incidentdatabase.ai/cite/996
+1188,GOOGL,Alphabet Inc.,Multiple LLMs Reportedly Generated Responses Aligning with Purported CCP Censorship and Propaganda,2025-06-25,2025-06-25,,https://incidentdatabase.ai/cite/1188
+1210,GOOGL,Alphabet Inc.,Malicious Nx npm Packages Reportedly Weaponize AI Coding Agents for Data Exfiltration,2025-08-21,2025-08-27,,https://incidentdatabase.ai/cite/1210
+1220,BABA,Alibaba Group Holding Ltd,LAMEHUG Malware Reportedly Integrates Large Language Model for Real-Time Command Generation in a Purported APT28-Linked ,2025-07-10,2025-07-17,,https://incidentdatabase.ai/cite/1220
+1248,GOOGL,Alphabet Inc.,"Google's Bard, Gemini, and Gemma AI Systems Allegedly Generated Defamatory Claims About Activist Robby Starbuck, Prompti",2025-10-22,2025-10-22,,https://incidentdatabase.ai/cite/1248
+1326,GOOGL,Alphabet Inc.,Waymo Robotaxis Allegedly Contributed to Traffic Gridlock During San Francisco PG&E Power Outage,2025-12-20,2025-12-20,,https://incidentdatabase.ai/cite/1326
+1433,GOOGL,Alphabet Inc.,Google Antigravity Reportedly Deleted User's Entire D: Drive While Clearing Project Cache,2025-11-27,2025-12-01,,https://incidentdatabase.ai/cite/1433
+1510,META,"Meta Platforms, Inc.",Meta AI Support Bot Reportedly Enabled Takeovers of High-Profile Instagram Accounts,2026-05-31,2026-06-01,,https://incidentdatabase.ai/cite/1510
+1541,GOOGL,Alphabet Inc.,"Waymo Robotaxi Reportedly Entered Phoenix Light-Rail Tracks, Prompting Passenger to Exit",2026-01-07,2026-01-08,,https://incidentdatabase.ai/cite/1541

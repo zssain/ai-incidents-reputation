@@ -1,0 +1,52 @@
+incident_id,ticker,company,title,aiid_incident_date,earliest_report_date,date_flag,incident_url
+700,META,"Meta Platforms, Inc.",Meta's AI Chatbots Are Reportedly Entering Online Support Communities Uninvited,2024-05-20,2024-04-17,before_incident,https://incidentdatabase.ai/cite/700
+704,TRI,THOMSON REUTERS CORP /CAN/,Study Highlights Persistent Hallucinations in Legal AI Systems,2024-05-23,2024-05-23,,https://incidentdatabase.ai/cite/704
+707,TSLA,"Tesla, Inc.","Tesla Reportedly in Autopilot Mode Hits Parked Police Vehicle in Fullerton, California",2024-06-13,2024-06-13,,https://incidentdatabase.ai/cite/707
+711,TSLA,"Tesla, Inc.",NHTSA Opens New Probe into Tesla’s Autopilot Following More than a Dozen Fatal Accidents,2024-04-26,2024-04-26,,https://incidentdatabase.ai/cite/711
+712,META,"Meta Platforms, Inc.",Meta AI Hallucinates Harassment Allegations Against New York Politicians,2024-04-26,2024-04-26,,https://incidentdatabase.ai/cite/712
+716,BKD,Brookdale Senior Living Inc.,Algorithmic Staffing Failures Linked to Resident Deaths at Leading Assisted-Living Chain Brookdale,2021-04-21,2024-04-01,twitter/x,https://incidentdatabase.ai/cite/716
+718,GOOGL,Alphabet Inc.,"OpenAI, Google, and Meta Alleged to Have Overstepped Legal Boundaries for Training AI",2024-04-06,2024-04-06,,https://incidentdatabase.ai/cite/718
+718,META,"Meta Platforms, Inc.","OpenAI, Google, and Meta Alleged to Have Overstepped Legal Boundaries for Training AI",2024-04-06,2024-04-06,,https://incidentdatabase.ai/cite/718
+723,META,"Meta Platforms, Inc.",Instagram Algorithms Reportedly Directed Children's Merchandise Ad Campaign to Adult Men and Sex Offenders,2024-05-13,2024-05-13,,https://incidentdatabase.ai/cite/723
+726,GM,General Motors Co,A Self-Driving Cruise Robot Taxi Reportedly Struck and Dragged a Pedestrian 20 Feet,2023-10-02,2023-10-03,,https://incidentdatabase.ai/cite/726
+731,GOOGL,Alphabet Inc.,Purportedly Hallucinated Software Packages with Potential Malware Reportedly Downloaded Thousands of Times by Developers,2023-12-01,2024-03-28,,https://incidentdatabase.ai/cite/731
+733,ALL,ALLSTATE CORP,Auto Insurers Allegedly Are Surreptitiously Collecting and Scoring Driver Data,2024-06-09,2024-06-09,,https://incidentdatabase.ai/cite/733
+733,GM,General Motors Co,Auto Insurers Allegedly Are Surreptitiously Collecting and Scoring Driver Data,2024-06-09,2024-06-09,,https://incidentdatabase.ai/cite/733
+733,LIF,"Life360, Inc.",Auto Insurers Allegedly Are Surreptitiously Collecting and Scoring Driver Data,2024-06-09,2024-06-09,,https://incidentdatabase.ai/cite/733
+733,PGR,PROGRESSIVE CORP/OH/,Auto Insurers Allegedly Are Surreptitiously Collecting and Scoring Driver Data,2024-06-09,2024-06-09,,https://incidentdatabase.ai/cite/733
+734,META,"Meta Platforms, Inc.",Leading AI Models Reportedly Found to Mimic Russian Disinformation in 33% of Cases and to Cite Fake Moscow News Sites,2024-06-18,2024-06-18,,https://incidentdatabase.ai/cite/734
+734,MSFT,MICROSOFT CORP,Leading AI Models Reportedly Found to Mimic Russian Disinformation in 33% of Cases and to Cite Fake Moscow News Sites,2024-06-18,2024-06-18,,https://incidentdatabase.ai/cite/734
+743,GOOGL,Alphabet Inc.,Gemini AI Allegedly Reads Google Drive Files Without Explicit User Consent,2024-07-16,2024-07-14,before_incident,https://incidentdatabase.ai/cite/743
+744,GOOGL,Alphabet Inc.,"AI Work Assistants Require More Effort Than Expected, CIOs Say",2024-06-25,2024-06-25,,https://incidentdatabase.ai/cite/744
+744,MSFT,MICROSOFT CORP,"AI Work Assistants Require More Effort Than Expected, CIOs Say",2024-06-25,2024-06-25,,https://incidentdatabase.ai/cite/744
+745,FIG,"Figma, Inc.",Figma Disables AI Feature After Accusations of Copying Apple’s Weather App,2024-07-02,2024-07-02,,https://incidentdatabase.ai/cite/745
+748,PYPL,"PayPal Holdings, Inc.",Erroneous Declined Transaction Notification by PayPal AI Assistant,2024-06-19,2024-07-13,,https://incidentdatabase.ai/cite/748
+750,GOOGL,Alphabet Inc.,AI Chatbots Reportedly Inaccurately Conveyed Real-Time Political News,2024-07-22,2024-07-22,twitter/x,https://incidentdatabase.ai/cite/750
+750,META,"Meta Platforms, Inc.",AI Chatbots Reportedly Inaccurately Conveyed Real-Time Political News,2024-07-22,2024-07-22,twitter/x,https://incidentdatabase.ai/cite/750
+770,MSFT,MICROSOFT CORP,Microsoft Copilot Falsely Accuses Journalist Martin Bernklau of Crimes,2024-08-16,2024-08-20,,https://incidentdatabase.ai/cite/770
+773,MSFT,MICROSOFT CORP,Chatbot in Workplace Training at Bunbury Prison Reveals Real Names in Sexual Harassment Case,2024-08-20,2024-08-21,,https://incidentdatabase.ai/cite/773
+778,AMZN,AMAZON COM INC,Amazon's Alexa Reportedly Shows Political Preference Error in Trump-Harris Presidential Race Queries,2024-09-04,2024-09-04,,https://incidentdatabase.ai/cite/778
+788,META,"Meta Platforms, Inc.",Instagram's Algorithm Reportedly Recommended Sexual Content to Teenagers' Accounts,2024-06-20,2024-06-20,,https://incidentdatabase.ai/cite/788
+789,META,"Meta Platforms, Inc.",Independent News Sites Flagged as Spam by Facebook's AI Moderation System,2024-06-12,2024-06-12,,https://incidentdatabase.ai/cite/789
+791,GOOGL,Alphabet Inc.,Google AI Error Prompts Parents to Use Fecal Matter in Child Training Exercise,2024-09-09,2024-09-11,,https://incidentdatabase.ai/cite/791
+796,META,"Meta Platforms, Inc.",Facebook's Content Moderation System Flagged and Removed Emergency Updates as Spam During Wildfires,2024-06-01,2024-09-10,twitter/x,https://incidentdatabase.ai/cite/796
+821,BIDU,"Baidu, Inc.",Baidu Robotaxi Allegedly Involved in Collision with Pedestrian in Wuhan,2024-07-07,2024-07-10,,https://incidentdatabase.ai/cite/821
+831,EVLV,"Evolv Technologies Holdings, Inc.",NYC Subway AI Weapons Scanners Yield High False Positive Rate and Detect No Guns in Month-Long Pilot Test,2024-10-23,2024-10-24,,https://incidentdatabase.ai/cite/831
+838,MSFT,MICROSOFT CORP,Microsoft Copilot Allegedly Provides Unsafe Medical Advice with High Risk of Severe Harm,2024-04-25,2024-10-12,,https://incidentdatabase.ai/cite/838
+845,GOOGL,Alphabet Inc.,Google's Gemini Allegedly Generates Threatening Response in Routine Query,2024-11-13,2024-11-14,,https://incidentdatabase.ai/cite/845
+846,META,"Meta Platforms, Inc.",Social Media Algorithms Amplified Disinformation Campaign in Honduras Election,2021-10-06,2021-11-15,,https://incidentdatabase.ai/cite/846
+853,GOOGL,Alphabet Inc.,Two Passengers Report Feeling Trapped in Waymo Car During Sensor Obstruction,2024-02-03,2024-02-08,,https://incidentdatabase.ai/cite/853
+857,GOOGL,Alphabet Inc.,"Navigation App Allegedly Directs Car Over Damaged Bridge in Uttar Pradesh, Resulting in Three Deaths",2024-11-25,2024-11-25,,https://incidentdatabase.ai/cite/857
+859,GOOGL,Alphabet Inc.,AI Models Reportedly Found to Provide Misinformation on Election Processes in Spanish,2024-10-30,2024-10-30,,https://incidentdatabase.ai/cite/859
+859,META,"Meta Platforms, Inc.",AI Models Reportedly Found to Provide Misinformation on Election Processes in Spanish,2024-10-30,2024-10-30,,https://incidentdatabase.ai/cite/859
+861,AAPL,Apple Inc.,Apple Intelligence Reportedly Notified Users That Luigi Mangione Shot Himself and Benjamin Netanyahu Had Been Arrested,2024-12-13,2024-12-13,,https://incidentdatabase.ai/cite/861
+873,GOOGL,Alphabet Inc.,YouTube Algorithms Allegedly Amplify Eating Disorder Content to Adolescent Girls,2024-12-10,2024-12-10,,https://incidentdatabase.ai/cite/873
+892,AAPL,Apple Inc.,Apple Intelligence Allegedly Flags Scam Messages as High Priority,2024-08-05,2024-08-05,,https://incidentdatabase.ai/cite/892
+939,META,"Meta Platforms, Inc.",AI-Powered Chinese Surveillance Campaign 'Peer Review' Used for Real-Time Monitoring of Anti-State Speech on Western Soc,2025-02-21,2025-02-21,twitter/x,https://incidentdatabase.ai/cite/939
+940,TSLA,"Tesla, Inc.",Tesla Cybertruck Operating in Full Self-Driving Mode Reportedly Crashes into Pole in Nevada After Failing to Merge,2025-02-17,2025-02-09,before_incident,https://incidentdatabase.ai/cite/940
+956,MSFT,MICROSOFT CORP,"Alleged Inclusion of 12,000 Live API Keys in LLM Training Data Reportedly Poses Security Risks",2025-02-28,2025-02-28,,https://incidentdatabase.ai/cite/956
+957,META,"Meta Platforms, Inc.",Alleged Instagram Algorithm Malfunction Floods Users' Reels Feeds with Violent and Graphic Content,2025-02-28,2025-02-28,,https://incidentdatabase.ai/cite/957
+963,GOOGL,Alphabet Inc.,Google Reports Alleged Gemini-Generated Terrorism and Child Exploitation to Australian eSafety Commission,2025-03-05,2025-03-05,,https://incidentdatabase.ai/cite/963
+967,AMZN,AMAZON COM INC,Amazon and Google AI Allegedly Promote Mein Kampf as 'a True Work of Art' in Search Results,2025-03-06,2025-03-06,,https://incidentdatabase.ai/cite/967
+967,GOOGL,Alphabet Inc.,Amazon and Google AI Allegedly Promote Mein Kampf as 'a True Work of Art' in Search Results,2025-03-06,2025-03-06,,https://incidentdatabase.ai/cite/967
+968,GOOGL,Alphabet Inc.,"'Pravda' Network, Successor to 'Portal Kombat,' Allegedly Seeding AI Models with Kremlin Disinformation",2022-02-24,2024-02-12,,https://incidentdatabase.ai/cite/968

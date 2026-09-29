@@ -1,0 +1,53 @@
+incident_id,ticker,company,title,aiid_incident_date,earliest_report_date,date_flag,incident_url
+122,META,"Meta Platforms, Inc.",Facebook's 'Tag Suggestions' Allegedly Stored Biometric Data without User Consent,2015-06-14,2020-01-29,,https://incidentdatabase.ai/cite/122
+125,AMZN,AMAZON COM INC,Amazon’s Robotic Fulfillment Centers Have Higher Serious Injury Rates,2020-09-29,2020-09-29,,https://incidentdatabase.ai/cite/125
+127,MSFT,MICROSOFT CORP,Microsoft’s Algorithm Allegedly Selected Photo of the Wrong Mixed-Race Person Featured in a News Story,2020-06-06,2020-05-30,before_incident,https://incidentdatabase.ai/cite/127
+128,TSLA,"Tesla, Inc.","Tesla Sedan on Autopilot Reportedly Drove Over Dividing Curb in Washington, Resulting in Minor Vehicle Damage",2017-08-01,2018-05-16,,https://incidentdatabase.ai/cite/128
+129,META,"Meta Platforms, Inc.","Facebook's Automated Tools Failed to Adequately Remove Hate Speech, Violence, and Incitement",2021-03-01,2021-10-18,,https://incidentdatabase.ai/cite/129
+139,AMZN,AMAZON COM INC,Amazon’s Search and Recommendation Algorithms Found by Auditors to Have Boosted Products That Contained Vaccine Misinfor,2021-01-21,2021-01-21,arxiv,https://incidentdatabase.ai/cite/139
+141,META,"Meta Platforms, Inc.",California Police Turned on Music to Allegedly Trigger Instagram’s DCMA to Avoid Being Live-Streamed,2021-02-05,,,https://incidentdatabase.ai/cite/141
+142,META,"Meta Platforms, Inc.",Facebook's Advertisement Moderation System Allegedly Routinely Misidentified Adaptive Fashion Products as Medical Equipm,2021-02-11,2021-02-11,,https://incidentdatabase.ai/cite/142
+143,META,"Meta Platforms, Inc.",Facebook’s and Twitter's Automated Content Moderation Reportedly Failed to Effectively Enforce Violation Rules for Small,2021-02-16,2021-02-16,twitter/x,https://incidentdatabase.ai/cite/143
+144,GOOGL,Alphabet Inc.,YouTube's AI Mistakenly Banned Chess Channel over Chess Language Misinterpretation,2020-06-28,2021-02-18,twitter/x,https://incidentdatabase.ai/cite/144
+149,ZG,"ZILLOW GROUP, INC.",Zillow Shut Down Zillow Offers Division Allegedly Due to Predictive Pricing Tool's Insufficient Accuracy,2021-11-02,2021-11-02,,https://incidentdatabase.ai/cite/149
+151,PONY,Pony AI Inc.,California Regulator Suspended Pony.ai's Driverless Testing Permit Following a Non-Fatal Collision,2021-10-28,2021-11-01,,https://incidentdatabase.ai/cite/151
+153,TSLA,"Tesla, Inc.","Tesla Driver on Autopilot Ran a Red Light, Crashing into a Car and Killing Two People in Los Angeles",2019-12-29,2022-01-18,,https://incidentdatabase.ai/cite/153
+155,GOOGL,Alphabet Inc.,Google Maps Allegedly Directed Sierra Nevada Travelers to Dangerous Roads amid Winter Storm,2021-12-27,2021-12-28,,https://incidentdatabase.ai/cite/155
+159,TSLA,"Tesla, Inc.",Tesla Autopilot’s Lane Recognition Allegedly Vulnerable to Adversarial Attacks,2019-03-29,2022-11-01,,https://incidentdatabase.ai/cite/159
+160,AMZN,AMAZON COM INC,Alexa Recommended Dangerous TikTok Challenge to Ten-Year-Old Girl,2021-12-26,2021-12-26,twitter/x,https://incidentdatabase.ai/cite/160
+161,META,"Meta Platforms, Inc.",Facebook's Ad Delivery Reportedly Excluded Audience along Racial and Gender Lines,2019-04-03,2019-04-03,arxiv,https://incidentdatabase.ai/cite/161
+163,META,"Meta Platforms, Inc.",Facebook’s Hate Speech Detection Algorithms Allegedly Disproportionately Failed to Remove Racist Content towards Minorit,2021-11-21,2021-10-15,before_incident,https://incidentdatabase.ai/cite/163
+168,GOOGL,Alphabet Inc.,"Collaborative Filtering Prone to Popularity Bias, Resulting in Overrepresentation of Popular Items in the Recommendation",2022-03-01,2022-03-01,arxiv,https://incidentdatabase.ai/cite/168
+168,META,"Meta Platforms, Inc.","Collaborative Filtering Prone to Popularity Bias, Resulting in Overrepresentation of Popular Items in the Recommendation",2022-03-01,2022-03-01,arxiv,https://incidentdatabase.ai/cite/168
+168,MSFT,MICROSOFT CORP,"Collaborative Filtering Prone to Popularity Bias, Resulting in Overrepresentation of Popular Items in the Recommendation",2022-03-01,2022-03-01,arxiv,https://incidentdatabase.ai/cite/168
+168,NFLX,NETFLIX INC,"Collaborative Filtering Prone to Popularity Bias, Resulting in Overrepresentation of Popular Items in the Recommendation",2022-03-01,2022-03-01,arxiv,https://incidentdatabase.ai/cite/168
+169,META,"Meta Platforms, Inc.",Facebook Allegedly Failed to Police Anti-Rohingya Hate Speech Content That Contributed to Violence in Myanmar,2018-08-15,2017-03-18,before_incident,https://incidentdatabase.ai/cite/169
+170,TGT,TARGET CORP,"Target Suggested Maternity-Related Advertisements to a Teenage Girl's Home, Allegedly Correctly Predicting Her Pregnancy",2003-06-01,2012-02-16,,https://incidentdatabase.ai/cite/170
+175,GM,General Motors Co,Cruise Autonomous Taxi Allegedly Bolted off from Police After Being Pulled over in San Francisco,2022-04-01,2022-04-10,twitter/x,https://incidentdatabase.ai/cite/175
+178,TSLA,"Tesla, Inc.","Tesla Owner Activated ""Smart Summon"" Feature, Causing a Collision with an Aircraft in a Washington Airport",2022-04-21,2022-04-22,,https://incidentdatabase.ai/cite/178
+181,GM,General Motors Co,"BMW Sedan Made a Prohibited Left Turn, Colliding with a Cruise Autonomous Vehicle",2022-02-11,2022-02-22,,https://incidentdatabase.ai/cite/181
+182,GM,General Motors Co,Two Cruise Autonomous Vehicles Collided with Each Other in California ,2018-06-11,2018-07-03,,https://incidentdatabase.ai/cite/182
+183,ABNB,"Airbnb, Inc.","Airbnb's Trustworthiness Algorithm Allegedly Banned Users without Explanation, and Discriminated against Sex Workers",2017-07-01,2020-02-27,,https://incidentdatabase.ai/cite/183
+187,TSLA,"Tesla, Inc.","YouTuber Tested Tesla on Self Driving Mode, Colliding with Street Pylons",2022-02-04,2022-02-05,,https://incidentdatabase.ai/cite/187
+188,MSFT,MICROSOFT CORP,Argentinian City Government Deployed Teenage-Pregnancy Predictive Algorithm Using Invasive Demographic Data,2018-04-11,2019-01-30,,https://incidentdatabase.ai/cite/188
+189,PATH,"UiPath, Inc.",Opaque Fraud Detection Algorithm by the UK’s Department of Work and Pensions Allegedly Discriminated against People with,2019-10-15,2021-03-02,,https://incidentdatabase.ai/cite/189
+193,TGT,TARGET CORP,"Excessive Automated Monitoring Alerts Ignored by Staff, Resulting in Private Data Theft of Seventy Million Target Custom",2013-11-27,2017-05-03,,https://incidentdatabase.ai/cite/193
+203,UBER,"Uber Technologies, Inc",Uber Launched Opaque Algorithm That Changes Drivers' Payments in the US,2022-02-10,2022-02-26,,https://incidentdatabase.ai/cite/203
+204,ZH,Zhihu Inc.,A Chinese Tech Worker at Zhihu Fired Allegedly via a Resignation Risk Prediction Algorithm,2022-02-11,2022-02-14,,https://incidentdatabase.ai/cite/204
+208,TSLA,"Tesla, Inc.","Tesla Phantom Braking Complaints Surged, Allegedly Linked to Tesla Vision Rollout",2021-05-01,2021-11-15,,https://incidentdatabase.ai/cite/208
+209,TSLA,"Tesla, Inc.",Tesla Disabled “Rolling Stop” Functionality Associated with the “Aggressive” Driving Mode,2020-10-20,2022-01-10,,https://incidentdatabase.ai/cite/209
+212,XPEV,XPENG INC.,XPeng Motors Fined For Illegal Collection of Consumers’ Faces Using Facial Recognition Cameras,2021-01-01,2021-12-14,,https://incidentdatabase.ai/cite/212
+213,META,"Meta Platforms, Inc.",Facebook’s Political Ad Detection Reportedly Showed High and Geographically Uneven Error Rates,2020-07-01,2021-12-09,,https://incidentdatabase.ai/cite/213
+220,META,"Meta Platforms, Inc.",Facebook Mistakenly Blocked Small Business Ads,2020-11-11,2020-11-26,,https://incidentdatabase.ai/cite/220
+221,TSLA,"Tesla, Inc.",A Road Engineer Killed Following a Collision Involving a Tesla on Autopilot,2022-03-07,2022-03-08,,https://incidentdatabase.ai/cite/221
+225,IBM,INTERNATIONAL BUSINESS MACHINES CORP,IBM Watson for Oncology Criticized by Customers for Allegedly Unsafe and Inaccurate Cancer Treatment Recommendations,2017-04-07,2018-07-25,,https://incidentdatabase.ai/cite/225
+227,GOOGL,Alphabet Inc.,"Waze App Allegedly Caused Tourists’ Car to End up in Lake Champlain, Vermont",2018-01-12,2018-01-24,,https://incidentdatabase.ai/cite/227
+228,AAPL,Apple Inc.,Apple Maps Allegedly Directed Ski Trip Couple Onto Unpaved Road in the Mountains,2019-02-01,2019-02-22,,https://incidentdatabase.ai/cite/228
+229,GOOGL,Alphabet Inc.,Content Using Bestiality Thumbnails Allegedly Evaded YouTube’s Thumbnail Monitoring System,2018-04-23,2018-04-24,,https://incidentdatabase.ai/cite/229
+230,TSLA,"Tesla, Inc.","Model 3 Tesla on Autopilot Crashed into a Truck in Florida, Killing Driver",2019-03-01,2019-05-16,,https://incidentdatabase.ai/cite/230
+231,TSLA,"Tesla, Inc.",A Tesla Crashed into and Killed a Road Sweeper on a Highway in China,2016-01-20,2016-09-14,,https://incidentdatabase.ai/cite/231
+232,TSLA,"Tesla, Inc.","Tesla Model X on Autopilot Missed Parked Vehicles and Pedestrians, Killing Motorcyclist in Japan",2018-04-29,2020-04-30,,https://incidentdatabase.ai/cite/232
+234,GOOGL,Alphabet Inc.,"Waze Allegedly Frequently Routed Drivers through the Town of Los Gatos, Blocking Its Single Wildfire Escape Route",2019-09-06,2019-09-06,,https://incidentdatabase.ai/cite/234
+251,AMZN,AMAZON COM INC,Amazon Allegedly Tweaked Search Algorithm to Boost Its Own Products,2018-08-01,2016-09-20,before_incident,https://incidentdatabase.ai/cite/251
+252,AXON,"AXON ENTERPRISE, INC.",Remotely Operated Taser-Armed Drones Proposed by Taser Manufacturer as Defense for School Shootings in the US,2022-06-01,2022-06-06,,https://incidentdatabase.ai/cite/252
+253,GM,General Motors Co,"Cruise's Self-Driving Cars Allegedly Lost Connection to Their Server, Causing Traffic Blockages in San Francisco",2022-05-18,2022-05-22,twitter/x,https://incidentdatabase.ai/cite/253

@@ -1,0 +1,52 @@
+incident_id,ticker,company,title,aiid_incident_date,earliest_report_date,date_flag,incident_url
+503,MSFT,MICROSOFT CORP,Bing AI Search Tool Reportedly Declared Threats against Users,2023-02-14,2023-02-14,twitter/x,https://incidentdatabase.ai/cite/503
+504,MSFT,MICROSOFT CORP,Bing Chat's Outputs Featured in Demo Video Allegedly Contained False Information,2023-02-08,2023-03-13,blog,https://incidentdatabase.ai/cite/504
+511,MSFT,MICROSOFT CORP,Microsoft's Bing Failed to Fetch Movie Showtimes Results Due to Date Confusion,2023-02-12,2023-02-13,twitter/x,https://incidentdatabase.ai/cite/511
+520,AMZN,AMAZON COM INC,Amazon Fresh Cameras Failed to Register Purchased Items,2022-05-08,2022-05-30,,https://incidentdatabase.ai/cite/520
+525,TSLA,"Tesla, Inc.",Tesla Vehicle Running on Self-Driving Mode Crashes on City Streets,2019-07-06,2023-04-21,,https://incidentdatabase.ai/cite/525
+527,AMZN,AMAZON COM INC,Tech Companies Reportedly Influenced Gig Workers' Behaviors Using Algorithms to Vary Pay for Same Amount of Work,2014-05-08,2023-01-19,ssrn,https://incidentdatabase.ai/cite/527
+527,UBER,"Uber Technologies, Inc",Tech Companies Reportedly Influenced Gig Workers' Behaviors Using Algorithms to Vary Pay for Same Amount of Work,2014-05-08,2023-01-19,ssrn,https://incidentdatabase.ai/cite/527
+531,LHX,"L3HARRIS TECHNOLOGIES, INC. /DE/",AI-Assisted Body Scanners Reportedly Subjected Transgender Travelers to Invasive Body Searches,2017-09-15,2019-08-26,,https://incidentdatabase.ai/cite/531
+533,TSLA,"Tesla, Inc.",Tesla FSD Misidentified Truck Hauling Traffic Lights as Trail of Traffic Lights,2021-06-02,2021-06-03,twitter/x,https://incidentdatabase.ai/cite/533
+539,SNAP,Snap Inc,Snapchat's My AI Reported for Lacking Protection for Children,2023-03-11,2023-05-11,twitter/x,https://incidentdatabase.ai/cite/539
+540,TSLA,"Tesla, Inc.","Tesla Failed to Yield to Detected Pedestrian on Crosswalk, Reportedly Violated Traffic Law",2023-05-15,2023-05-16,,https://incidentdatabase.ai/cite/540
+548,OPRA,Opera Ltd,Opera's GPT-Based AI Reportedly Accused War Photographers of War Crimes,2023-05-24,2023-06-05,,https://incidentdatabase.ai/cite/548
+549,MCD,MCDONALDS CORP,Fast Food Chains' AI Chatbots Failed to Assist Job Applicants with Scheduling Interviews,2023-01-05,2023-06-09,,https://incidentdatabase.ai/cite/549
+549,WEN,Wendy's Co,Fast Food Chains' AI Chatbots Failed to Assist Job Applicants with Scheduling Interviews,2023-01-05,2023-06-09,,https://incidentdatabase.ai/cite/549
+550,TSLA,"Tesla, Inc.",Tesla Allegedly on Autopilot Struck High School Student Exiting School Bus,2023-03-17,2023-03-17,,https://incidentdatabase.ai/cite/550
+552,MSFT,MICROSOFT CORP,Bing Chat Solved CAPTCHAs with Image Analysis Feature Despite Safeguards,2023-06-22,2023-06-22,twitter/x,https://incidentdatabase.ai/cite/552
+553,GOOGL,Alphabet Inc.,Google's Overview Panel for Artist Edward Hopper Featured Image Generated in His Style by AI,2023-05-03,2023-05-03,twitter/x,https://incidentdatabase.ai/cite/553
+554,GOOGL,Alphabet Inc.,Google Results for Johannes Vermeer Featured AI Version of His Artwork as Top Result,2023-05-21,2023-05-31,,https://incidentdatabase.ai/cite/554
+556,AMZN,AMAZON COM INC,Amazon Allegedly Violated Children's Privacy through Default Voice Collection Settings,2018-05-10,2023-05-31,,https://incidentdatabase.ai/cite/556
+560,TSLA,"Tesla, Inc.",Tesla on Autopilot Struck Parked Work Truck on Highway in Pennsylvania,2023-06-23,2023-06-26,,https://incidentdatabase.ai/cite/560
+563,GM,General Motors Co,Cruise Robotaxi Initially Blamed for Ambulance Delay in Case Where Patient Later Died; Subsequent Reports Clear Cruise o,2023-08-14,2023-09-02,,https://incidentdatabase.ai/cite/563
+570,META,"Meta Platforms, Inc.",Facebook Messenger AI Stickers Generate Ethical and Content Moderation Concerns,2023-10-04,2023-10-04,,https://incidentdatabase.ai/cite/570
+571,MSFT,MICROSOFT CORP,Reported Accidental Exposure of 38TB of Data by Microsoft's AI Research Team,2023-06-22,2023-09-18,,https://incidentdatabase.ai/cite/571
+574,GOOGL,Alphabet Inc.,AI-Generated Articles at G/O Media Allegedly Diminishes Reputation of Human Staff,2023-07-05,2023-07-08,,https://incidentdatabase.ai/cite/574
+576,META,"Meta Platforms, Inc.","Alleged Misuse of PicSo AI for Generating Inappropriate Content Emphasizing ""Girls""",2023-10-24,2023-10-24,,https://incidentdatabase.ai/cite/576
+583,META,"Meta Platforms, Inc.",Instagram Algorithms Allegedly Promote Accounts Facilitating Child Sex Abuse Content,2023-06-07,2023-06-07,,https://incidentdatabase.ai/cite/583
+587,AAPL,Apple Inc.,Apparent Failure to Accurately Label Primates in Image Recognition Software Due to Alleged Fear of Racial Bias,2023-05-22,2023-05-22,,https://incidentdatabase.ai/cite/587
+587,AMZN,AMAZON COM INC,Apparent Failure to Accurately Label Primates in Image Recognition Software Due to Alleged Fear of Racial Bias,2023-05-22,2023-05-22,,https://incidentdatabase.ai/cite/587
+591,CI,Cigna Group,Cigna Algorithm PXDX Allegedly Rejected Thousands of Patient Claims En Masse in Breach of California Law,2023-07-24,2023-07-24,,https://incidentdatabase.ai/cite/591
+596,GM,General Motors Co,Cruise's Autonomous Vehicles Allegedly Engaging in Risky Behavior Near Pedestrians,2023-10-17,2023-10-17,,https://incidentdatabase.ai/cite/596
+608,UNH,UNITEDHEALTH GROUP INC,UnitedHealth Accused of Deploying  Allegedly Flawed AI to Deny Medical Coverage,2023-02-28,2023-10-05,,https://incidentdatabase.ai/cite/608
+609,GOOGL,Alphabet Inc.,Flawed AI in Google Search Reportedly Misinforms about Geography,2023-08-16,2023-11-06,,https://incidentdatabase.ai/cite/609
+612,MSFT,MICROSOFT CORP,Microsoft AI Poll Allegedly Causes Reputational Harm of The Guardian Newspaper,2023-10-31,2023-10-31,,https://incidentdatabase.ai/cite/612
+613,ADBE,ADOBE INC.,AI-Generated Images Available through Adobe Stock Misrepresent Real-World Events,2023-11-23,2023-11-23,twitter/x,https://incidentdatabase.ai/cite/613
+614,GOOGL,Alphabet Inc.,Google Bard Allegedly Generates False Allegations Against Consulting Firms Used in Research Presented in Australian Parl,2023-11-02,2023-11-02,,https://incidentdatabase.ai/cite/614
+616,AREN,"Arena Group Holdings, Inc.",Sports Illustrated Is Alleged to Have Used AI to Invent Fake Authors and Their Articles,2023-11-27,2023-11-27,,https://incidentdatabase.ai/cite/616
+620,TSLA,"Tesla, Inc.",A Robot at a Tesla Factory in Texas Allegedly Injured an Engineer,2021-11-10,2023-12-26,twitter/x,https://incidentdatabase.ai/cite/620
+621,MSFT,MICROSOFT CORP,Microsoft AI Is Alleged to Have Generated Violent Imagery of Minorities and Public Figures,2023-11-10,2023-11-10,,https://incidentdatabase.ai/cite/621
+622,GM,General Motors Co,Chevrolet Dealer Chatbot Agrees to Sell Tahoe for $1,2023-12-18,2023-12-18,,https://incidentdatabase.ai/cite/622
+623,GOOGL,Alphabet Inc.,Google Bard Allegedly Generated Fake Legal Citations in Michael Cohen Case,2023-12-12,2023-12-14,,https://incidentdatabase.ai/cite/623
+630,M,"Macy's, Inc.",Alleged Macy's Facial Recognition Error Leads to Wrongful Arrest and Subsequent Sexual Assault in Jail,2022-01-22,2024-01-22,twitter/x,https://incidentdatabase.ai/cite/630
+633,ADBE,ADOBE INC.,Nine Network's AI Alters Lawmaker Georgie Purcell's Image Inappropriately,2024-01-28,2024-01-30,,https://incidentdatabase.ai/cite/633
+638,TSLA,"Tesla, Inc.",Fatal Crash Involving Tesla Full Self-Driving Claims Employee's Life,2022-05-16,2022-11-11,,https://incidentdatabase.ai/cite/638
+640,GOOGL,Alphabet Inc.,Waymo Software Flaw Reportedly Leads to Double Collision with Tow Truck,2023-12-11,2024-02-13,,https://incidentdatabase.ai/cite/640
+645,GOOGL,Alphabet Inc.,Seeming Pattern of Gemini Bias and Sociotechnical Training Failures Harm Google's Reputation,2024-02-21,2024-02-21,,https://incidentdatabase.ai/cite/645
+646,SNAP,Snap Inc,Snapchat's Algorithm Alleged to Link Minor with Sex Offenders,2024-02-22,2024-02-22,,https://incidentdatabase.ai/cite/646
+655,META,"Meta Platforms, Inc.",Scams Reportedly Impersonating Wealthy Investors Proliferating on Facebook,2024-01-11,2024-03-15,,https://incidentdatabase.ai/cite/655
+674,GOOGL,Alphabet Inc.,Manipulated Media via AI Disinformation and Deepfakes in 2024 Elections Erode Trust Across More Than 50 Countries,2024-03-14,2024-03-14,,https://incidentdatabase.ai/cite/674
+686,META,"Meta Platforms, Inc.",Meta AI Image Generator Reportedly Fails to Accurately Represent Interracial Relationships,2024-04-03,2024-04-03,,https://incidentdatabase.ai/cite/686
+693,GOOGL,Alphabet Inc.,Google AI Reportedly Delivering Confidently Incorrect and Harmful Information,2024-05-14,2024-05-14,,https://incidentdatabase.ai/cite/693
+696,META,"Meta Platforms, Inc.",Meta's AI Ad Platform Reportedly Causes Overspending and Poor Performance,2024-02-14,2024-04-28,,https://incidentdatabase.ai/cite/696

@@ -1,0 +1,52 @@
+incident_id,ticker,responsibility_type,correct_ticker,duplicate_of,corrected_event_date,keep,reason
+254,GOOGL,1,Y,,,Y,Google Photos allegedly collected facial geometry without the consent required for Illinois users.
+256,SSTI,1,Y,,,Y,A disputed ShotSpotter gunfire alert led police to stop a driver and prompted challenges to the system's reliability.
+257,SSTI,1,Y,,,Y,An audit of ShotSpotter in Chicago found many unsubstantiated alerts concentrated in Black and Latino neighborhoods.
+263,GOOGL,1,Y,,,Y,YouTube recommendations allegedly helped radicalize Caleb Cain through increasingly extreme videos.
+265,UBER,1,Y,,,Y,Uber's facial-verification system repeatedly rejected Pa Edrissa Manjang's selfies before deactivating his account.
+268,GOOGL,3,Y,,,N,A multi-platform investigation found automated removals erased potential evidence of human-rights abuses.
+268,META,3,Y,,,N,A multi-platform investigation found automated removals erased potential evidence of human-rights abuses.
+270,AAPL,1,Y,,,Y,Apple's App Store ranking algorithm sharply reduced the visibility of Chinese apps.
+272,GRAB,1,Y,,,Y,Grab allegedly favored drivers renting affiliated TPI vehicles when allocating rides.
+275,META,1,Y,,,Y,Facebook removed a historical photograph of chained Aboriginal men under its content rules.
+278,META,1,Y,,2022-08-08,Y,Meta's BlenderBot produced antisemitic and election-misinformation responses; news reporting appeared on 2022-08-08 rather than the tweet.
+281,GOOGL,1,Y,,,Y,YouTube recommended self-harm content to accounts presented as young teenagers.
+283,META,1,Y,,,Y,Facebook's automated moderation removed a Declaration of Independence excerpt as hate speech.
+284,META,1,Y,,,Y,Facebook's nudity enforcement removed historical artworks and museum advertisements.
+285,GOOGL,1,Y,,,Y,Google Lens produced an offensive mistranslation of a Korean book title.
+291,TSLA,1,Y,,,Y,California regulators alleged Tesla overstated Autopilot and Full Self-Driving capabilities in advertising.
+292,AAPL,1,Y,,,Y,Apple's autonomous test vehicles reportedly struck curbs and drifted out of lanes.
+303,GOOGL,1,Y,,,Y,Google's automated child-abuse detection flagged medical photographs of a child and locked the father's account.
+305,GOOGL,1,Y,,,Y,An audit of YouTube found its recommendations promoted climate misinformation.
+306,TSLA,1,Y,,,Y,A Tesla using adaptive cruise control collided with a stationary van.
+311,GOOGL,1,Y,,,Y,YouTube's moderation removed a livestreamed women's sexual-health technology conference.
+313,META,1,Y,,2023-08-03,Y,BlenderBot falsely labeled Marietje Schaake a terrorist; the linked news article appeared on 2023-08-03 rather than the tweet.
+316,META,1,Y,,,Y,Facebook's ad system displayed misleading destination URLs that directed users to fraudulent celebrity endorsements.
+317,META,1,Y,,,Y,Facebook's spam filters wrongly blocked legitimate coronavirus news articles.
+318,META,1,Y,,,Y,Facebook's advertising recommendations continued serving weapons accessories alongside extremist content after the Capitol attack.
+319,TSLA,1,Y,,,Y,"A Tesla reportedly using Autopilot struck a parked Indiana fire truck, killing passenger Jenna Monet."
+322,TSLA,1,Y,,,Y,A Tesla using Autopilot struck a police vehicle assisting a stranded motorist in Connecticut.
+323,TSLA,1,Y,,,Y,A Tesla using Autopilot struck an unoccupied police vehicle in Laguna Beach.
+325,META,1,Y,,,Y,Instagram selected a screenshot of an abusive threat for a promotional Facebook advertisement.
+326,META,1,Y,,,Y,Facebook's Year in Review resurfaced a bereaved father's photograph of his deceased daughter.
+327,META,1,Y,,,Y,"Facebook's On This Day resurfaced distressing memories, including a friend's suicide."
+329,AMZN,1,Y,,,Y,Amazon's recommendation system grouped ingredients that could be used to make explosives.
+330,AMZN,1,Y,,,Y,Amazon's automated Choice badge promoted products with defects or manipulated reviews.
+331,META,1,Y,,,Y,Instagram's related-hashtag algorithm surfaced negative political associations and was disabled.
+333,TSLA,1,Y,,,Y,A Tesla reportedly using Autopilot struck a Michigan State Police vehicle at a roadside incident.
+343,META,1,Y,,,Y,Facebook and Instagram failed to remove racist abuse targeting England footballers after the Euro final.
+347,GOOGL,1,Y,,,Y,A Waymo vehicle became confused by road cones and drove away from assistance personnel.
+348,GOOGL,1,Y,,,Y,A YouTube-specific study found election-fraud narratives were recommended more often to users skeptical of the election result.
+349,EVLV,1,Y,,,Y,Evolv's weapons scanner reportedly missed a knife before a school stabbing and faced accuracy scrutiny.
+350,SERV,1,Y,,,Y,A Serve Robotics delivery robot crossed police tape and entered an active crime scene.
+353,TSLA,1,Y,230,,N,Jeremy Banner's fatal Florida Autopilot collision is the same event described in incident 230.
+355,UBER,1,Y,,,Y,Uber's automated fraud detection allegedly deactivated drivers without adequate explanations or appeal.
+359,META,1,Y,,2021-05-28,Y,Facebook's moderation wrongly suppressed Palestinian activists; the linked news report is dated 2021-05-28 rather than March.
+361,AMZN,1,Y,,,Y,An Amazon Echo mistakenly recorded a private conversation and sent it to a contact.
+362,META,1,Y,,,Y,Facebook's moderation repeatedly treated gardening discussions of hoes as offensive language.
+363,META,1,Y,,,Y,Facebook mistakenly flagged references to the Plymouth Hoe landmark as misogynistic language.
+364,WMT,1,Y,,,Y,Walmart's automated checkout monitoring produced false alerts that required unnecessary close contact during the pandemic.
+367,GOOGL,3,Y,,,N,Researchers compared OpenAI's iGPT and Google's SimCLR and found gender and racial biases in image representations.
+370,GOOGL,1,Y,,,Y,Google's search rankings favored its own comparison-shopping service over competitors.
+372,GOOGL,1,Y,,,Y,Google Pixel 6a fingerprint authentication reportedly accepted fingerprints that had not been enrolled.
+377,WB,1,Y,,,Y,Weibo's automated censorship caused users to adopt coded language to discuss sensitive events.

@@ -1,0 +1,26 @@
+incident_id,ticker,responsibility_type,correct_ticker,duplicate_of,corrected_event_date,keep,reason
+33,AMZN,1,Y,,,Y,
+102,MSFT,3,Y,,,N,"Multi-firm study of several voice-assistant systems, so it is Type 3."
+211,TSLA,1,Y,,,Y,"Tesla's vehicle system was implicated in the alleged acceleration and braking failure, although causation was disputed."
+215,META,1,Y,,,Y,
+255,SSTI,1,Y,,,Y,"ShotSpotter's own detection system was allegedly unreliable even though Chicago police deployed it."
+271,TSLA,1,Y,,,Y,
+282,META,1,Y,,2020-10-07,Y,"Facebook's own moderation algorithm misclassified the onion ad; the first real news report was 2020-10-07."
+294,TSLA,1,Y,,,Y,"Tesla Autopilot was alleged to have malfunctioned; the 2018-05-25 Electrek article is a real news report, so no date correction is needed."
+334,UBER,1,Y,,,Y,
+386,AMZN,1,Y,,,Y,
+392,META,1,Y,,2022-06-15,Y,"This concerned Facebook's deployed moderation system rather than a multi-firm study; the first real news article was 2022-06-15."
+463,AAPL,1,Y,,,Y,
+595,GM,1,Y,,,Y,
+684,GOOGL,1,Y,,,Y,
+710,META,1,Y,,,Y,
+714,MSFT,1,Y,,,Y,"Microsoft helped develop the NYC chatbot and the supplied system itself produced the harmful inaccurate advice."
+996,META,1,Y,,,Y,"Meta's own model training allegedly used pirated Books3 data; this was a concrete firm action and lawsuit rather than a multi-firm study."
+1188,GOOGL,3,Y,,,N,"A single study tested several companies' LLMs, including Google Gemini, so it is Type 3."
+1210,GOOGL,2,Y,,,N,"Malicious Nx attackers deliberately weaponized Google's Gemini CLI to exfiltrate data."
+1220,BABA,2,Y,,,N,"APT28-linked attackers deliberately used Alibaba's Qwen model to generate malware commands."
+1248,GOOGL,1,Y,,,Y,
+1326,GOOGL,1,Y,,,Y,
+1433,GOOGL,1,Y,,,Y,
+1510,META,2,Y,,,N,"Hackers deliberately tricked Meta's AI support chatbot to take over other users' Instagram accounts."
+1541,GOOGL,1,Y,,,Y,

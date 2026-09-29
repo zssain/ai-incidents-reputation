@@ -1,0 +1,51 @@
+incident_id,ticker,company,title,aiid_incident_date,earliest_report_date,date_flag,incident_url
+8,UBER,"Uber Technologies, Inc",Uber Autonomous Cars Running Red Lights,2014-08-15,2016-12-15,,https://incidentdatabase.ai/cite/8
+14,GOOGL,Alphabet Inc.,Biased Sentiment Analysis,2017-10-26,2017-10-26,,https://incidentdatabase.ai/cite/14
+53,GOOGL,Alphabet Inc.,Biased Google Image Results,2016-03-31,2012-03-01,before_incident;pdf;blog,https://incidentdatabase.ai/cite/53
+63,GOOGL,Alphabet Inc.,Google Photo Merge Decapitates Subject,2018-01-25,2018-01-25,,https://incidentdatabase.ai/cite/63
+83,GOOGL,Alphabet Inc.,AI Spam Filters Allegedly Block Legitimate Emails Based on Biased Keyword Detection,2020-10-22,2020-10-22,,https://incidentdatabase.ai/cite/83
+107,BABA,Alibaba Group Holding Ltd,"Chinese Tech Firms Allegedly Developed Facial Recognition to Identify People by Race, Targeting Uyghur Muslims",2018-07-20,2020-12-17,,https://incidentdatabase.ai/cite/107
+112,SSTI,"SOUNDTHINKING, INC.",Police Departments Reported ShotSpotter as Unreliable and Wasteful,2012-10-09,2012-10-31,,https://incidentdatabase.ai/cite/112
+145,TSLA,"Tesla, Inc.",Tesla's Autopilot Misidentified the Moon as Yellow Stop Light,2021-07-23,2021-07-23,twitter/x,https://incidentdatabase.ai/cite/145
+156,AMZN,AMAZON COM INC,Amazon Reportedly Sold Products and Recommended Frequently Bought Together Items That Aid Suicide Attempts,2022-02-04,2022-02-04,,https://incidentdatabase.ai/cite/156
+164,META,"Meta Platforms, Inc.","Facebook ""News Feed"" Allegedly Boosted Misinformation and Violating Content Following Use of MSI Metric",2018-10-01,2021-09-15,,https://incidentdatabase.ai/cite/164
+197,META,"Meta Platforms, Inc.","Facebook Internally Reported Failure of Ranking Algorithm, Exposing Harmful Content to Viewers over Months",2021-10-01,2022-03-31,,https://incidentdatabase.ai/cite/197
+218,TSLA,"Tesla, Inc.",Tesla on Autopilot Crashed into Flipped Truck on Taiwan Highway,2020-06-01,2020-06-01,,https://incidentdatabase.ai/cite/218
+261,KSCP,"Knightscope, Inc.","Robot Deployed by Animal Shelter to Patrol Sidewalks outside Its Office, Warding off Homeless People in San Francisco",2017-11-15,2017-12-08,,https://incidentdatabase.ai/cite/261
+293,GM,General Motors Co,Cruise’s Self-Driving Car Involved in a Multiple-Injury Collision at an San Francisco Intersection,2022-06-03,2022-06-10,,https://incidentdatabase.ai/cite/293
+304,TSLA,"Tesla, Inc.",Tesla on FSD Reportedly Drove into the Wrong Lane in California,2021-11-03,2021-11-12,,https://incidentdatabase.ai/cite/304
+332,GOOGL,Alphabet Inc.,Google Images Showed Racially Biased Results for 'Professional' Hairstyles,2016-04-05,2016-04-07,,https://incidentdatabase.ai/cite/332
+337,TSLA,"Tesla, Inc.","Tesla Model S on ACC Crashed into Tree in Texas, Killing Two People",2021-04-17,2021-04-18,,https://incidentdatabase.ai/cite/337
+360,MCD,MCDONALDS CORP,"McDonald's AI Drive-Thru Allegedly Collected Biometric Customer Data without Consent, Violating BIPA",2021-10-15,2021-06-02,before_incident,https://incidentdatabase.ai/cite/360
+395,AMZN,AMAZON COM INC,Amazon Allegedly Forced Deployment of AI-Powered Cameras on Delivery Drivers,2021-03-02,2021-02-04,before_incident,https://incidentdatabase.ai/cite/395
+400,GOOGL,Alphabet Inc.,Google Search Reportedly Returned Fewer Results for Abortion Services in Rural Areas,2022-02-23,2022-02-23,arxiv,https://incidentdatabase.ai/cite/400
+406,META,"Meta Platforms, Inc.",Facebook's Friend Suggestion Feature Recommends Patients of Psychiatrist to Each Other,2015-07-15,2016-08-29,,https://incidentdatabase.ai/cite/406
+431,AAPL,Apple Inc.,Robbers Accessed Drugged Gay Men's Bank Accounts Using Their Phones' Facial Recognition,2022-04-20,2022-06-01,,https://incidentdatabase.ai/cite/431
+460,GM,General Motors Co,Cruise AV Ran Over Fire Hose in Active Fire Scene,2022-06-12,2023-01-25,pdf,https://incidentdatabase.ai/cite/460
+469,META,"Meta Platforms, Inc.",Automated Adult Content Detection Tools Showed Bias against Women Bodies,2006-02-25,2019-10-17,,https://incidentdatabase.ai/cite/469
+475,IBM,INTERNATIONAL BUSINESS MACHINES CORP,McDonald's Reportedly Ends IBM Partnership After AI Drive-Thru Ordering Errors at U.S. Locations,2021-06-02,2023-02-13,twitter/x,https://incidentdatabase.ai/cite/475
+580,META,"Meta Platforms, Inc.",Alleged Gender Discrimination in Facebook Job Ads Algorithm,2023-06-12,2023-06-12,,https://incidentdatabase.ai/cite/580
+587,GOOGL,Alphabet Inc.,Apparent Failure to Accurately Label Primates in Image Recognition Software Due to Alleged Fear of Racial Bias,2023-05-22,2023-05-22,,https://incidentdatabase.ai/cite/587
+587,MSFT,MICROSOFT CORP,Apparent Failure to Accurately Label Primates in Image Recognition Software Due to Alleged Fear of Racial Bias,2023-05-22,2023-05-22,,https://incidentdatabase.ai/cite/587
+647,GOOGL,Alphabet Inc.,A Self-Driving Waymo Robotaxi Reportedly Collided with a Bicyclist,2024-02-06,2024-02-07,,https://incidentdatabase.ai/cite/647
+654,MSFT,MICROSOFT CORP,Microsoft Copilot Designer Reportedly Generated Inappropriate AI Images,2024-03-06,2024-03-06,,https://incidentdatabase.ai/cite/654
+731,META,"Meta Platforms, Inc.",Purportedly Hallucinated Software Packages with Potential Malware Reportedly Downloaded Thousands of Times by Developers,2023-12-01,2024-03-28,,https://incidentdatabase.ai/cite/731
+758,META,"Meta Platforms, Inc.",Teen's Overdose Reportedly Linked to Meta's AI Systems Failing to Block Ads for Illegal Drugs,2023-09-11,2024-07-31,,https://incidentdatabase.ai/cite/758
+794,GOOGL,Alphabet Inc.,Reported Glitch in Waymo Self-Driving Cars Purportedly Triggers Regular All-Night Honking in San Francisco,2024-08-13,2024-08-10,before_incident,https://incidentdatabase.ai/cite/794
+803,META,"Meta Platforms, Inc.","Facebook's Algorithm Reportedly Amplifies AI-Generated Content, Fueling Misleading Posts",2024-05-14,2024-05-14,,https://incidentdatabase.ai/cite/803
+881,GOOGL,Alphabet Inc.,Waymo Robotaxi Allegedly Collides With Serve Robotics Delivery Bot in Los Angeles,2024-12-27,2024-12-31,,https://incidentdatabase.ai/cite/881
+881,SERV,Serve Robotics Inc. /DE/,Waymo Robotaxi Allegedly Collides With Serve Robotics Delivery Bot in Los Angeles,2024-12-27,2024-12-31,,https://incidentdatabase.ai/cite/881
+885,META,"Meta Platforms, Inc.","Meta AI Characters Allegedly Exhibited Racism, Fabricated Identities, and Exploited User Trust",2025-01-03,2025-01-03,,https://incidentdatabase.ai/cite/885
+889,TSLA,"Tesla, Inc.",Tesla's 'Actually Smart Summon' Feature Reportedly Linked to Multiple Parking Lot Collisions,2025-01-07,2025-01-07,,https://incidentdatabase.ai/cite/889
+934,GOOGL,Alphabet Inc.,NHK Terminates AI Translation Service After Geopolitical Naming Error,2025-02-10,2025-02-12,,https://incidentdatabase.ai/cite/934
+952,AAPL,Apple Inc.,Apple’s Voice Dictation Reportedly Substitutes ‘Trump’ for ‘Racist’ Due to Speech Recognition Bug,2025-02-25,2025-02-25,,https://incidentdatabase.ai/cite/952
+1173,GOOGL,Alphabet Inc.,Google Gemini Reportedly Exhibits Repetitive Self-Deprecating Responses Attributed to Bug,2025-06-23,2025-08-08,,https://incidentdatabase.ai/cite/1173
+1176,MSFT,MICROSOFT CORP,Microsoft's Windows Recall Allegedly Stores Passwords and Social Security Numbers in Preview Mode,2025-08-01,2025-08-01,,https://incidentdatabase.ai/cite/1176
+1218,MSFT,MICROSOFT CORP,Microsoft 365 Copilot Vulnerability Allegedly Allowed File Access Without Audit Log Entry,2025-07-04,2025-08-18,,https://incidentdatabase.ai/cite/1218
+1279,GOOGL,Alphabet Inc.,Prominent AI Chatbots Allegedly Produced Incorrect UK Financial and ISA Guidance,2025-11-18,2025-11-18,,https://incidentdatabase.ai/cite/1279
+1418,META,"Meta Platforms, Inc.",Meta AI Smart Glasses Reportedly Routed Intimate Imagery to Reviewers at Kenyan Contractor Sama Before Meta Ended Contra,2026-02-27,2026-02-27,,https://incidentdatabase.ai/cite/1418
+1534,GOOGL,Alphabet Inc.,Google Alleged Outsider Enterprise Used Gemini to Create Phishing Sites for Text-Message Scams,2026-05-01,2026-06-12,,https://incidentdatabase.ai/cite/1534
+1538,BIDU,"Baidu, Inc.",City of Zhuzhou in Hunan Suspended Hellobike Robotaxi Service After Vehicle Struck Two Pedestrians,2025-12-06,2025-12-06,,https://incidentdatabase.ai/cite/1538
+1540,AMZN,AMAZON COM INC,"Zoox Robotaxi Reportedly Collided with Open Car Door, Allegedly Injuring San Francisco Street Ambassador",2026-01-17,2026-01-28,,https://incidentdatabase.ai/cite/1540
+1559,WMT,Walmart Inc.,Kalibrate Fuel Pricing Allegedly Enabled California Gas Station Operators to Coordinate Higher Pump Prices,2022-06-22,2026-06-22,,https://incidentdatabase.ai/cite/1559
+1602,AMZN,AMAZON COM INC,"Zoox Autonomous Vehicle Reportedly Entered Smoke-Obscured Fire Scene, Prompting Heavy-Smoke Detection Recall",2026-06-20,2026-07-17,,https://incidentdatabase.ai/cite/1602

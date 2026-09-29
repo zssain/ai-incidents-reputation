@@ -1,0 +1,53 @@
+incident_id,ticker,responsibility_type,correct_ticker,duplicate_of,corrected_event_date,keep,reason
+8,UBER,1,Y,,,Y,
+14,GOOGL,1,Y,,,Y,
+53,GOOGL,1,Y,,,Y,
+63,GOOGL,1,Y,,,Y,
+83,GOOGL,2,N,,,N,Alphabet is not responsible where's it was was Microsofts ai tool
+107,BABA,2,N,,,N,its alot of Chinese companies which failed
+112,SSTI,2,Y,,,N,bcoz the tool was misused
+145,TSLA,1,Y,,,Y,
+156,AMZN,1,Y,,,Y,
+164,META,1,Y,,,Y,
+197,META,1,Y,,,Y,
+218,TSLA,1,Y,,,Y,
+261,KSCP,2,Y,,,N,because people perceived or misused
+293,GM,2,N,,,N,its Toyota who's responsible
+304,TSLA,,,,,,
+332,GOOGL,1,Y,yes,,N,"repeat of another similiar case
+"
+337,TSLA,1,Y,,,Y,
+360,MCD,1,Y,,,Y,
+395,AMZN,1,Y,,,Y,
+400,GOOGL,1,Y,,,Y,
+406,META,1,Y,,,Y,
+431,AAPL,1,Y,,,Y,
+460,GM,1,Y,,,Y,
+469,META,,,,,,
+475,IBM,1,Y,,,Y,
+580,META,1,Y,,,Y,
+587,GOOGL,1,Y,,,Y,
+587,MSFT,1,N,,,N,all the software companies are responsible and not just one
+647,GOOGL,1,Y,,,Y,
+654,MSFT,1,Y,,,Y,
+731,META,1,N,,,N,"its all devs
+"
+758,META,2,Y,,,N,its the student mistake and not AI
+794,GOOGL,1,Y,,,Y,
+803,META,1,Y,,,Y,
+881,GOOGL,1,Y,,,Y,
+881,SERV,1,Y,,,Y,
+885,META,1,Y,,,Y,
+889,TSLA,1,Y,,,Y,
+934,GOOGL,1,Y,,,Y,
+952,AAPL,1,Y,,,Y,
+1173,GOOGL,1,Y,,,Y,
+1176,MSFT,1,Y,,,Y,
+1218,MSFT,2,Y,,,N,its a misuse
+1279,GOOGL,2,Y,,,N,they didnt use or consider the edge cases
+1418,META,1,Y,,,Y,
+1534,GOOGL,1,Y,,,Y,
+1538,BIDU,2,N,,,N,a misuse not responsible but a grp
+1540,AMZN,1,Y,,,Y,
+1559,WMT,1,Y,,,Y,
+1602,AMZN,1,Y,,,Y,

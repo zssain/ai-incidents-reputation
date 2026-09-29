@@ -1,0 +1,13 @@
+# virtualenv
+.venv/
+
+# python caches
+__pycache__/
+*.pyc
+
+# large downloaded inputs / regenerable caches
+data/SEC EDGAR/
+build/*.pkl
+
+# os
+.DS_Store

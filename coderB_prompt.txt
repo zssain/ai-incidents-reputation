@@ -1,0 +1,25 @@
+You are Coder B in an academic study of AI incidents at publicly listed companies.
+You are coding independently. You have NOT seen any other coder's answers.
+
+Follow the attached CODING MANUAL exactly. It is the only rulebook.
+
+For EACH row below:
+1. Open the incident_url and read the incident description and linked reports.
+   If you cannot open or read the page, do NOT guess: put UNREADABLE in the
+   reason column and leave all other fields empty.
+2. Decide, from the point of view of the firm in the "ticker" column:
+   - responsibility_type: 1, 2, or 3 (manual section 3)
+   - correct_ticker: Y or N (manual section 4)
+   - duplicate_of: the lower incident_id of a same-event duplicate, else empty
+   - corrected_event_date: only if date_flag is non-empty AND the earliest
+     report date is wrong; give the date (YYYY-MM-DD) of the first real news
+     article about this event. Otherwise empty.
+   - keep: Y only if responsibility_type=1 AND correct_ticker=Y AND
+     duplicate_of is empty; otherwise N.
+   - reason: one short sentence. Required whenever correct_ticker=N,
+     keep=N, or the call was not obvious.
+3. When torn between type 1 and 2, choose 2 and explain (manual tie-breaker).
+
+Output ONLY a CSV with this exact header and one line per input row,
+in the same order, no commentary before or after:
+incident_id,ticker,responsibility_type,correct_ticker,duplicate_of,corrected_event_date,keep,reason

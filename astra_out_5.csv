@@ -1,0 +1,52 @@
+incident_id,ticker,responsibility_type,correct_ticker,duplicate_of,corrected_event_date,keep,reason
+503,MSFT,1,Y,,2023-02-16,Y,Bing threatened users during conversations; the linked news coverage appeared on 2023-02-16 rather than the tweet.
+504,MSFT,1,Y,,2023-02-14,Y,Bing's launch demo contained fabricated product and financial claims; news coverage appeared on 2023-02-14 rather than the blog date.
+511,MSFT,,,,,,UNREADABLE
+520,AMZN,1,Y,,,Y,Amazon Fresh's automated checkout failed to detect items accurately.
+525,TSLA,1,Y,,,Y,"Tesla Autopilot was involved in Justine Hsu's barrier collision, but a jury found Tesla not at fault."
+527,AMZN,3,Y,,2023-04-13,N,Research examined algorithmic wage discrimination across Uber and Amazon; the linked news report appeared on 2023-04-13 rather than SSRN.
+527,UBER,3,Y,,2023-04-13,N,Research examined algorithmic wage discrimination across Uber and Amazon; the linked news report appeared on 2023-04-13 rather than SSRN.
+531,LHX,1,Y,,,Y,L3Harris airport body scanners allegedly produced gender-related false alarms that subjected transgender travelers to intrusive searches.
+533,TSLA,,,,,,UNREADABLE
+539,SNAP,,,,,,UNREADABLE
+540,TSLA,,,,,,UNREADABLE
+548,OPRA,1,Y,,,Y,Opera's Aria chatbot falsely accused photographers of war crimes.
+549,MCD,3,Y,,,N,UNCERTAIN: A job applicant compared malfunctioning hiring chatbots at McDonald's and Wendy's in one multi-company account.
+549,WEN,3,Y,,,N,UNCERTAIN: A job applicant compared malfunctioning hiring chatbots at McDonald's and Wendy's in one multi-company account.
+550,TSLA,1,Y,,,Y,A Tesla reportedly using Autopilot struck Tillman Mitchell as he left a school bus.
+552,MSFT,,,,,,UNREADABLE
+553,GOOGL,1,Y,,2023-05-05,Y,Google featured an AI imitation as an Edward Hopper painting; news coverage appeared on 2023-05-05 rather than the tweet.
+554,GOOGL,1,Y,,,Y,Google's image results featured an AI imitation of Vermeer's Girl with a Pearl Earring.
+556,AMZN,,,,,,UNREADABLE
+560,TSLA,1,Y,,,Y,A Tesla using Autopilot struck a stopped truck on the Pennsylvania Turnpike.
+563,GM,1,Y,,,Y,"Cruise robotaxis were accused of delaying an ambulance, but subsequent findings indicated they were not at fault for the patient's death."
+570,META,,,,,,UNREADABLE
+571,MSFT,1,Y,,,Y,Microsoft's AI researchers exposed private backups and internal messages through an over-permissive Azure download token.
+574,GOOGL,1,N,,,N,"G/O Media published inaccurate AI articles, but the reviewed reports do not establish a Google-developed system."
+576,META,1,Y,,,Y,Facebook's advertising system ran promotions for an AI image service associated with sexualized content.
+583,META,1,Y,,,Y,Instagram recommendations connected accounts promoting child sexual abuse material.
+587,AAPL,3,Y,,,N,A New York Times comparison tested several companies' image-labeling systems and found missing primate classifications.
+587,AMZN,3,Y,,,N,A New York Times comparison tested several companies' image-labeling systems and found missing primate classifications.
+591,CI,,,,,,UNREADABLE
+596,GM,,,,,,UNREADABLE
+608,UNH,1,Y,,,Y,UnitedHealth's nH Predict allegedly supported premature denials of medically necessary rehabilitation.
+609,GOOGL,1,Y,,,Y,Google's featured snippet repeated an AI-generated claim that no African country starts with K.
+612,MSFT,1,Y,,,Y,Microsoft's news service generated an insensitive poll beside a report about a woman's death.
+613,ADBE,1,N,,,N,UNCERTAIN: Adobe Stock hosted third-party synthetic news imagery without evidence that Adobe's own AI generated or moderated the images.
+614,GOOGL,,,,,,UNREADABLE
+616,AREN,,,,,,UNREADABLE
+620,TSLA,1,Y,,,Y,A robot deployed in Tesla's Texas factory reportedly injured an engineer during a maintenance incident.
+621,MSFT,2,Y,,,N,4chan users deliberately used Bing Image Creator to generate racist and antisemitic propaganda.
+622,GM,1,N,,,N,UNCERTAIN: An independent Chevrolet dealership deployed the exploited Fullpath chatbot; General Motors' operation or ownership is not established.
+623,GOOGL,1,Y,,,Y,Google Bard supplied fabricated legal precedents that Michael Cohen passed to his lawyer.
+630,M,1,Y,,,Y,Macy's facial-recognition match allegedly caused Harvey Murphy's wrongful arrest and subsequent jail assault.
+633,ADBE,,,,,,UNREADABLE
+638,TSLA,1,Y,,,Y,A fatal Colorado Tesla crash involved alleged Full Self-Driving use and a driver with a high blood-alcohol level.
+640,GOOGL,,,,,,UNREADABLE
+645,GOOGL,1,Y,,,Y,Google Gemini generated historically inaccurate images while attempting to diversify depictions.
+646,SNAP,1,Y,,,Y,Snapchat's Quick Add recommended convicted sex offenders to a minor who was subsequently assaulted.
+655,META,1,Y,,,Y,Facebook's ad systems repeatedly distributed fraudulent investment advertisements impersonating financial figures.
+674,GOOGL,3,N,,,N,UNCERTAIN: A cross-country investigation describes AI election deception without establishing a specific Google tool in the reported operations.
+686,META,1,Y,,,Y,Meta's image generator repeatedly failed to depict requested interracial couples.
+693,GOOGL,1,Y,,,Y,"Google's AI search demonstration recommended opening a loaded film camera, which would ruin photographs."
+696,META,1,Y,,,Y,Meta's Advantage Plus advertising system rapidly exhausted budgets while delivering poor results.

@@ -1,0 +1,72 @@
+ticker,company,incidents
+GOOGL,Alphabet Inc.,133
+META,"Meta Platforms, Inc.",104
+TSLA,"Tesla, Inc.",50
+MSFT,MICROSOFT CORP,43
+AMZN,AMAZON COM INC,35
+AAPL,Apple Inc.,16
+GM,General Motors Co,15
+UBER,"Uber Technologies, Inc",10
+SSTI,"SOUNDTHINKING, INC.",6
+KSCP,"Knightscope, Inc.",4
+BABA,Alibaba Group Holding Ltd,4
+MCD,MCDONALDS CORP,4
+SERV,Serve Robotics Inc. /DE/,3
+WMT,Walmart Inc.,3
+BIDU,"Baidu, Inc.",3
+IBM,INTERNATIONAL BUSINESS MACHINES CORP,2
+TGT,TARGET CORP,2
+EVLV,"Evolv Technologies Holdings, Inc.",2
+LMT,LOCKHEED MARTIN CORP,2
+RTX,RTX Corp,2
+UNH,UNITEDHEALTH GROUP INC,2
+SNAP,Snap Inc,2
+TRI,THOMSON REUTERS CORP /CAN/,2
+PYPL,"PayPal Holdings, Inc.",2
+JNJ,JOHNSON & JOHNSON,2
+IART,INTEGRA LIFESCIENCES HOLDINGS CORP,2
+BA,BOEING CO,1
+ISRG,INTUITIVE SURGICAL INC,1
+SBUX,STARBUCKS CORP,1
+GS,GOLDMAN SACHS GROUP INC,1
+ZG,"ZILLOW GROUP, INC.",1
+PONY,Pony AI Inc.,1
+NFLX,NETFLIX INC,1
+ABNB,"Airbnb, Inc.",1
+PATH,"UiPath, Inc.",1
+ZH,Zhihu Inc.,1
+AXON,"AXON ENTERPRISE, INC.",1
+GRAB,Grab Holdings Ltd,1
+WB,WEIBO Corp,1
+TSPH,TuSimple Holdings Inc.,1
+ORCL,ORACLE CORP,1
+XPEV,XPENG INC.,1
+MSGE,Madison Square Garden Entertainment Corp.,1
+GE,GENERAL ELECTRIC CO,1
+LUV,SOUTHWEST AIRLINES CO,1
+CPNG,"Coupang, Inc.",1
+WDAY,"Workday, Inc.",1
+LHX,"L3HARRIS TECHNOLOGIES, INC. /DE/",1
+OPRA,Opera Ltd,1
+WEN,Wendy's Co,1
+CI,Cigna Group,1
+AREN,"Arena Group Holdings, Inc.",1
+M,"Macy's, Inc.",1
+ADBE,ADOBE INC.,1
+BKD,Brookdale Senior Living Inc.,1
+ALL,ALLSTATE CORP,1
+LIF,"Life360, Inc.",1
+PGR,PROGRESSIVE CORP/OH/,1
+FIG,"Figma, Inc.",1
+OPRT,Oportun Financial Corp,1
+WHR,WHIRLPOOL CORP /DE/,1
+OMC,OMNICOM GROUP INC.,1
+DKNG,DraftKings Inc.,1
+FLUT,Flutter Entertainment plc,1
+ACI,"Albertsons Companies, Inc.",1
+MPC,Marathon Petroleum Corp,1
+PM,Philip Morris International Inc.,1
+UDR,"UDR, Inc.",1
+MGM,MGM Resorts International,1
+CZR,"Caesars Entertainment, Inc.",1
+ZTS,Zoetis Inc.,1

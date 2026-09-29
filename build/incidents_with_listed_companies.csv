@@ -1,0 +1,450 @@
+incident_id,title,listed_tickers,n_listed
+1,Google’s YouTube Kids App Presents Inappropriate Content,GOOGL,1
+2,Warehouse robot ruptures can of bear spray and injures workers,AMZN,1
+3,Crashes with Maneuvering Characteristics Augmentation System (MCAS),BA,1
+4,Uber AV Killed Pedestrian in Arizona,UBER,1
+5,Collection of Robotic Surgery Malfunctions,ISRG,1
+6,"Microsoft's TayBot Allegedly Posts Racist, Sexist, and Anti-Semitic Content to Twitter",MSFT,1
+8,Uber Autonomous Cars Running Red Lights,UBER,1
+10,Kronos Scheduling Algorithm Allegedly Caused Financial Issues for Starbucks Employees,SBUX,1
+12,Common Biases of Vector Embeddings,GOOGL,1
+13,High-Toxicity Assessed on Text Involving Women and Minority Groups,GOOGL,1
+14,Biased Sentiment Analysis,GOOGL,1
+15,Amazon Censors Gay Books,AMZN,1
+16,Images of Black People Labeled as Gorillas,GOOGL,1
+17,Inappropriate Gmail Smart Reply Suggestions,GOOGL,1
+18,Gender Biases of Google Image Search,GOOGL,1
+19,Sexist and Racist Google Adsense Advertisements,GOOGL,1
+20,A Collection of Tesla Autopilot-Involved Crashes,TSLA,1
+22,Waze Navigates Motorists into Wildfires,GOOGL,1
+25,Google and Delphi Self-Driving Prototypes Allegedly Involved in Near-Miss on San Antonio R,GOOGL,1
+26,Hackers Break Apple Face ID,AAPL,1
+30,Poor Performance of Tesla Factory Robots,TSLA,1
+32,Identical Twins Can Open Apple FaceID Protected Devices,AAPL,1
+33,Amazon Alexa Plays Loud Music when Owner is Away,AMZN,1
+34,Amazon Alexa Responding to Environmental Inputs,AMZN,1
+37,Amazon's Experimental Hiring Tool Allegedly Displayed Gender Bias in Candidate Rankings,AMZN,1
+45,Defamation via AutoComplete,GOOGL,1
+47,LinkedIn Search Prefers Male Names,MSFT,1
+51,Security Robot Rolls Over Child in Mall,KSCP,1
+52,Tesla on AutoPilot Killed Driver in Crash in Florida while Watching Movie,TSLA,1
+53,Biased Google Image Results,GOOGL,1
+55,Alexa Plays Pornography Instead of Kids Song,AMZN,1
+59,Gender Biases in Google Translate,GOOGL,1
+63,Google Photo Merge Decapitates Subject,GOOGL,1
+66,Chinese Chatbots Question Communist Party,MSFT,1
+67,Sleeping Driver on Tesla AutoPilot,TSLA,1
+68,Security Robot Drowns Itself in a Fountain,KSCP,1
+71,Google Waymo Vehicle and Bus Allegedly Collide in California,GOOGL,1
+72,"Facebook translates 'good morning' into 'attack them', leading to arrest",META,1
+75,Google Instant's Allegedly 'Anti-Semitic' Results Lead To Lawsuit In France,GOOGL,1
+77,Knightscope's Park Patrol Robot Ignored Bystander Pressing Emergency Button to Alert Polic,KSCP,1
+81,"Researchers find evidence of racial, gender, and socioeconomic bias in chest X-ray classif",GOOGL,1
+82,#LekkiMassacre: Why Facebook labelled content from October 20 incident ‘false’,META,1
+83,AI Spam Filters Allegedly Block Legitimate Emails Based on Biased Keyword Detection,GOOGL;MSFT,2
+84,"Tiny Changes Let False Claims About COVID-19, Voting Evade Facebook Fact Checks",META,1
+89,The Christchurch shooter and YouTube’s radicalization trap,GOOGL,1
+92,Apple Card's Credit Assessment Algorithm Allegedly Discriminated against Women,AAPL;GS,2
+93,HUD charges Facebook with enabling housing discrimination,META,1
+97,Tesla Autopilot Mistakes Red Letters on Flag for Red Traffic Lights,TSLA,1
+102,"Personal voice assistants struggle with black voices, new study shows",AAPL;AMZN;GOOGL;IBM;MSFT,5
+105,"Tesla Model 3 on Autopilot Crashed into a Ford Explorer Pickup, Killing a Fifteen-Year-Old",TSLA,1
+107,"Chinese Tech Firms Allegedly Developed Facial Recognition to Identify People by Race, Targ",BABA,1
+111,Amazon Flex Drivers Allegedly Fired via Automated Employee Evaluations,AMZN,1
+112,Police Departments Reported ShotSpotter as Unreliable and Wasteful,SSTI,1
+113,"Facebook's AI Put ""Primates"" Label on Video Featuring Black Men",META,1
+114,Amazon's Rekognition Falsely Matched Members of Congress to Mugshots,AMZN,1
+116,Amazon's AI Cameras Incorrectly Penalized Delivery Drivers for Mistakes They Did Not Make,AMZN,1
+122,Facebook's 'Tag Suggestions' Allegedly Stored Biometric Data without User Consent,META,1
+125,Amazon’s Robotic Fulfillment Centers Have Higher Serious Injury Rates,AMZN,1
+127,Microsoft’s Algorithm Allegedly Selected Photo of the Wrong Mixed-Race Person Featured in ,MSFT,1
+128,"Tesla Sedan on Autopilot Reportedly Drove Over Dividing Curb in Washington, Resulting in M",TSLA,1
+129,"Facebook's Automated Tools Failed to Adequately Remove Hate Speech, Violence, and Inciteme",META,1
+139,Amazon’s Search and Recommendation Algorithms Found by Auditors to Have Boosted Products T,AMZN,1
+141,California Police Turned on Music to Allegedly Trigger Instagram’s DCMA to Avoid Being Liv,META,1
+142,Facebook's Advertisement Moderation System Allegedly Routinely Misidentified Adaptive Fash,META,1
+143,Facebook’s and Twitter's Automated Content Moderation Reportedly Failed to Effectively Enf,META,1
+144,YouTube's AI Mistakenly Banned Chess Channel over Chess Language Misinterpretation,GOOGL,1
+145,Tesla's Autopilot Misidentified the Moon as Yellow Stop Light,TSLA,1
+149,Zillow Shut Down Zillow Offers Division Allegedly Due to Predictive Pricing Tool's Insuffi,ZG,1
+151,California Regulator Suspended Pony.ai's Driverless Testing Permit Following a Non-Fatal C,PONY,1
+153,"Tesla Driver on Autopilot Ran a Red Light, Crashing into a Car and Killing Two People in L",TSLA,1
+156,Amazon Reportedly Sold Products and Recommended Frequently Bought Together Items That Aid ,AMZN,1
+157,Amazon's Monitoring System Allegedly Pushed Delivery Drivers to Prioritize Speed over Safe,AMZN,1
+159,Tesla Autopilot’s Lane Recognition Allegedly Vulnerable to Adversarial Attacks,TSLA,1
+160,Alexa Recommended Dangerous TikTok Challenge to Ten-Year-Old Girl,AMZN,1
+161,Facebook's Ad Delivery Reportedly Excluded Audience along Racial and Gender Lines,META,1
+163,Facebook’s Hate Speech Detection Algorithms Allegedly Disproportionately Failed to Remove ,META,1
+164,"Facebook ""News Feed"" Allegedly Boosted Misinformation and Violating Content Following Use ",META,1
+168,"Collaborative Filtering Prone to Popularity Bias, Resulting in Overrepresentation of Popul",GOOGL;META;MSFT;NFLX,4
+169,Facebook Allegedly Failed to Police Anti-Rohingya Hate Speech Content That Contributed to ,META,1
+170,"Target Suggested Maternity-Related Advertisements to a Teenage Girl's Home, Allegedly Corr",TGT,1
+175,Cruise Autonomous Taxi Allegedly Bolted off from Police After Being Pulled over in San Fra,GM,1
+178,"Tesla Owner Activated ""Smart Summon"" Feature, Causing a Collision with an Aircraft in a Wa",TSLA,1
+181,"BMW Sedan Made a Prohibited Left Turn, Colliding with a Cruise Autonomous Vehicle",GM,1
+182,Two Cruise Autonomous Vehicles Collided with Each Other in California ,GM,1
+183,"Airbnb's Trustworthiness Algorithm Allegedly Banned Users without Explanation, and Discrim",ABNB,1
+187,"YouTuber Tested Tesla on Self Driving Mode, Colliding with Street Pylons",TSLA,1
+188,Argentinian City Government Deployed Teenage-Pregnancy Predictive Algorithm Using Invasive,MSFT,1
+189,Opaque Fraud Detection Algorithm by the UK’s Department of Work and Pensions Allegedly Dis,PATH,1
+193,"Excessive Automated Monitoring Alerts Ignored by Staff, Resulting in Private Data Theft of",TGT,1
+197,"Facebook Internally Reported Failure of Ranking Algorithm, Exposing Harmful Content to Vie",META,1
+203,Uber Launched Opaque Algorithm That Changes Drivers' Payments in the US,UBER,1
+204,A Chinese Tech Worker at Zhihu Fired Allegedly via a Resignation Risk Prediction Algorithm,ZH,1
+208,"Tesla Phantom Braking Complaints Surged, Allegedly Linked to Tesla Vision Rollout",TSLA,1
+209,Tesla Disabled “Rolling Stop” Functionality Associated with the “Aggressive” Driving Mode,TSLA,1
+211,A Tesla Taxi Cab Involved in an Accident in Paris with Twenty Injuries,TSLA,1
+213,Facebook’s Political Ad Detection Reportedly Showed High and Geographically Uneven Error R,META,1
+215,Facebook Content Moderators Demand Better Working Conditions Due to Allegedly Inadequate A,META,1
+218,Tesla on Autopilot Crashed into Flipped Truck on Taiwan Highway,TSLA,1
+220,Facebook Mistakenly Blocked Small Business Ads,META,1
+221,A Road Engineer Killed Following a Collision Involving a Tesla on Autopilot,TSLA,1
+226,Waze Allegedly Clogged Streets and Directed Drivers to Make Unsafe Traffic Decisions,GOOGL,1
+227,"Waze App Allegedly Caused Tourists’ Car to End up in Lake Champlain, Vermont",GOOGL,1
+228,Apple Maps Allegedly Directed Ski Trip Couple Onto Unpaved Road in the Mountains,AAPL,1
+229,Content Using Bestiality Thumbnails Allegedly Evaded YouTube’s Thumbnail Monitoring System,GOOGL,1
+230,"Model 3 Tesla on Autopilot Crashed into a Truck in Florida, Killing Driver",TSLA,1
+231,A Tesla Crashed into and Killed a Road Sweeper on a Highway in China,TSLA,1
+232,"Tesla Model X on Autopilot Missed Parked Vehicles and Pedestrians, Killing Motorcyclist in",TSLA,1
+234,"Waze Allegedly Frequently Routed Drivers through the Town of Los Gatos, Blocking Its Singl",GOOGL,1
+251,Amazon Allegedly Tweaked Search Algorithm to Boost Its Own Products,AMZN,1
+252,Remotely Operated Taser-Armed Drones Proposed by Taser Manufacturer as Defense for School ,AXON,1
+253,"Cruise's Self-Driving Cars Allegedly Lost Connection to Their Server, Causing Traffic Bloc",GM,1
+254,Google's Face Grouping Allegedly Collected and Analyzed Users' Facial Structure without Co,GOOGL,1
+255,Unreliable ShotSpotter Audio Previously Used to Convict Chicago Man in Murder Case,SSTI,1
+256,DUI Arrest Case Allegedly Based Only on ShotSpotter's Alert,SSTI,1
+257,Police Reportedly Deployed ShotSpotter Sensors Disproportionately in Neighborhoods of Colo,SSTI,1
+261,"Robot Deployed by Animal Shelter to Patrol Sidewalks outside Its Office, Warding off Homel",KSCP,1
+263,YouTube Recommendations Implicated in Political Radicalization of User,GOOGL,1
+268,Permanent Removal of Social Media Content via Automated Tools Allegedly Prevented Investig,GOOGL;META,2
+270,"Apple Tweaked App Store Ranking Algorithms, Allegedly Resulted in Demotion of Local Apps i",AAPL,1
+271,Tesla Model 3 Sedan on Autopilot Killed Motorcyclist in a Rear-End Collision in Utah,TSLA,1
+272,"Grab Tweaked Matchmaking Algorithm, Providing Preferential Treatment to Drivers Registered",GRAB,1
+275,Facebook’s Moderation Algorithm Banned Users for Historical Evidence of Slavery,META,1
+278,Meta’s BlenderBot 3 Chatbot Demo Made Offensive Antisemitic Comments,META,1
+281,YouTube's Algorithms Failed to Remove Violating Content Related to Suicide and Self-Harm,GOOGL,1
+282,Facebook’s Algorithm Mistook an Advertisement of Onions as Sexual Suggestive Content,META,1
+283,Facebook’s Automated Content Moderation Tool Flagged a Post Containing Parts of the Declar,META,1
+284,Facebook’s Automated Removal of Content Featuring Nudity-Containing Artworks Denounced as ,META,1
+285,Google Lens’s Camera-Based Translation Feature Provided an Offensive Mistranslation of a B,GOOGL,1
+291,Tesla Allegedly Misled Customers about Autopilot and FSD Capabilities,TSLA,1
+292,Apple’s AVs Reportedly Struggled to Navigate Streets in Silicon Valley Test Drives,AAPL,1
+293,Cruise’s Self-Driving Car Involved in a Multiple-Injury Collision at an San Francisco Inte,GM,1
+294,Tesla Autopilot Allegedly Malfunctioned in a Non-Fatal Collision in Greece,TSLA,1
+303,Google’s Automated Child Abuse Detection Wrongfully Flagged a Parent’s Naked Photo of His ,GOOGL,1
+304,Tesla on FSD Reportedly Drove into the Wrong Lane in California,TSLA,1
+305,YouTube’s Recommendation Algorithm Allegedly Promoted Climate Misinformation Content,GOOGL,1
+306,Tesla on Autopilot TACC Crashed into Van on European Highway,TSLA,1
+307,iPhone Face ID Failed to Recognize Users’ Morning Faces,AAPL,1
+311,YouTube Auto-Moderation Reportedly Banned Women of Sex Tech Conference,GOOGL,1
+313,BlenderBot 3 Cited Dutch Politician as a Terrorist,META,1
+316,Facebook Ad-Approval Algorithm Allegedly Missed Fraudulent Ads via Simple URL Checks,META,1
+317,Bug in Facebook’s Anti-Spam Filter Allegedly Blocked Legitimate Posts about COVID-19,META,1
+318,Facebook Recommended Military Gear Ads Despite Pause on Weapons Accessories Ads,META,1
+319,Tesla on Autopilot Fatally Crashed into Parked Fire Truck in Indiana,TSLA,1
+320,Tesla on Autopilot Collided with Parked Fire Truck on California Freeway,TSLA,1
+321,"Tesla Model X on Autopilot Crashed into California Highway Barrier, Killing Driver",TSLA,1
+322,Tesla Model 3 Crashed into Police Patrol Car on Connecticut Highway,TSLA,1
+323,Tesla on Autopilot Crashed into Parked Police Car in California,TSLA,1
+325,Offensive Instagram User Content Displayed as Facebook Ad,META,1
+326,Facebook Automated Year-in-Review Highlights Showed Users Painful Memories,META,1
+327,Facebook’s On-This-Day Feature Mistakenly Showed Painful Memories to Users,META,1
+329,Amazon Reportedly Recommends Explosive-Producing Ingredients as 'Frequently Bought Togethe,AMZN,1
+330,“Amazon’s Choice” Algorithm Failed to Recommend Functional Products and Prone to Review Ma,AMZN,1
+331,Bug in Instagram’s “Related Hashtags” Algorithm Allegedly Caused Disproportionate Treatmen,META,1
+332,Google Images Showed Racially Biased Results for 'Professional' Hairstyles,GOOGL,1
+333,Tesla on Autopilot Crashed Parked Michigan Police Car on Interstate,TSLA,1
+334,Uber Deployed Secret Program To Deny Local Authorities Rides,UBER,1
+337,"Tesla Model S on ACC Crashed into Tree in Texas, Killing Two People",TSLA,1
+343,"Facebook, Instagram, and Twitter Failed to Proactively Remove Targeted Racist Remarks via ",META,1
+347,"Waymo Self-Driving Taxi Reportedly Behaved Unexpectedly, Driving away from Support Crew",GOOGL,1
+348,YouTube Recommendation Reportedly Pushed Election Fraud Content to Skeptics Disproportiona,GOOGL,1
+349,"Evolv AI Weapons Detection System Allegedly Misrepresents Accuracy, Leading to School Secu",EVLV,1
+350,Delivery Robot Rolled Through Crime Scene,SERV,1
+353,"Tesla on Autopilot Crashed into Trailer Truck in Florida, Killing Driver",TSLA,1
+354,Uber Allegedly Violated GDPR by Failing to Provide Sufficient Notice on Automated Profilin,UBER,1
+355,Uber Allegedly Wrongfully Accused Drivers of Fraud via Automated Systems,UBER,1
+359,"Facebook, Instagram, and Twitter Cited Errors in Automated Systems as Cause for Blocking p",META,1
+360,"McDonald's AI Drive-Thru Allegedly Collected Biometric Customer Data without Consent, Viol",MCD,1
+361,Amazon Echo Mistakenly Recorded and Sent Private Conversation to Random Contact,AMZN,1
+362,Facebook's Automated Moderation Flagged Gardening Group's Language Use by Mistake,META,1
+363,Facebook's Automated Moderation Mistakenly Flagged Landmark's Name as Offensive,META,1
+364,Walmart's Bagging-Detection False Positives Exposed Workers to Health Risk,WMT,1
+367,"iGPT, SimCLR Learned Biased Associations from Internet Training Data",GOOGL,1
+370,Google Fined for Changing Shopping Algorithms in EU to Favor Own Service,GOOGL,1
+372,Users Reported Security Issues with Google Pixel 6a's Fingerprint Unlocking,GOOGL,1
+377,Weibo Model Had Difficulty Detecting Shifts in Censored Speech,WB,1
+378,TuSimple Truck Steered into Interstate Freeway Divide,TSPH,1
+380,Facebook's Auto-Generated Targeting Ad Categories Contained Anti-Semitic Options,META,1
+382,Instagram's Exposure of Harmful Content Allegedly Contributed to Teenage Girl's Suicide,META,1
+386,"Amazon’s ""Time Off Task"" System Made False Assumptions about Workers' Time Management",AMZN,1
+387,Oracle's Algorithmic Data Processing System Alleged as Unlawful and Violating Privacy Righ,ORCL,1
+389,Cruise Autonomous Car Blocked Fire Truck Responding to Emergency,GM,1
+392,Facebook's AI-Supported Moderation Failed to Classify Terrorist Content in East African La,META,1
+393,Facebook AI-Supported Moderation for Ads Failed to Detect Violating Content,META,1
+394,Social Media's Automated Word-Flagging without Context Shifted Content Creators' Language ,GOOGL;META,2
+395,Amazon Allegedly Forced Deployment of AI-Powered Cameras on Delivery Drivers,AMZN,1
+396,Transgender Uber Drivers Mistakenly Kicked off App for Appearance Change during Gender Tra,UBER,1
+398,Tesla Autopilot Misidentified On-Road Horse-Drawn Carriage,TSLA,1
+399,Meta AI's Scientific Paper Generator Reportedly Produced Inaccurate and Harmful Content,META,1
+400,Google Search Reportedly Returned Fewer Results for Abortion Services in Rural Areas,GOOGL,1
+401,"Kannada Insulted by Google's Featured Answer as ""Ugliest Language in India""",GOOGL,1
+403,Gmail’s Inbox Sorting System Reportedly Reduced Visibility of Political Emails and Campaig,GOOGL,1
+406,Facebook's Friend Suggestion Feature Recommends Patients of Psychiatrist to Each Other,META,1
+407,Uber's Surge Pricing Reportedly Offered Disproportionate Service Quality along Racial Line,UBER,1
+408,Facebook Reportedly Outed Sex Workers through Friend Recommendations,META,1
+414,Facebook Gave Vulgar English Translation of Chinese President's Name,META,1
+415,Facebook Provided Offensive Translation for King of Thailand's Birthday Ceremony,META,1
+416,Facebook's Job Ad Algorithm Allegedly Biased against Older and Female Workers,META,1
+417,Facebook Feed Algorithms Exposed Low Digitally Skilled Users to More Disturbing Content,META,1
+418,Uber Locked Indian Drivers out of Accounts Allegedly Due to Facial Recognition Fails,UBER,1
+419,Facebook's Automated Moderation Allowed Ads Threatening Election Workers to be Posted,META,1
+426,XPeng P7 Crashed into Truck in Shangdong While on Automatic Navigation Assisted Driving,XPEV,1
+427,Cruise Taxis' Sudden Braking Allegedly Put People at Risk,GM,1
+429,Unreliable ShotSpotter Audio Convicted Black Rochester Man of Shooting Police,SSTI,1
+430,Lawyers Denied Entry to Performance Venue by Facial Recognition,MSGE,1
+431,Robbers Accessed Drugged Gay Men's Bank Accounts Using Their Phones' Facial Recognition,AAPL,1
+432,Southwest Airlines Crew Scheduling Solver Degenerates Flight Network,GE;LUV,2
+434,Sudden Braking by Tesla Allegedly on Self-Driving Mode Caused Multi-Car Pileup in Tunnel,TSLA,1
+435,Coupang Allegedly Tweaked Search Algorithms to Boost Own Products,CPNG,1
+436,Tesla Driver Put Car on Autopilot Before Falling Asleep in Germany,TSLA,1
+444,"US Air Force's Patriot Missile Mistakenly Launched at Ally Fighter Jet, Killing Two",LMT;RTX,2
+445,"Patriot Missile System Misclassified US Navy Aircraft, Killing Pilot Upon Approval to Fire",LMT;RTX,2
+446,ShotSpotter Failed to Alert Authorities of Mass Shooting in North Carolina,SSTI,1
+447,"Footballer's ""X-Rated"" Comment Created by Instagram's Mistranslation",META,1
+454,Emotion Detection Models Showed Disparate Performance along Racial Lines,MSFT,1
+459,Firefighters Smashed Cruise AV's Front Window to Stop It from Running over Fire Hoses,GM,1
+460,Cruise AV Ran Over Fire Hose in Active Fire Scene,GM,1
+463,"Apple Devices Mistook Skiing Activities, Dialed False Distress Emergency Calls ",AAPL,1
+465,Private Medical Photos Were Reportedly Found in LAION-5B AI Training Dataset,GOOGL,1
+467,Google's Bard Shared Factually Inaccurate Info in Promo Video,GOOGL,1
+468,ChatGPT-Powered Bing Reportedly Had Problems with Factual Accuracy on Some Controversial T,MSFT,1
+469,Automated Adult Content Detection Tools Showed Bias against Women Bodies,AMZN;GOOGL;META;MSFT,4
+470,Bing Chat Response Cited ChatGPT Disinformation Example,MSFT,1
+471,Facebook Allegedly Failed to Police Hate Speech Content That Contributed to Ethnic Violenc,META,1
+473,Bing Chat's Initial Prompts Revealed by Early Testers Through Prompt Injection,MSFT,1
+475,McDonald's Reportedly Ends IBM Partnership After AI Drive-Thru Ordering Errors at U.S. Loc,IBM;MCD,2
+476,YouTube Recommendations Allegedly Promoted Radicalizing Material Contributing to Terrorist,GOOGL,1
+477,Bing Chat Tentatively Hallucinated in Extended Conversations with Users,MSFT,1
+478,"Tesla FSD Reportedly Increased Crash Risk, Prompting Recall",TSLA,1
+489,Workday's AI Tools Allegedly Enabled Employers to Discriminate against Applicants of Prote,WDAY,1
+501,Length of Stay False Diagnosis Cut Off Insurer's Payment for Treatment of Elderly Woman,UNH,1
+503,Bing AI Search Tool Reportedly Declared Threats against Users,MSFT,1
+504,Bing Chat's Outputs Featured in Demo Video Allegedly Contained False Information,MSFT,1
+511,Microsoft's Bing Failed to Fetch Movie Showtimes Results Due to Date Confusion,MSFT,1
+522,"Facebook Political Ad Delivery Algorithms Inferred Users' Political Alignment, Inhibiting ",META,1
+525,Tesla Vehicle Running on Self-Driving Mode Crashes on City Streets,TSLA,1
+527,Tech Companies Reportedly Influenced Gig Workers' Behaviors Using Algorithms to Vary Pay f,AMZN;UBER,2
+528,Amazon Algorithmic Pricing Allegedly Hiked up Price of Reference Book to Millions,AMZN,1
+533,Tesla FSD Misidentified Truck Hauling Traffic Lights as Trail of Traffic Lights,TSLA,1
+534,Facebook Alleged in Lawsuit Misleading Public about Effects of Algorithms on Children,META,1
+539,Snapchat's My AI Reported for Lacking Protection for Children,SNAP,1
+540,"Tesla Failed to Yield to Detected Pedestrian on Crosswalk, Reportedly Violated Traffic Law",TSLA,1
+548,Opera's GPT-Based AI Reportedly Accused War Photographers of War Crimes,OPRA,1
+549,Fast Food Chains' AI Chatbots Failed to Assist Job Applicants with Scheduling Interviews,MCD;WEN,2
+550,Tesla Allegedly on Autopilot Struck High School Student Exiting School Bus,TSLA,1
+552,Bing Chat Solved CAPTCHAs with Image Analysis Feature Despite Safeguards,MSFT,1
+553,Google's Overview Panel for Artist Edward Hopper Featured Image Generated in His Style by ,GOOGL,1
+554,Google Results for Johannes Vermeer Featured AI Version of His Artwork as Top Result,GOOGL,1
+556,Amazon Allegedly Violated Children's Privacy through Default Voice Collection Settings,AMZN,1
+560,Tesla on Autopilot Struck Parked Work Truck on Highway in Pennsylvania,TSLA,1
+563,Cruise Robotaxi Initially Blamed for Ambulance Delay in Case Where Patient Later Died; Sub,GM,1
+570,Facebook Messenger AI Stickers Generate Ethical and Content Moderation Concerns,META,1
+571,Reported Accidental Exposure of 38TB of Data by Microsoft's AI Research Team,MSFT,1
+574,AI-Generated Articles at G/O Media Allegedly Diminishes Reputation of Human Staff,GOOGL,1
+576,"Alleged Misuse of PicSo AI for Generating Inappropriate Content Emphasizing ""Girls""",META,1
+578,Alleged Exploitation of Meta's Open-Source LLaMA Model for NSFW and Violent Content,META,1
+580,Alleged Gender Discrimination in Facebook Job Ads Algorithm,META,1
+581,Google Ads Allegedly Serving Content on AI-Generated Misinformation Sites,GOOGL,1
+583,Instagram Algorithms Allegedly Promote Accounts Facilitating Child Sex Abuse Content,META,1
+587,Apparent Failure to Accurately Label Primates in Image Recognition Software Due to Alleged,AAPL;AMZN;GOOGL;MSFT,4
+591,Cigna Algorithm PXDX Allegedly Rejected Thousands of Patient Claims En Masse in Breach of ,CI,1
+595,Driverless Cruise Cars Immobilized in San Francisco Traffic Jam,GM,1
+596,Cruise's Autonomous Vehicles Allegedly Engaging in Risky Behavior Near Pedestrians,GM,1
+608,UnitedHealth Accused of Deploying  Allegedly Flawed AI to Deny Medical Coverage,UNH,1
+609,Flawed AI in Google Search Reportedly Misinforms about Geography,GOOGL,1
+612,Microsoft AI Poll Allegedly Causes Reputational Harm of The Guardian Newspaper,MSFT,1
+614,Google Bard Allegedly Generates False Allegations Against Consulting Firms Used in Researc,GOOGL,1
+616,Sports Illustrated Is Alleged to Have Used AI to Invent Fake Authors and Their Articles,AREN,1
+620,A Robot at a Tesla Factory in Texas Allegedly Injured an Engineer,TSLA,1
+621,Microsoft AI Is Alleged to Have Generated Violent Imagery of Minorities and Public Figures,MSFT,1
+622,Chevrolet Dealer Chatbot Agrees to Sell Tahoe for $1,GM,1
+623,Google Bard Allegedly Generated Fake Legal Citations in Michael Cohen Case,GOOGL,1
+630,Alleged Macy's Facial Recognition Error Leads to Wrongful Arrest and Subsequent Sexual Ass,M,1
+633,Nine Network's AI Alters Lawmaker Georgie Purcell's Image Inappropriately,ADBE,1
+638,Fatal Crash Involving Tesla Full Self-Driving Claims Employee's Life,TSLA,1
+640,Waymo Software Flaw Reportedly Leads to Double Collision with Tow Truck,GOOGL,1
+645,Seeming Pattern of Gemini Bias and Sociotechnical Training Failures Harm Google's Reputati,GOOGL,1
+646,Snapchat's Algorithm Alleged to Link Minor with Sex Offenders,SNAP,1
+647,A Self-Driving Waymo Robotaxi Reportedly Collided with a Bicyclist,GOOGL,1
+654,Microsoft Copilot Designer Reportedly Generated Inappropriate AI Images,MSFT,1
+655,Scams Reportedly Impersonating Wealthy Investors Proliferating on Facebook,META,1
+674,Manipulated Media via AI Disinformation and Deepfakes in 2024 Elections Erode Trust Across,GOOGL,1
+684,Google Books Appears to Be Indexing Works Written by AI,GOOGL,1
+686,Meta AI Image Generator Reportedly Fails to Accurately Represent Interracial Relationships,META,1
+693,Google AI Reportedly Delivering Confidently Incorrect and Harmful Information,GOOGL,1
+696,Meta's AI Ad Platform Reportedly Causes Overspending and Poor Performance,META,1
+700,Meta's AI Chatbots Are Reportedly Entering Online Support Communities Uninvited,META,1
+704,Study Highlights Persistent Hallucinations in Legal AI Systems,TRI,1
+707,"Tesla Reportedly in Autopilot Mode Hits Parked Police Vehicle in Fullerton, California",TSLA,1
+710,Facebook AI Reportedly Mislabels Auschwitz Photos as 'Bullying' and 'Nudity',META,1
+711,NHTSA Opens New Probe into Tesla’s Autopilot Following More than a Dozen Fatal Accidents,TSLA,1
+712,Meta AI Hallucinates Harassment Allegations Against New York Politicians,META,1
+714,Microsoft-Powered New York City Chatbot Advises Illegal Practices,MSFT,1
+716,Algorithmic Staffing Failures Linked to Resident Deaths at Leading Assisted-Living Chain B,BKD,1
+718,"OpenAI, Google, and Meta Alleged to Have Overstepped Legal Boundaries for Training AI",GOOGL;META,2
+723,Instagram Algorithms Reportedly Directed Children's Merchandise Ad Campaign to Adult Men a,META,1
+726,A Self-Driving Cruise Robot Taxi Reportedly Struck and Dragged a Pedestrian 20 Feet,GM,1
+731,Purportedly Hallucinated Software Packages with Potential Malware Reportedly Downloaded Th,GOOGL;META,2
+733,Auto Insurers Allegedly Are Surreptitiously Collecting and Scoring Driver Data,ALL;GM;LIF,3
+734,Leading AI Models Reportedly Found to Mimic Russian Disinformation in 33% of Cases and to ,GOOGL;META;MSFT,3
+743,Gemini AI Allegedly Reads Google Drive Files Without Explicit User Consent,GOOGL,1
+744,"AI Work Assistants Require More Effort Than Expected, CIOs Say",GOOGL;MSFT,2
+745,Figma Disables AI Feature After Accusations of Copying Apple’s Weather App,FIG,1
+748,Erroneous Declined Transaction Notification by PayPal AI Assistant,PYPL,1
+750,AI Chatbots Reportedly Inaccurately Conveyed Real-Time Political News,GOOGL;META,2
+758,Teen's Overdose Reportedly Linked to Meta's AI Systems Failing to Block Ads for Illegal Dr,META,1
+770,Microsoft Copilot Falsely Accuses Journalist Martin Bernklau of Crimes,MSFT,1
+773,Chatbot in Workplace Training at Bunbury Prison Reveals Real Names in Sexual Harassment Ca,MSFT,1
+778,Amazon's Alexa Reportedly Shows Political Preference Error in Trump-Harris Presidential Ra,AMZN,1
+788,Instagram's Algorithm Reportedly Recommended Sexual Content to Teenagers' Accounts,META,1
+789,Independent News Sites Flagged as Spam by Facebook's AI Moderation System,META,1
+791,Google AI Error Prompts Parents to Use Fecal Matter in Child Training Exercise,GOOGL,1
+794,Reported Glitch in Waymo Self-Driving Cars Purportedly Triggers Regular All-Night Honking ,GOOGL,1
+796,Facebook's Content Moderation System Flagged and Removed Emergency Updates as Spam During ,META,1
+803,"Facebook's Algorithm Reportedly Amplifies AI-Generated Content, Fueling Misleading Posts",META,1
+821,Baidu Robotaxi Allegedly Involved in Collision with Pedestrian in Wuhan,BIDU,1
+831,NYC Subway AI Weapons Scanners Yield High False Positive Rate and Detect No Guns in Month-,EVLV,1
+838,Microsoft Copilot Allegedly Provides Unsafe Medical Advice with High Risk of Severe Harm,MSFT,1
+845,Google's Gemini Allegedly Generates Threatening Response in Routine Query,GOOGL,1
+846,Social Media Algorithms Amplified Disinformation Campaign in Honduras Election,META,1
+853,Two Passengers Report Feeling Trapped in Waymo Car During Sensor Obstruction,GOOGL,1
+854,Waymo Driverless Taxi Allegedly Stalled During Pedestrian Harassment Incident in San Franc,GOOGL,1
+857,"Navigation App Allegedly Directs Car Over Damaged Bridge in Uttar Pradesh, Resulting in Th",GOOGL,1
+859,AI Models Reportedly Found to Provide Misinformation on Election Processes in Spanish,GOOGL;META,2
+861,Apple Intelligence Reportedly Notified Users That Luigi Mangione Shot Himself and Benjamin,AAPL,1
+873,YouTube Algorithms Allegedly Amplify Eating Disorder Content to Adolescent Girls,GOOGL,1
+881,Waymo Robotaxi Allegedly Collides With Serve Robotics Delivery Bot in Los Angeles,GOOGL;SERV,2
+885,"Meta AI Characters Allegedly Exhibited Racism, Fabricated Identities, and Exploited User T",META,1
+889,Tesla's 'Actually Smart Summon' Feature Reportedly Linked to Multiple Parking Lot Collisio,TSLA,1
+892,Apple Intelligence Allegedly Flags Scam Messages as High Priority,AAPL,1
+934,NHK Terminates AI Translation Service After Geopolitical Naming Error,GOOGL,1
+939,AI-Powered Chinese Surveillance Campaign 'Peer Review' Used for Real-Time Monitoring of An,META,1
+940,Tesla Cybertruck Operating in Full Self-Driving Mode Reportedly Crashes into Pole in Nevad,TSLA,1
+952,Apple’s Voice Dictation Reportedly Substitutes ‘Trump’ for ‘Racist’ Due to Speech Recognit,AAPL,1
+956,"Alleged Inclusion of 12,000 Live API Keys in LLM Training Data Reportedly Poses Security R",MSFT,1
+957,Alleged Instagram Algorithm Malfunction Floods Users' Reels Feeds with Violent and Graphic,META,1
+963,Google Reports Alleged Gemini-Generated Terrorism and Child Exploitation to Australian eSa,GOOGL,1
+967,Amazon and Google AI Allegedly Promote Mein Kampf as 'a True Work of Art' in Search Result,AMZN;GOOGL,2
+968,"'Pravda' Network, Successor to 'Portal Kombat,' Allegedly Seeding AI Models with Kremlin D",GOOGL;META;MSFT,3
+975,"At Least 10,000 AI Chatbots, Including Jailbroken Models, Allegedly Promote Eating Disorde",GOOGL,1
+981,Apple AI Transcription Allegedly Inserts Explicit Language into Scottish Woman’s Voicemail,AAPL,1
+993,Sydney Students Allegedly Forced to Retake NAPLAN After AI Predictive Text Error,AAPL,1
+995,The New York Times Reportedly Sues OpenAI and Microsoft Over Alleged Unauthorized AI Train,MSFT,1
+996,"Meta Allegedly Used Books3, a Dataset of 191,000 Pirated Books, to Train LLaMA AI",META,1
+997,Meta and OpenAI Accused of Using LibGen’s Pirated Books to Train AI Models,META,1
+1001,LLM Scrapers Allegedly Target Multiple Open Source Projects Disrupting the FOSS Ecosystem,BABA,1
+1020,Reportedly Unsafe Deployment of Llama.cpp Reveals Interactive AI-Generated CSAM Roleplay P,META,1
+1040,Meta User-Created AI Companions Allegedly Implicated in Facilitating Sexually Themed Conve,META,1
+1057,"'Jewish Baby Strollers' Provided Antisemitic Google Images, Allegedly Resulting from Hate ",GOOGL,1
+1097,Google AI Overview Reportedly Misstates Aircraft Manufacturer as Airbus Instead of Boeing ,GOOGL,1
+1101,Meta AI App Reportedly Publishes Personal Chats Without Users Fully Realizing,META,1
+1106,"Chatbots Allegedly Reinforced Delusional Thinking in Several Reported Users, Leading to Re",MSFT,1
+1108,Digital Rights Groups Accuse Meta and Character.AI of Facilitating Unlicensed Therapy via ,META,1
+1123,"Reported Student Misuse of ChatGPT, StudyX, and Gemini to Obtain Answers During Vietnam's ",GOOGL,1
+1128,Philippine Officials Reportedly Share Veo 3-Generated Video to Support Vice President Sara,GOOGL,1
+1157,Google Gemini Reportedly Generates Sexual Role‑Play for Account Registered as Minor,GOOGL,1
+1158,Alleged Malicious Wiping Command Found in Amazon Q AI Assistant,AMZN,1
+1159,Government‑Backed AI4Peat Mapping Tool Allegedly Misidentifies Granite Outcrops and Quarri,MSFT,1
+1164,Google Healthcare AI Model Med‑Gemini Allegedly Produces Non‑Existent 'Basilar Ganglia' Te,GOOGL,1
+1172,Meta AI Bug in Deployed Service Reportedly Allowed Potential Access to Other Users' Prompt,META,1
+1173,Google Gemini Reportedly Exhibits Repetitive Self-Deprecating Responses Attributed to Bug,GOOGL,1
+1174,Microsoft Copilot Reportedly Able to Access Cached Data from Since-Private GitHub Reposito,MSFT,1
+1176,Microsoft's Windows Recall Allegedly Stores Passwords and Social Security Numbers in Previ,MSFT,1
+1178,Google Gemini CLI Reportedly Deletes User Files After Misinterpreting Command Sequence,GOOGL,1
+1179,McDonald's McHire AI Recruitment Platform Reportedly Exposed Data of 64 Million Applicants,MCD,1
+1180,Purported Meta AI Chatbot Persona 'Big sis Billie' Reportedly Engages in Romantic Roleplay,META,1
+1181,"Purported AI-Generated Video Reportedly Depicts Illegal Tiger Sales in Bagerhat, Banglades",GOOGL,1
+1186,"Reported Public Exposure of Over 100,000 LLM Conversations via Share Links Indexed by Sear",BABA;MSFT,2
+1187,"Google AI Overviews and ChatGPT Reportedly Cited Fraudulent Cruise Hotline, Allegedly Enab",GOOGL,1
+1188,Multiple LLMs Reportedly Generated Responses Aligning with Purported CCP Censorship and Pr,GOOGL;MSFT,2
+1200,Meta AI on Instagram Reportedly Facilitated Suicide and Eating Disorder Roleplay with Teen,META,1
+1205,Multiple Generative AI Systems Reportedly Amplify False Information During Charlie Kirk As,GOOGL,1
+1210,Malicious Nx npm Packages Reportedly Weaponize AI Coding Agents for Data Exfiltration,AMZN;GOOGL,2
+1211,"Google AI Overviews Reportedly Misrepresented Pizza Specials at Stefanina's in Wentzville,",GOOGL,1
+1218,Microsoft 365 Copilot Vulnerability Allegedly Allowed File Access Without Audit Log Entry,MSFT,1
+1219,Meta Platforms Users Report Being Wrongfully Locked Out After Purported AI Moderation Flag,META,1
+1220,LAMEHUG Malware Reportedly Integrates Large Language Model for Real-Time Command Generatio,BABA,1
+1222,CFPB Reportedly Finds Hello Digit's Automated Savings Algorithm Caused Overdrafts and Orde,OPRT,1
+1223,"Purportedly AI-Generated Deepfake Ads on Facebook Reportedly Impersonate Trump, Musk, Ocas",META,1
+1224,Purportedly AI-Generated Deepfake Ads on Instagram Impersonate Gisele Bündchen and Other C,META,1
+1247,Meta AI Reportedly Generated Purportedly False Claims Linking Activist Robby Starbuck to J,META,1
+1248,"Google's Bard, Gemini, and Gemma AI Systems Allegedly Generated Defamatory Claims About Ac",GOOGL,1
+1251,Purportedly AI-Generated Hunting Regulation Errors Reportedly Lead to Idaho Citation and M,GOOGL,1
+1268,Meta's Automated Ad and Targeting Systems Reportedly Enabled Large-Scale Fraud Revenue,META,1
+1269,Waymo Autonomous Vehicle Reportedly Ran Over and Killed a Cat in San Francisco,GOOGL,1
+1277,"Alleged Harmful Outputs and Data Exposure in Children's AI Products by FoloToy, Miko, and ",META,1
+1279,Prominent AI Chatbots Allegedly Produced Incorrect UK Financial and ISA Guidance,GOOGL;META;MSFT,3
+1300,"Waymo Self-Driving Vehicles Reportedly Passed Stopped School Buses at Least 19 Times, Prom",GOOGL,1
+1302,Reported Viral AI-Generated Photo Purportedly Shows Donald Trump Using a Walker,GOOGL,1
+1304,Whirlpool Reportedly Used AI-Altered Footage of North Carolina State Senator DeAndrea Salv,OMC,1
+1316,Google AI-Generated Search Summary Reportedly Falsely Implicated Canadian Musician in Sexu,GOOGL,1
+1326,Waymo Robotaxis Allegedly Contributed to Traffic Gridlock During San Francisco PG&E Power ,GOOGL,1
+1333,Purportedly AI-Generated Images and Videos Reportedly Spread Misinformation About Nicolás ,GOOGL,1
+1337,Waymo Robotaxi Reportedly Transported Undetected Person Trapped in Trunk in Los Angeles,GOOGL,1
+1358,Purportedly AI-Altered Images Reportedly Distort Evidence After Minneapolis Shooting of IC,GOOGL,1
+1361,"Waymo Autonomous Vehicle Reportedly Struck Child Near Elementary School in Santa Monica, C",GOOGL,1
+1369,Purportedly AI-Generated Image Reportedly Circulated Ahead of Thai Election Depicting PM A,GOOGL,1
+1376,Amazon Delivery Van Reportedly Became Stranded on Essex Mudflats After GPS Routed It Onto ,AMZN,1
+1386,"NPR Host David Greene Alleged Google's NotebookLM Replicated His Voice Without Consent, Pr",GOOGL,1
+1393,Woolworths' Olive Chatbot Reportedly Generated 'Angry Mother' Anecdotes During Support Cal,GOOGL,1
+1400,West Midlands Police Reportedly Relied on Erroneous Copilot-Generated Intelligence in Macc,MSFT,1
+1401,Washington State DOL's AI Phone System Reportedly Failed to Provide Spanish-Language Servi,AMZN,1
+1414,Purported Gemini-Generated AI Images Reportedly Claimed U.S. Delta Force Soldiers Were Cap,GOOGL,1
+1418,Meta AI Smart Glasses Reportedly Routed Intimate Imagery to Reviewers at Kenyan Contractor,META,1
+1427,Baltimore Lawsuit Alleged DraftKings and FanDuel Used Machine-Learning-Driven Targeting to,DKNG;FLUT,2
+1431,"Google Gemini Reportedly Reinforced Delusions,  Allegedly Contributing to Florida User's N",GOOGL,1
+1433,Google Antigravity Reportedly Deleted User's Entire D: Drive While Clearing Project Cache,GOOGL,1
+1436,AI-Enabled TruDi Navigation System Was Alleged to Have Contributed to Patient's Stroke Dur,IART;JNJ,2
+1460,"Baidu Apollo Go Robotaxis Stopped in Traffic During Reported System Failure in Wuhan, Stra",BIDU,1
+1471,Meta Internal AI Agent Reportedly Gave Advice That Allegedly Exposed Sensitive Data to Una,META,1
+1493,Gemini and Grok Reportedly Misidentified Authentic Minab School-Strike Graveyard Photo as ,GOOGL,1
+1507,COEMPT Quality Assurance Engineers Allegedly Violated Indian CBSE Student Data Privacy Rig,GOOGL,1
+1510,Meta AI Support Bot Reportedly Enabled Takeovers of High-Profile Instagram Accounts,META,1
+1512,The Sydney Morning Herald and The Age Removed an Opinion Article After Undisclosed Copilot,MSFT,1
+1523,Reported AI-Generated Videos Placed Kosovo Parliamentary Candidates in Purportedly Fabrica,META,1
+1528,AI-Enabled TruDi Navigation System Was Alleged to Have Contributed to Patient's Stroke Dur,IART;JNJ,2
+1534,Google Alleged Outsider Enterprise Used Gemini to Create Phishing Sites for Text-Message S,GOOGL,1
+1537,Two Waymo Robotaxis Allegedly Contributed to Bike-Lane Collision That Injured San Francisc,GOOGL,1
+1538,City of Zhuzhou in Hunan Suspended Hellobike Robotaxi Service After Vehicle Struck Two Ped,BIDU,1
+1539,Zoox Robotaxi Crossed Into Opposing Lane and Stopped Near Oncoming Traffic,AMZN,1
+1540,"Zoox Robotaxi Reportedly Collided with Open Car Door, Allegedly Injuring San Francisco Str",AMZN,1
+1541,"Waymo Robotaxi Reportedly Entered Phoenix Light-Rail Tracks, Prompting Passenger to Exit",GOOGL,1
+1543,Waymo Robotaxi Reportedly Obstructed Ambulance Responding to Austin Mass Shooting,GOOGL,1
+1544,Waymo Robotaxi Reportedly Entered Flooded San Antonio Roadway and Was Swept Into Waterway,GOOGL,1
+1546,Google Android Earthquake Alerts System Reportedly Underestimated Kahramanmaraş Earthquake,GOOGL,1
+1547,Waymo Robotaxis Reportedly Entered Closed Freeway Construction Zones in Arizona and Califo,GOOGL,1
+1552,Tesla Driver Reportedly Said Driver-Assistance Mode Was Engaged During Fatal Texas Home Cr,TSLA,1
+1557,Former New York City Council Candidate Jonathan Rinaldi Allegedly Used AI to Create False ,GOOGL,1
+1559,Kalibrate Fuel Pricing Allegedly Enabled California Gas Station Operators to Coordinate Hi,ACI;MPC;WMT,3
+1567,Serve Robotics Delivery Robot Reportedly Crashed into Chicago Bus Shelter After Failing to,SERV,1
+1572,Westlaw CoCounsel Reportedly Generated False Legal Quotations in United States v. Farris,TRI,1
+1575,Eightfold AI Hiring Tools Allegedly Secretly Scored Job Applicants for Employers,MSFT;PYPL,2
+1583,Waymo Robotaxi Reportedly Caught Fire After Driving Over Firework in San Francisco,GOOGL,1
+1584,Meta's AI-Assisted Layoff Process Allegedly Disproportionately Selected Employees on Prote,META,1
+1588,Purportedly AI-Powered KT Platform Reportedly Used in Forced Scamming Operation Involving ,GOOGL,1
+1589,Purportedly AI-Powered 007TG Platform Reportedly Used by Scam Networks Linked to $75 Milli,GOOGL,1
+1590,Purported Philip Morris-Backed AI Tool Reportedly Generated Responses Opposing Stricter EU,PM,1
+1599,Waymo Robotaxi Reportedly Remained Immobilized While Vandals Smashed Vehicle with Passenge,GOOGL,1
+1602,"Zoox Autonomous Vehicle Reportedly Entered Smoke-Obscured Fire Scene, Prompting Heavy-Smok",AMZN,1
+1618,Apartment Owner and Manager UDR Allegedly Used RealPage Algorithms to Set San Diego Rents ,UDR,1
+1622,Walmart's AI Voice System Allegedly Collected Illinois Callers' Biometric Voiceprints With,WMT,1
+1630,Atlantic City Casino-Hotels Allegedly Used Cendyn's Rainmaker AI to Coordinate and Inflate,CZR;MGM,2
+1631,"Zoetis Vetscan Imagyst Allegedly Misclassified Dog's Cancerous Tumor, Leading to Second Su",ZTS,1
+1634,Purportedly AI-Generated Video Reportedly Misled Elderly Malaysian Couple Into Traveling t,GOOGL,1
+1649,Meta AI Model Reportedly Exploited Security Vulnerability in Real Third-Party Service Duri,META,1
+1673,Google Gemini 3.5 Coding Agent Reportedly Caused Production Portal Outage and Generated Fa,GOOGL,1
+1679,"Lyft Driver in Boca Raton, Florida, Allegedly Used Purported Google Gemini-Generated Image",GOOGL,1
+1682,D.C. Court of Appeals Struck Deutsche Bank National Trust Company Brief After Attorney Use,GOOGL,1
+1686,"Tesla Model S with Autopilot Reportedly Engaged Struck Parked SUV in Key Largo, Killing On",TSLA,1
+1700,Google Gemini Reportedly Accessed Three Real Companies' Protected Systems During Cybersecu,GOOGL,1

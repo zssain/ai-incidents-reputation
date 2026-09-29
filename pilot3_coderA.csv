@@ -1,0 +1,26 @@
+incident_id,ticker,responsibility_type,correct_ticker,duplicate_of,corrected_event_date,keep,reason
+51,KSCP,2,Y,,,N,it harmed
+157,AMZN,1,Y,,,Y,
+177,GOOGL,1,Y,,,Y,
+226,GOOGL,1,Y,,,Y,
+307,AAPL,1,Y,,,Y,
+320,TSLA,1,Y,,,Y,
+321,TSLA,1,Y,,,Y,
+354,UBER,1,Y,,2020-06-20,Y,
+394,META,1,Y,,,Y,
+429,SSTI,1,Y,,,Y,
+459,GM,2,N,,,N,gm did not
+468,MSFT,1,Y,,,Y,
+473,MSFT,2,N,,,N,bing didnt
+522,META,1,Y,,,Y,
+528,AMZN,1,Y,,,Y,
+534,META,1,Y,,,Y,
+578,META,1,Y,,,Y,
+581,GOOGL,1,Y,,,Y,
+734,GOOGL,1,N,,,N,the other tech companies
+854,GOOGL,1,Y,,,Y,
+1172,META,1,Y,,,Y,
+1224,META,1,Y,,,Y,
+1369,GOOGL,1,Y,,,Y,
+1673,GOOGL,1,Y,,,Y,
+1686,TSLA,1,Y,,,Y,

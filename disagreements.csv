@@ -1,0 +1,30 @@
+key,field,coder_A,coder_B,title
+83|GOOGL,responsibility_type,2.0,3.0,AI Spam Filters Allegedly Block Legitimate Emails Based on Biased Keyw
+107|BABA,responsibility_type,2.0,3.0,Chinese Tech Firms Allegedly Developed Facial Recognition to Identify 
+112|SSTI,responsibility_type,2.0,1.0,Police Departments Reported ShotSpotter as Unreliable and Wasteful
+293|GM,responsibility_type,2.0,1.0,Cruise’s Self-Driving Car Involved in a Multiple-Injury Collision at a
+431|AAPL,responsibility_type,1.0,2.0,Robbers Accessed Drugged Gay Men's Bank Accounts Using Their Phones' F
+475|IBM,responsibility_type,1.0,2.0,McDonald's Reportedly Ends IBM Partnership After AI Drive-Thru Orderin
+587|GOOGL,responsibility_type,1.0,3.0,Apparent Failure to Accurately Label Primates in Image Recognition Sof
+587|MSFT,responsibility_type,1.0,3.0,Apparent Failure to Accurately Label Primates in Image Recognition Sof
+731|META,responsibility_type,1.0,3.0,Purportedly Hallucinated Software Packages with Potential Malware Repo
+758|META,responsibility_type,2.0,1.0,Teen's Overdose Reportedly Linked to Meta's AI Systems Failing to Bloc
+934|GOOGL,responsibility_type,1.0,2.0,NHK Terminates AI Translation Service After Geopolitical Naming Error
+1218|MSFT,responsibility_type,2.0,1.0,Microsoft 365 Copilot Vulnerability Allegedly Allowed File Access With
+1279|GOOGL,responsibility_type,2.0,3.0,Prominent AI Chatbots Allegedly Produced Incorrect UK Financial and IS
+1534|GOOGL,responsibility_type,1.0,2.0,Google Alleged Outsider Enterprise Used Gemini to Create Phishing Site
+83|GOOGL,correct_ticker,N,Y,AI Spam Filters Allegedly Block Legitimate Emails Based on Biased Keyw
+107|BABA,correct_ticker,N,Y,Chinese Tech Firms Allegedly Developed Facial Recognition to Identify 
+293|GM,correct_ticker,N,Y,Cruise’s Self-Driving Car Involved in a Multiple-Injury Collision at a
+587|MSFT,correct_ticker,N,Y,Apparent Failure to Accurately Label Primates in Image Recognition Sof
+731|META,correct_ticker,N,Y,Purportedly Hallucinated Software Packages with Potential Malware Repo
+1538|BIDU,correct_ticker,N,Y,City of Zhuzhou in Hunan Suspended Hellobike Robotaxi Service After Ve
+112|SSTI,keep,N,Y,Police Departments Reported ShotSpotter as Unreliable and Wasteful
+293|GM,keep,N,Y,Cruise’s Self-Driving Car Involved in a Multiple-Injury Collision at a
+431|AAPL,keep,Y,N,Robbers Accessed Drugged Gay Men's Bank Accounts Using Their Phones' F
+475|IBM,keep,Y,N,McDonald's Reportedly Ends IBM Partnership After AI Drive-Thru Orderin
+587|GOOGL,keep,Y,N,Apparent Failure to Accurately Label Primates in Image Recognition Sof
+758|META,keep,N,Y,Teen's Overdose Reportedly Linked to Meta's AI Systems Failing to Bloc
+934|GOOGL,keep,Y,N,NHK Terminates AI Translation Service After Geopolitical Naming Error
+1218|MSFT,keep,N,Y,Microsoft 365 Copilot Vulnerability Allegedly Allowed File Access With
+1534|GOOGL,keep,Y,N,Google Alleged Outsider Enterprise Used Gemini to Create Phishing Site

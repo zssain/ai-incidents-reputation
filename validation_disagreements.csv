@@ -1,0 +1,10 @@
+incident_id,ticker,field,coder_B,astra
+168,GOOGL,responsibility_type,1,3
+251,AMZN,responsibility_type,2,1
+291,TSLA,responsibility_type,2,1
+469,MSFT,responsibility_type,1,3
+556,AMZN,responsibility_type,2,1
+251,AMZN,keep,N,Y
+291,TSLA,keep,N,Y
+469,MSFT,keep,Y,N
+556,AMZN,keep,N,Y
