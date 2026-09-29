@@ -4,3 +4,12 @@ incident_id,ticker,coder_B,astra,settled,basis
 251,AMZN,2/Y,1/Y,1/Y,Amazon's own algorithm favouring its products -> Type 1; no outside actor (B mis-read as Type 2 'misuse').
 291,TSLA,2/Y,1/Y,1/Y,Tesla's own system -> Type 1; 'misinformation' is not a named outside actor (B mis-read as Type 2).
 556,AMZN,2/Y,1/Y,1/Y,Amazon's own AI (privacy leak/inference) -> Type 1; harm description is not outside misuse (B mis-read as Type 2).
+5,ISRG,-,1/Y/Y,3/Y/N,"UNCERTAIN accepted: retrospective FDA-data study, source states no AI involved -> Type 3, keep N."
+1401,AMZN,-,1/Y/Y,2/Y/N,"UNCERTAIN accepted: Amazon Polly worked as designed; WA State DOL misconfigured it -> supplier Type 2, keep N."
+92,AAPL,-,1/N/N,1/N/N,"UNCERTAIN: stays N; Goldman Sachs (see #92 GS) ran the Apple Card algorithm, Apple co-branded only."
+(24 rows),various,-,-,confirm Astra,Remaining 24 UNCERTAIN rows accepted as proposed (confirm Astra's labels); see uncertain_proposals.csv.
+1528,IART,-,1/Y/Y,1/Y/Y,"Confirmed Type1/Y; NOT a duplicate of 1436 -- deviates from Appendix A example; different patients, 2022 vs 2023; merged by the +/-10td filter."
+1528,JNJ,-,1/Y/Y,1/N/N,"correct_ticker N, keep N: J&J divested Acclarent in April 2024, before the 2026 news."
+1436,JNJ,-,1/Y/Y,1/N/N,"correct_ticker N, keep N: J&J divested Acclarent in April 2024, before the news (IART row stays Y)."
+400,GOOGL,-,1/Y/Y,3/Y/N,"Type 3, keep N: paper only, no news event (consistent with #522 treatment)."
+(75 dates),various,-,-,corrected_event_date,"Applied 75 corrected_event_date from date_proposals.csv (68 high, 7 low-confidence: 316,398,400,460,511,552,1686)."

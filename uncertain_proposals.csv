@@ -1,0 +1,27 @@
+incident_id,ticker,astra_label,proposed_label,rule,reason,link
+5,ISRG,1/Y/Y,3/Y/N,Type3 research/audit,Retrospective multi-institution study of 14 years of FDA robotic-surgery data; source explicitly notes no AI was involved and robots were surgeon-guided.,https://incidentdatabase.ai/cite/5
+92,AAPL,1/N/N,1/N/N,Type1 own-service/discrimination,"RECONCILED to N: Goldman Sachs (see #92 GS row) built/ran the Apple Card credit algorithm; Apple only co-branded, so its own AI is not the system at issue.",https://incidentdatabase.ai/cite/92
+204,ZH,1/Y/Y,1/Y/Y,Type1 own-service/deployed,"Zhihu was the alleged deployer of the resignation-risk prediction system used to fire an employee, i.e. involved via its own operation though Sangfor built it.",https://incidentdatabase.ai/cite/204
+252,AXON,1/Y/Y,1/Y/Y,Type1 own-product,"Axon's own proposed Taser-armed autonomous drone system triggered its ethics board's mass resignation; single-firm, Axon's own product.",https://incidentdatabase.ai/cite/252
+253,GM,1/Y/Y,1/Y/Y,Type1 own-service/malfunction,Cruise (a GM subsidiary) built and operated the self-driving fleet that lost server connection and blocked San Francisco traffic.,https://incidentdatabase.ai/cite/253
+394,GOOGL,3/Y/N,3/Y/N,Type3 multi-firm,"Cross-platform investigation of automated word-flagging across TikTok, YouTube (Google), Instagram and Twitch rather than one discrete Google event.",https://incidentdatabase.ai/cite/394
+465,GOOGL,1/N/N,1/N/N,mentioned-only N,Private medical photos were found in LAION's dataset; Google's Imagen is only named as an implicated downstream system with no established use of those images.,https://incidentdatabase.ai/cite/465
+549,MCD,3/Y/N,3/Y/N,Type3 multi-firm,"One applicant's account compares failing hiring chatbots across McDonald's, Wendy's and Hardee's, naming McDonald's among several firms.",https://incidentdatabase.ai/cite/549
+549,WEN,3/Y/N,3/Y/N,Type3 multi-firm,Same multi-chain applicant account names Wendy's alongside McDonald's and Hardee's rather than a single-firm event.,https://incidentdatabase.ai/cite/549
+613,ADBE,1/N/N,1/N/N,venue N,Adobe Stock only hosted third-party contributor-uploaded AI images generated with other tools; Adobe's own AI neither generated nor moderated them.,https://incidentdatabase.ai/cite/613
+622,GM,1/N/N,1/N/N,mentioned-only N,Fullpath built the ChatGPT chatbot and an independent Chevrolet dealership deployed it; GM neither operated nor owned it and was only a listed harmed party.,https://incidentdatabase.ai/cite/622
+674,GOOGL,3/N/N,3/N/N,Type3 multi-firm,Cross-country investigation of election deepfakes in 50+ nations lists Google among several alleged developers without establishing any specific Google tool used.,https://incidentdatabase.ai/cite/674
+1001,BABA,1/N/N,1/N/N,mentioned-only N,Scrapers merely allegedly originated from Alibaba IP ranges; Alibaba is listed only as an alleged perpetrator with no established operation of the crawlers.,https://incidentdatabase.ai/cite/1001
+1020,META,3/Y/N,3/Y/N,Type3 multi-firm,UpGuard audit of many exposed llama.cpp deployments named Meta's Llama as the derived model.,https://incidentdatabase.ai/cite/1020
+1106,MSFT,1/Y/Y,1/Y/Y,Type1 own-service,Microsoft's own Copilot was named among chatbots that allegedly reinforced users' delusions.,https://incidentdatabase.ai/cite/1106
+1108,META,3/Y/N,3/Y/N,Type3 multi-firm,FTC complaint jointly investigated Meta and Character.AI therapy bots at once.,https://incidentdatabase.ai/cite/1108
+1164,GOOGL,1/Y/Y,1/Y/Y,Type1 own-service/malfunction,Google's own Med-Gemini model hallucinated the fake term 'basilar ganglia' in published output.,https://incidentdatabase.ai/cite/1164
+1304,OMC,1/Y/Y,1/Y/Y,Type1 own-service,Omnicom's DM9 agency built and deployed the AI-altered deepfake ad that caused the harm.,https://incidentdatabase.ai/cite/1304
+1304,WHR,1/N/N,1/N/N,customer N,"Whirlpool was only the advertiser/client; DM9 produced the AI-altered footage, and Whirlpool operated no AI.",https://incidentdatabase.ai/cite/1304
+1401,AMZN,1/Y/Y,2/Y/N,supplier worked-as-designed,Amazon Polly performed as designed reading English; the DOL's configuration error caused the accented-English output.,https://incidentdatabase.ai/cite/1401
+1493,GOOGL,3/Y/N,3/Y/N,Type3 multi-firm,Comparative fact-check tested both Google's Gemini and xAI's Grok on the same Minab photo.,https://incidentdatabase.ai/cite/1493
+1512,MSFT,2/Y/N,2/Y/N,Type2 attacker-op,Outside academic Cath Ellis deliberately used Microsoft's Copilot (working as designed) in her own undisclosed writing.,https://incidentdatabase.ai/cite/1512
+1528,IART,1/Y/Y,1/Y/Y,Type1 supplier-malfunction,Integra owns Acclarent's TruDi AI navigation system alleged to have contributed to Fernihough's May 2023 stroke.,https://incidentdatabase.ai/cite/1528
+1528,JNJ,1/Y/Y,1/Y/Y,Type1 supplier-malfunction,UNCERTAIN: J&J's Acclarent unit built/owned the TruDi AI at the May 2023 incident but divested it to Integra in April 2024.,https://incidentdatabase.ai/cite/1528
+1552,TSLA,1/Y/Y,1/Y/Y,Type1 own-service,"Tesla's own driver-assistance was allegedly engaged in the fatal crash (Tesla disputes, claiming driver override).",https://incidentdatabase.ai/cite/1552
+1557,GOOGL,2/Y/N,2/Y/N,Type2 attacker-op,Outside actor Rinaldi deliberately used Google's Gemini (among tools) to fabricate campaign endorsements and fake news.,https://incidentdatabase.ai/cite/1557

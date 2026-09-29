@@ -23,11 +23,11 @@ incident_id,ticker,event_date,reason
 1700,GOOGL,2026-09-18,insufficient_post_history(4<5)
 32,AAPL,2017-09-13,merged_with_prior(<= 10td)
 981,AAPL,2025-03-07,merged_with_prior(<= 10td)
-1401,AMZN,2026-02-25,merged_with_prior(<= 10td)
-389,GM,2022-05-27,merged_with_prior(<= 10td)
-460,GM,2023-01-31,merged_with_prior(<= 10td)
+293,GM,2022-06-10,merged_with_prior(<= 10td)
+460,GM,2023-01-30,merged_with_prior(<= 10td)
 596,GM,2023-10-17,merged_with_prior(<= 10td)
 16,GOOGL,2015-07-01,merged_with_prior(<= 10td)
+1,GOOGL,2015-07-11,merged_with_prior(<= 10td)
 63,GOOGL,2018-01-25,merged_with_prior(<= 10td)
 303,GOOGL,2022-08-21,merged_with_prior(<= 10td)
 383,GOOGL,2022-10-04,merged_with_prior(<= 10td)
@@ -50,11 +50,10 @@ incident_id,ticker,event_date,reason
 1547,GOOGL,2026-05-22,merged_with_prior(<= 10td)
 1599,GOOGL,2026-07-16,merged_with_prior(<= 10td)
 1528,IART,2026-02-09,merged_with_prior(<= 10td)
-1528,JNJ,2026-02-09,merged_with_prior(<= 10td)
 445,LMT,2004-05-20,merged_with_prior(<= 10td)
 325,META,2017-09-21,merged_with_prior(<= 10td)
 72,META,2017-10-17,merged_with_prior(<= 10td)
-161,META,2019-04-03,merged_with_prior(<= 10td)
+161,META,2019-04-04,merged_with_prior(<= 10td)
 122,META,2020-01-29,merged_with_prior(<= 10td)
 331,META,2020-08-05,merged_with_prior(<= 10td)
 84,META,2020-10-09,merged_with_prior(<= 10td)
@@ -63,6 +62,7 @@ incident_id,ticker,event_date,reason
 142,META,2021-02-11,merged_with_prior(<= 10td)
 362,META,2021-07-20,merged_with_prior(<= 10td)
 164,META,2021-09-15,merged_with_prior(<= 10td)
+129,META,2021-10-18,merged_with_prior(<= 10td)
 534,META,2021-11-15,merged_with_prior(<= 10td)
 846,META,2021-11-15,merged_with_prior(<= 10td)
 278,META,2022-08-08,merged_with_prior(<= 10td)
@@ -83,13 +83,15 @@ incident_id,ticker,event_date,reason
 470,MSFT,2023-02-08,merged_with_prior(<= 10td)
 473,MSFT,2023-02-10,merged_with_prior(<= 10td)
 504,MSFT,2023-02-14,merged_with_prior(<= 10td)
-511,MSFT,2023-02-14,merged_with_prior(<= 10td)
 477,MSFT,2023-02-16,merged_with_prior(<= 10td)
 503,MSFT,2023-02-16,merged_with_prior(<= 10td)
+511,MSFT,2023-02-16,merged_with_prior(<= 10td)
 773,MSFT,2024-08-21,merged_with_prior(<= 10td)
+1106,MSFT,2025-06-10,merged_with_prior(<= 10td)
 1575,MSFT,2026-01-21,merged_with_prior(<= 10td)
 445,RTX,2004-05-20,merged_with_prior(<= 10td)
-294,TSLA,2018-05-25,merged_with_prior(<= 10td)
+320,TSLA,2018-01-23,merged_with_prior(<= 10td)
+294,TSLA,2018-05-29,merged_with_prior(<= 10td)
 323,TSLA,2018-05-29,merged_with_prior(<= 10td)
 105,TSLA,2021-07-05,merged_with_prior(<= 10td)
 208,TSLA,2021-11-15,merged_with_prior(<= 10td)
@@ -106,6 +108,7 @@ incident_id,ticker,event_date,reason
 1158,AMZN,2025-07-24,earnings_within_5td
 3,BA,2018-10-30,earnings_within_5td
 716,BKD,2024-04-01,earnings_within_5td
+253,GM,2022-06-30,earnings_within_5td
 459,GM,2023-01-30,earnings_within_5td
 14,GOOGL,2017-10-26,earnings_within_5td
 229,GOOGL,2018-04-24,earnings_within_5td
@@ -114,11 +117,11 @@ incident_id,ticker,event_date,reason
 372,GOOGL,2022-07-22,earnings_within_5td
 467,GOOGL,2023-02-08,earnings_within_5td
 1546,GOOGL,2023-07-27,earnings_within_5td
+743,GOOGL,2024-07-16,earnings_within_5td
 1361,GOOGL,2026-01-29,earnings_within_5td
 225,IBM,2018-07-25,earnings_within_5td
 415,META,2020-07-29,earnings_within_5td
 82,META,2020-10-22,earnings_within_5td
-129,META,2021-10-18,earnings_within_5td
 393,META,2022-07-28,earnings_within_5td
 576,META,2023-10-24,earnings_within_5td
 712,META,2024-04-26,earnings_within_5td
@@ -132,7 +135,6 @@ incident_id,ticker,event_date,reason
 20,TSLA,2016-06-30,earnings_within_5td
 30,TSLA,2016-10-08,earnings_within_5td
 321,TSLA,2018-03-24,earnings_within_5td
-1686,TSLA,2019-04-26,earnings_within_5td
 319,TSLA,2019-12-30,earnings_within_5td
 232,TSLA,2020-04-30,earnings_within_5td
 97,TSLA,2020-10-26,earnings_within_5td

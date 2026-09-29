@@ -4,14 +4,12 @@ incident_id,ticker,company,event_date,source,match_kind,responsibility_type,earn
 15,AMZN,AMAZON COM INC,2008-05-23,primary,direct,1,sec_8k_2.02,Amazon Censors Gay Books
 45,GOOGL,Alphabet Inc.,2011-04-05,primary,direct,1,sec_8k_2.02,Defamation via AutoComplete
 270,AAPL,Apple Inc.,2012-03-28,primary,direct,1,sec_8k_2.02,"Apple Tweaked App Store Ranking Algorithms, Allegedly Resulted in Demotion of Local Apps in China"
-19,GOOGL,Alphabet Inc.,2013-02-04,primary,direct,1,sec_8k_2.02,Sexist and Racist Google Adsense Advertisements
+19,GOOGL,Alphabet Inc.,2013-02-05,primary,direct,1,sec_8k_2.02,Sexist and Racist Google Adsense Advertisements
 10,SBUX,STARBUCKS CORP,2014-08-14,primary,direct,1,sec_8k_2.02,Kronos Scheduling Algorithm Allegedly Caused Financial Issues for Starbucks Employees
 326,META,"Meta Platforms, Inc.",2014-12-24,primary,direct,1,sec_8k_2.02,Facebook Automated Year-in-Review Highlights Showed Users Painful Memories
 327,META,"Meta Platforms, Inc.",2015-04-02,primary,direct,1,sec_8k_2.02,Facebook’s On-This-Day Feature Mistakenly Showed Painful Memories to Users
 18,GOOGL,Alphabet Inc.,2015-04-04,primary,direct,1,sec_8k_2.02,Gender Biases of Google Image Search
-25,GOOGL,Alphabet Inc.,2015-06-25,primary,direct,1,sec_8k_2.02,"Google and Delphi Self-Driving Prototypes Allegedly Involved in Near-Miss on San Antonio Road, Palo Alto"
-1,GOOGL,Alphabet Inc.,2015-07-11,primary,subsid,1,sec_8k_2.02,Google’s YouTube Kids App Presents Inappropriate Content
-5,ISRG,INTUITIVE SURGICAL INC,2015-07-13,primary,direct,1,sec_8k_2.02,Collection of Robotic Surgery Malfunctions
+25,GOOGL,Alphabet Inc.,2015-06-26,primary,direct,1,sec_8k_2.02,"Google and Delphi Self-Driving Prototypes Allegedly Involved in Near-Miss on San Antonio Road, Palo Alto"
 17,GOOGL,Alphabet Inc.,2015-11-03,primary,direct,1,sec_8k_2.02,Inappropriate Gmail Smart Reply Suggestions
 34,AMZN,AMAZON COM INC,2015-12-05,primary,direct,1,sec_8k_2.02,Amazon Alexa Responding to Environmental Inputs
 284,META,"Meta Platforms, Inc.",2016-02-12,primary,direct,1,sec_8k_2.02,Facebook’s Automated Removal of Content Featuring Nudity-Containing Artworks Denounced as Censorship
@@ -19,14 +17,14 @@ incident_id,ticker,company,event_date,source,match_kind,responsibility_type,earn
 6,MSFT,MICROSOFT CORP,2016-03-24,primary,direct,1,sec_8k_2.02,"Microsoft's TayBot Allegedly Posts Racist, Sexist, and Anti-Semitic Content to Twitter"
 332,GOOGL,Alphabet Inc.,2016-04-07,primary,direct,1,sec_8k_2.02,Google Images Showed Racially Biased Results for 'Professional' Hairstyles
 306,TSLA,"Tesla, Inc.",2016-05-26,primary,direct,1,sec_8k_2.02,Tesla on Autopilot TACC Crashed into Van on European Highway
-316,META,"Meta Platforms, Inc.",2016-06-02,primary,direct,1,sec_8k_2.02,Facebook Ad-Approval Algorithm Allegedly Missed Fraudulent Ads via Simple URL Checks
-53,GOOGL,Alphabet Inc.,2016-06-10,primary,direct,1,sec_8k_2.02,Biased Google Image Results
+53,GOOGL,Alphabet Inc.,2016-06-09,primary,direct,1,sec_8k_2.02,Biased Google Image Results
 406,META,"Meta Platforms, Inc.",2016-08-29,primary,direct,1,sec_8k_2.02,Facebook's Friend Suggestion Feature Recommends Patients of Psychiatrist to Each Other
 47,MSFT,MICROSOFT CORP,2016-09-06,primary,subsid,1,sec_8k_2.02,LinkedIn Search Prefers Male Names
 231,TSLA,"Tesla, Inc.",2016-09-14,primary,direct,1,sec_8k_2.02,A Tesla Crashed into and Killed a Road Sweeper on a Highway in China
 55,AMZN,AMAZON COM INC,2016-12-30,primary,direct,1,sec_8k_2.02,Alexa Plays Pornography Instead of Kids Song
 226,GOOGL,Alphabet Inc.,2017-01-11,primary,subsid,1,sec_8k_2.02,Waze Allegedly Clogged Streets and Directed Drivers to Make Unsafe Traffic Decisions
 13,GOOGL,Alphabet Inc.,2017-03-01,primary,direct,1,sec_8k_2.02,High-Toxicity Assessed on Text Involving Women and Minority Groups
+316,META,"Meta Platforms, Inc.",2017-03-02,primary,direct,1,sec_8k_2.02,Facebook Ad-Approval Algorithm Allegedly Missed Fraudulent Ads via Simple URL Checks
 169,META,"Meta Platforms, Inc.",2017-03-18,primary,direct,1,sec_8k_2.02,Facebook Allegedly Failed to Police Anti-Rohingya Hate Speech Content That Contributed to Violence in Myanmar
 59,GOOGL,Alphabet Inc.,2017-04-13,primary,direct,1,sec_8k_2.02,Gender Biases in Google Translate
 193,TGT,TARGET CORP,2017-05-03,primary,direct,1,sec_8k_2.02,"Excessive Automated Monitoring Alerts Ignored by Staff, Resulting in Private Data Theft of Seventy Million Target Custom"
@@ -38,15 +36,14 @@ incident_id,ticker,company,event_date,source,match_kind,responsibility_type,earn
 408,META,"Meta Platforms, Inc.",2017-10-11,primary,direct,1,sec_8k_2.02,Facebook Reportedly Outed Sex Workers through Friend Recommendations
 33,AMZN,AMAZON COM INC,2017-11-09,primary,direct,1,sec_8k_2.02,Amazon Alexa Plays Loud Music when Owner is Away
 22,GOOGL,Alphabet Inc.,2017-12-06,primary,direct,1,sec_8k_2.02,Waze Navigates Motorists into Wildfires
-320,TSLA,"Tesla, Inc.",2018-01-23,primary,direct,1,sec_8k_2.02,Tesla on Autopilot Collided with Parked Fire Truck on California Freeway
+67,TSLA,"Tesla, Inc.",2018-01-22,primary,direct,1,sec_8k_2.02,Sleeping Driver on Tesla AutoPilot
 227,GOOGL,Alphabet Inc.,2018-01-24,primary,subsid,1,sec_8k_2.02,"Waze App Allegedly Caused Tourists’ Car to End up in Lake Champlain, Vermont"
 128,TSLA,"Tesla, Inc.",2018-05-16,primary,direct,1,sec_8k_2.02,"Tesla Sedan on Autopilot Reportedly Drove Over Dividing Curb in Washington, Resulting in Minor Vehicle Damage"
 361,AMZN,AMAZON COM INC,2018-05-24,primary,direct,1,sec_8k_2.02,Amazon Echo Mistakenly Recorded and Sent Private Conversation to Random Contact
 182,GM,General Motors Co,2018-07-03,primary,subsid,1,sec_8k_2.02,Two Cruise Autonomous Vehicles Collided with Each Other in California 
 283,META,"Meta Platforms, Inc.",2018-07-05,primary,direct,1,sec_8k_2.02,Facebook’s Automated Content Moderation Tool Flagged a Post Containing Parts of the Declaration of Independence as Hate 
 307,AAPL,Apple Inc.,2018-07-10,primary,direct,1,sec_8k_2.02,iPhone Face ID Failed to Recognize Users’ Morning Faces
-37,AMZN,AMAZON COM INC,2018-10-09,primary,direct,1,sec_8k_2.02,Amazon's Experimental Hiring Tool Allegedly Displayed Gender Bias in Candidate Rankings
-67,TSLA,"Tesla, Inc.",2018-11-30,primary,direct,1,sec_8k_2.02,Sleeping Driver on Tesla AutoPilot
+37,AMZN,AMAZON COM INC,2018-10-10,primary,direct,1,sec_8k_2.02,Amazon's Experimental Hiring Tool Allegedly Displayed Gender Bias in Candidate Rankings
 2,AMZN,AMAZON COM INC,2018-12-05,primary,direct,1,sec_8k_2.02,Warehouse robot ruptures can of bear spray and injures workers
 228,AAPL,Apple Inc.,2019-02-22,primary,direct,1,sec_8k_2.02,Apple Maps Allegedly Directed Ski Trip Couple Onto Unpaved Road in the Mountains
 93,META,"Meta Platforms, Inc.",2019-03-28,primary,direct,1,sec_8k_2.02,HUD charges Facebook with enabling housing discrimination
@@ -58,8 +55,8 @@ incident_id,ticker,company,event_date,source,match_kind,responsibility_type,earn
 234,GOOGL,Alphabet Inc.,2019-09-06,primary,subsid,1,sec_8k_2.02,"Waze Allegedly Frequently Routed Drivers through the Town of Los Gatos, Blocking Its Single Wildfire Escape Route"
 251,AMZN,AMAZON COM INC,2019-09-16,primary,direct,1,sec_8k_2.02,Amazon Allegedly Tweaked Search Algorithm to Boost Its Own Products
 92,GS,GOLDMAN SACHS GROUP INC,2019-11-09,primary,direct,1,sec_8k_2.02,Apple Card's Credit Assessment Algorithm Allegedly Discriminated against Women
-522,META,"Meta Platforms, Inc.",2019-12-03,primary,direct,1,sec_8k_2.02,"Facebook Political Ad Delivery Algorithms Inferred Users' Political Alignment, Inhibiting Political Campaigns' Reach"
 322,TSLA,"Tesla, Inc.",2019-12-07,primary,direct,1,sec_8k_2.02,Tesla Model 3 Crashed into Police Patrol Car on Connecticut Highway
+522,META,"Meta Platforms, Inc.",2019-12-10,primary,direct,1,sec_8k_2.02,"Facebook Political Ad Delivery Algorithms Inferred Users' Political Alignment, Inhibiting Political Campaigns' Reach"
 305,GOOGL,Alphabet Inc.,2020-01-16,primary,subsid,1,sec_8k_2.02,YouTube’s Recommendation Algorithm Allegedly Promoted Climate Misinformation Content
 414,META,"Meta Platforms, Inc.",2020-01-18,primary,direct,1,sec_8k_2.02,Facebook Gave Vulgar English Translation of Chinese President's Name
 403,GOOGL,Alphabet Inc.,2020-02-26,primary,direct,1,sec_8k_2.02,Gmail’s Inbox Sorting System Reportedly Reduced Visibility of Political Emails and Campaign Calls-to-Action
@@ -71,15 +68,15 @@ incident_id,ticker,company,event_date,source,match_kind,responsibility_type,earn
 355,UBER,"Uber Technologies, Inc",2020-07-20,primary,direct,1,sec_8k_2.02,Uber Allegedly Wrongfully Accused Drivers of Fraud via Automated Systems
 1057,GOOGL,Alphabet Inc.,2020-09-25,primary,direct,1,sec_8k_2.02,"'Jewish Baby Strollers' Provided Antisemitic Google Images, Allegedly Resulting from Hate Speech Campaign"
 125,AMZN,AMAZON COM INC,2020-09-29,primary,direct,1,sec_8k_2.02,Amazon’s Robotic Fulfillment Centers Have Higher Serious Injury Rates
-282,META,"Meta Platforms, Inc.",2020-10-07,primary,direct,1,sec_8k_2.02,Facebook’s Algorithm Mistook an Advertisement of Onions as Sexual Suggestive Content
+282,META,"Meta Platforms, Inc.",2020-10-05,primary,direct,1,sec_8k_2.02,Facebook’s Algorithm Mistook an Advertisement of Onions as Sexual Suggestive Content
 215,META,"Meta Platforms, Inc.",2020-11-18,primary,direct,1,sec_8k_2.02,Facebook Content Moderators Demand Better Working Conditions Due to Allegedly Inadequate AI Content Moderation
 386,AMZN,AMAZON COM INC,2020-12-01,primary,direct,1,sec_8k_2.02,"Amazon’s ""Time Off Task"" System Made False Assumptions about Workers' Time Management"
 89,GOOGL,Alphabet Inc.,2020-12-12,primary,subsid,1,sec_8k_2.02,The Christchurch shooter and YouTube’s radicalization trap
 318,META,"Meta Platforms, Inc.",2021-01-14,primary,direct,1,sec_8k_2.02,Facebook Recommended Military Gear Ads Despite Pause on Weapons Accessories Ads
 141,META,"Meta Platforms, Inc.",2021-02-09,primary,subsid,1,sec_8k_2.02,California Police Turned on Music to Allegedly Trigger Instagram’s DCMA to Avoid Being Live-Streamed
 144,GOOGL,Alphabet Inc.,2021-02-18,primary,subsid,1,sec_8k_2.02,YouTube's AI Mistakenly Banned Chess Channel over Chess Language Misinterpretation
+395,AMZN,AMAZON COM INC,2021-03-03,primary,direct,1,sec_8k_2.02,Amazon Allegedly Forced Deployment of AI-Powered Cameras on Delivery Drivers
 333,TSLA,"Tesla, Inc.",2021-03-17,primary,direct,1,sec_8k_2.02,Tesla on Autopilot Crashed Parked Michigan Police Car on Interstate
-395,AMZN,AMAZON COM INC,2021-03-23,primary,direct,1,sec_8k_2.02,Amazon Allegedly Forced Deployment of AI-Powered Cameras on Delivery Drivers
 257,SSTI,"SOUNDTHINKING, INC.",2021-05-03,primary,direct,1,sec_8k_2.02,Police Reportedly Deployed ShotSpotter Sensors Disproportionately in Neighborhoods of Color
 347,GOOGL,Alphabet Inc.,2021-05-13,primary,subsid,1,sec_8k_2.02,"Waymo Self-Driving Taxi Reportedly Behaved Unexpectedly, Driving away from Support Crew"
 359,META,"Meta Platforms, Inc.",2021-05-28,primary,direct,1,sec_8k_2.02,"Facebook, Instagram, and Twitter Cited Errors in Automated Systems as Cause for Blocking pro-Palestinian Content on Isra"
@@ -92,11 +89,11 @@ incident_id,ticker,company,event_date,source,match_kind,responsibility_type,earn
 113,META,"Meta Platforms, Inc.",2021-09-03,primary,direct,1,sec_8k_2.02,"Facebook's AI Put ""Primates"" Label on Video Featuring Black Men"
 116,AMZN,AMAZON COM INC,2021-09-20,primary,direct,1,sec_8k_2.02,Amazon's AI Cameras Incorrectly Penalized Delivery Drivers for Mistakes They Did Not Make
 437,AMZN,AMAZON COM INC,2021-10-13,recall,direct,1,sec_8k_2.02,Amazon India Allegedly Rigged Search Results to Promote Own Products
+163,META,"Meta Platforms, Inc.",2021-10-15,primary,direct,1,sec_8k_2.02,Facebook’s Hate Speech Detection Algorithms Allegedly Disproportionately Failed to Remove Racist Content towards Minorit
 417,META,"Meta Platforms, Inc.",2021-11-03,primary,direct,1,sec_8k_2.02,Facebook Feed Algorithms Exposed Low Digitally Skilled Users to More Disturbing Content
 370,GOOGL,Alphabet Inc.,2021-11-10,primary,direct,1,sec_8k_2.02,Google Fined for Changing Shopping Algorithms in EU to Favor Own Service
 304,TSLA,"Tesla, Inc.",2021-11-12,primary,direct,1,sec_8k_2.02,Tesla on FSD Reportedly Drove into the Wrong Lane in California
 157,AMZN,AMAZON COM INC,2021-11-15,primary,direct,1,sec_8k_2.02,"Amazon's Monitoring System Allegedly Pushed Delivery Drivers to Prioritize Speed over Safety, Leading to Crash"
-163,META,"Meta Platforms, Inc.",2021-11-21,primary,direct,1,sec_8k_2.02,Facebook’s Hate Speech Detection Algorithms Allegedly Disproportionately Failed to Remove Racist Content towards Minorit
 213,META,"Meta Platforms, Inc.",2021-12-09,primary,direct,1,sec_8k_2.02,Facebook’s Political Ad Detection Reportedly Showed High and Geographically Uneven Error Rates
 211,TSLA,"Tesla, Inc.",2021-12-13,primary,direct,1,sec_8k_2.02,A Tesla Taxi Cab Involved in an Accident in Paris with Twenty Injuries
 212,XPEV,XPENG INC.,2021-12-14,recall,direct,1,yfinance,XPeng Motors Fined For Illegal Collection of Consumers’ Faces Using Facial Recognition Cameras
@@ -104,22 +101,21 @@ incident_id,ticker,company,event_date,source,match_kind,responsibility_type,earn
 155,GOOGL,Alphabet Inc.,2021-12-28,recall,direct,1,sec_8k_2.02,Google Maps Allegedly Directed Sierra Nevada Travelers to Dangerous Roads amid Winter Storm
 187,TSLA,"Tesla, Inc.",2022-02-05,primary,direct,1,sec_8k_2.02,"YouTuber Tested Tesla on Self Driving Mode, Colliding with Street Pylons"
 181,GM,General Motors Co,2022-02-22,primary,subsid,1,sec_8k_2.02,"BMW Sedan Made a Prohibited Left Turn, Colliding with a Cruise Autonomous Vehicle"
-400,GOOGL,Alphabet Inc.,2022-02-23,primary,direct,1,sec_8k_2.02,Google Search Reportedly Returned Fewer Results for Abortion Services in Rural Areas
 203,UBER,"Uber Technologies, Inc",2022-02-26,primary,direct,1,sec_8k_2.02,Uber Launched Opaque Algorithm That Changes Drivers' Payments in the US
 221,TSLA,"Tesla, Inc.",2022-03-08,primary,direct,1,sec_8k_2.02,A Road Engineer Killed Following a Collision Involving a Tesla on Autopilot
 197,META,"Meta Platforms, Inc.",2022-03-31,primary,direct,1,sec_8k_2.02,"Facebook Internally Reported Failure of Ranking Algorithm, Exposing Harmful Content to Viewers over Months"
 175,GM,General Motors Co,2022-04-10,primary,subsid,1,sec_8k_2.02,Cruise Autonomous Taxi Allegedly Bolted off from Police After Being Pulled over in San Francisco
-253,GM,General Motors Co,2022-05-22,primary,subsid,1,sec_8k_2.02,"Cruise's Self-Driving Cars Allegedly Lost Connection to Their Server, Causing Traffic Blockages in San Francisco"
+389,GM,General Motors Co,2022-05-27,primary,subsid,1,sec_8k_2.02,Cruise Autonomous Car Blocked Fire Truck Responding to Emergency
 520,AMZN,AMAZON COM INC,2022-05-30,recall,direct,1,sec_8k_2.02,Amazon Fresh Cameras Failed to Register Purchased Items
 252,AXON,"AXON ENTERPRISE, INC.",2022-06-06,primary,direct,1,sec_8k_2.02,Remotely Operated Taser-Armed Drones Proposed by Taser Manufacturer as Defense for School Shootings in the US
 254,GOOGL,Alphabet Inc.,2022-06-06,primary,direct,1,sec_8k_2.02,"Google's Face Grouping Allegedly Collected and Analyzed Users' Facial Structure without Consent, Violated BIPA"
-293,GM,General Motors Co,2022-06-10,primary,subsid,1,sec_8k_2.02,Cruise’s Self-Driving Car Involved in a Multiple-Injury Collision at an San Francisco Intersection
 392,META,"Meta Platforms, Inc.",2022-06-15,primary,direct,1,sec_8k_2.02,Facebook's AI-Supported Moderation Failed to Classify Terrorist Content in East African Languages
 292,AAPL,Apple Inc.,2022-07-11,primary,direct,1,sec_8k_2.02,Apple’s AVs Reportedly Struggled to Navigate Streets in Silicon Valley Test Drives
 256,SSTI,"SOUNDTHINKING, INC.",2022-07-26,primary,direct,1,sec_8k_2.02,DUI Arrest Case Allegedly Based Only on ShotSpotter's Alert
 285,GOOGL,Alphabet Inc.,2022-08-10,primary,direct,1,sec_8k_2.02,Google Lens’s Camera-Based Translation Feature Provided an Offensive Mistranslation of a Book Title in Korean
-398,TSLA,"Tesla, Inc.",2022-08-20,primary,direct,1,sec_8k_2.02,Tesla Autopilot Misidentified On-Road Horse-Drawn Carriage
+398,TSLA,"Tesla, Inc.",2022-08-15,primary,direct,1,sec_8k_2.02,Tesla Autopilot Misidentified On-Road Horse-Drawn Carriage
 387,ORCL,ORACLE CORP,2022-08-22,primary,direct,1,sec_8k_2.02,Oracle's Algorithmic Data Processing System Alleged as Unlawful and Violating Privacy Rights
+313,META,"Meta Platforms, Inc.",2022-08-25,primary,direct,1,sec_8k_2.02,BlenderBot 3 Cited Dutch Politician as a Terrorist
 349,EVLV,"Evolv Technologies Holdings, Inc.",2022-08-26,primary,direct,1,sec_8k_2.02,"Evolv AI Weapons Detection System Allegedly Misrepresents Accuracy, Leading to School Security Gaps"
 348,GOOGL,Alphabet Inc.,2022-08-31,primary,subsid,1,sec_8k_2.02,YouTube Recommendation Reportedly Pushed Election Fraud Content to Skeptics Disproportionately
 426,XPEV,XPENG INC.,2022-09-26,primary,direct,1,yfinance,XPeng P7 Crashed into Truck in Shangdong While on Automatic Navigation Assisted Driving
@@ -136,11 +132,9 @@ incident_id,ticker,company,event_date,source,match_kind,responsibility_type,earn
 446,SSTI,"SOUNDTHINKING, INC.",2023-01-03,primary,direct,1,sec_8k_2.02,ShotSpotter Failed to Alert Authorities of Mass Shooting in North Carolina
 463,AAPL,Apple Inc.,2023-01-14,primary,direct,1,sec_8k_2.02,"Apple Devices Mistook Skiing Activities, Dialed False Distress Emergency Calls "
 468,MSFT,MICROSOFT CORP,2023-02-07,primary,direct,1,sec_8k_2.02,ChatGPT-Powered Bing Reportedly Had Problems with Factual Accuracy on Some Controversial Topics
-475,IBM,INTERNATIONAL BUSINESS MACHINES CORP,2023-02-13,primary,direct,1,sec_8k_2.02,McDonald's Reportedly Ends IBM Partnership After AI Drive-Thru Ordering Errors at U.S. Locations
-475,MCD,MCDONALDS CORP,2023-02-13,primary,direct,1,sec_8k_2.02,McDonald's Reportedly Ends IBM Partnership After AI Drive-Thru Ordering Errors at U.S. Locations
 478,TSLA,"Tesla, Inc.",2023-02-16,primary,direct,1,sec_8k_2.02,"Tesla FSD Reportedly Increased Crash Risk, Prompting Recall"
-539,SNAP,Snap Inc,2023-03-11,primary,direct,1,sec_8k_2.02,Snapchat's My AI Reported for Lacking Protection for Children
 501,UNH,UNITEDHEALTH GROUP INC,2023-03-13,primary,subsid,1,sec_8k_2.02,Length of Stay False Diagnosis Cut Off Insurer's Payment for Treatment of Elderly Woman
+539,SNAP,Snap Inc,2023-03-14,primary,direct,1,sec_8k_2.02,Snapchat's My AI Reported for Lacking Protection for Children
 550,TSLA,"Tesla, Inc.",2023-03-17,primary,direct,1,sec_8k_2.02,Tesla Allegedly on Autopilot Struck High School Student Exiting School Bus
 553,GOOGL,Alphabet Inc.,2023-05-05,primary,direct,1,sec_8k_2.02,Google's Overview Panel for Artist Edward Hopper Featured Image Generated in His Style by AI
 540,TSLA,"Tesla, Inc.",2023-05-16,primary,direct,1,sec_8k_2.02,"Tesla Failed to Yield to Detected Pedestrian on Crosswalk, Reportedly Violated Traffic Law"
@@ -152,7 +146,6 @@ incident_id,ticker,company,event_date,source,match_kind,responsibility_type,earn
 581,GOOGL,Alphabet Inc.,2023-06-26,primary,direct,1,sec_8k_2.02,Google Ads Allegedly Serving Content on AI-Generated Misinformation Sites
 996,META,"Meta Platforms, Inc.",2023-07-09,primary,direct,1,sec_8k_2.02,"Meta Allegedly Used Books3, a Dataset of 191,000 Pirated Books, to Train LLaMA AI"
 591,CI,Cigna Group,2023-07-24,primary,direct,1,sec_8k_2.02,Cigna Algorithm PXDX Allegedly Rejected Thousands of Patient Claims En Masse in Breach of California Law
-313,META,"Meta Platforms, Inc.",2023-08-03,primary,direct,1,sec_8k_2.02,BlenderBot 3 Cited Dutch Politician as a Terrorist
 595,GM,General Motors Co,2023-08-12,primary,subsid,1,sec_8k_2.02,Driverless Cruise Cars Immobilized in San Francisco Traffic Jam
 563,GM,General Motors Co,2023-09-02,primary,subsid,1,sec_8k_2.02,Cruise Robotaxi Initially Blamed for Ambulance Delay in Case Where Patient Later Died; Subsequent Reports Clear Cruise o
 571,MSFT,MICROSOFT CORP,2023-09-18,primary,direct,1,sec_8k_2.02,Reported Accidental Exposure of 38TB of Data by Microsoft's AI Research Team
@@ -175,9 +168,10 @@ incident_id,ticker,company,event_date,source,match_kind,responsibility_type,earn
 693,GOOGL,Alphabet Inc.,2024-05-14,primary,direct,1,sec_8k_2.02,Google AI Reportedly Delivering Confidently Incorrect and Harmful Information
 789,META,"Meta Platforms, Inc.",2024-06-12,primary,direct,1,sec_8k_2.02,Independent News Sites Flagged as Spam by Facebook's AI Moderation System
 707,TSLA,"Tesla, Inc.",2024-06-13,primary,direct,1,sec_8k_2.02,"Tesla Reportedly in Autopilot Mode Hits Parked Police Vehicle in Fullerton, California"
+475,IBM,INTERNATIONAL BUSINESS MACHINES CORP,2024-06-21,primary,direct,1,sec_8k_2.02,McDonald's Reportedly Ends IBM Partnership After AI Drive-Thru Ordering Errors at U.S. Locations
+475,MCD,MCDONALDS CORP,2024-06-21,primary,direct,1,sec_8k_2.02,McDonald's Reportedly Ends IBM Partnership After AI Drive-Thru Ordering Errors at U.S. Locations
 821,BIDU,"Baidu, Inc.",2024-07-10,primary,direct,1,yfinance,Baidu Robotaxi Allegedly Involved in Collision with Pedestrian in Wuhan
 748,PYPL,"PayPal Holdings, Inc.",2024-07-13,primary,direct,1,sec_8k_2.02,Erroneous Declined Transaction Notification by PayPal AI Assistant
-743,GOOGL,Alphabet Inc.,2024-07-14,primary,direct,1,sec_8k_2.02,Gemini AI Allegedly Reads Google Drive Files Without Explicit User Consent
 794,GOOGL,Alphabet Inc.,2024-08-10,primary,subsid,1,sec_8k_2.02,Reported Glitch in Waymo Self-Driving Cars Purportedly Triggers Regular All-Night Honking in San Francisco
 770,MSFT,MICROSOFT CORP,2024-08-20,primary,direct,1,sec_8k_2.02,Microsoft Copilot Falsely Accuses Journalist Martin Bernklau of Crimes
 778,AMZN,AMAZON COM INC,2024-09-04,primary,direct,1,sec_8k_2.02,Amazon's Alexa Reportedly Shows Political Preference Error in Trump-Harris Presidential Race Queries
@@ -203,9 +197,9 @@ incident_id,ticker,company,event_date,source,match_kind,responsibility_type,earn
 1427,FLUT,Flutter Entertainment plc,2025-04-07,primary,direct,1,sec_8k_2.02,Baltimore Lawsuit Alleged DraftKings and FanDuel Used Machine-Learning-Driven Targeting to Exploit Vulnerable Gamblers
 1159,MSFT,MICROSOFT CORP,2025-05-26,primary,direct,1,sec_8k_2.02,Government‑Backed AI4Peat Mapping Tool Allegedly Misidentifies Granite Outcrops and Quarries as Peat
 1097,GOOGL,Alphabet Inc.,2025-06-12,primary,direct,1,sec_8k_2.02,Google AI Overview Reportedly Misstates Aircraft Manufacturer as Airbus Instead of Boeing in Air India Flight 171 Crash
-1106,MSFT,MICROSOFT CORP,2025-06-28,primary,direct,1,sec_8k_2.02,"Chatbots Allegedly Reinforced Delusional Thinking in Several Reported Users, Leading to Real-World Harm"
 1179,MCD,MCDONALDS CORP,2025-07-11,primary,direct,1,sec_8k_2.02,McDonald's McHire AI Recruitment Platform Reportedly Exposed Data of 64 Million Applicants via Default Login and API Vul
 1157,GOOGL,Alphabet Inc.,2025-07-14,primary,direct,1,sec_8k_2.02,Google Gemini Reportedly Generates Sexual Role‑Play for Account Registered as Minor
+1686,TSLA,"Tesla, Inc.",2025-07-14,primary,direct,1,sec_8k_2.02,"Tesla Model S with Autopilot Reportedly Engaged Struck Parked SUV in Key Largo, Killing One Person and Seriously Injurin"
 1172,META,"Meta Platforms, Inc.",2025-07-15,primary,direct,1,sec_8k_2.02,Meta AI Bug in Deployed Service Reportedly Allowed Potential Access to Other Users' Prompts and Responses
 1164,GOOGL,Alphabet Inc.,2025-08-04,primary,direct,1,sec_8k_2.02,Google Healthcare AI Model Med‑Gemini Allegedly Produces Non‑Existent 'Basilar Ganglia' Term in Published Output
 1180,META,"Meta Platforms, Inc.",2025-08-14,primary,direct,1,sec_8k_2.02,"Purported Meta AI Chatbot Persona 'Big sis Billie' Reportedly Engages in Romantic Roleplay and Provides Address, Linked "
@@ -224,7 +218,6 @@ incident_id,ticker,company,event_date,source,match_kind,responsibility_type,earn
 1575,PYPL,"PayPal Holdings, Inc.",2026-01-21,primary,direct,1,sec_8k_2.02,Eightfold AI Hiring Tools Allegedly Secretly Scored Job Applicants for Employers
 1540,AMZN,AMAZON COM INC,2026-01-28,primary,subsid,1,sec_8k_2.02,"Zoox Robotaxi Reportedly Collided with Open Car Door, Allegedly Injuring San Francisco Street Ambassador"
 1436,IART,INTEGRA LIFESCIENCES HOLDINGS CORP,2026-02-09,primary,direct,1,sec_8k_2.02,AI-Enabled TruDi Navigation System Was Alleged to Have Contributed to Patient's Stroke During June 2022 Sinus Procedure
-1436,JNJ,JOHNSON & JOHNSON,2026-02-09,primary,subsid,1,sec_8k_2.02,AI-Enabled TruDi Navigation System Was Alleged to Have Contributed to Patient's Stroke During June 2022 Sinus Procedure
 1376,AMZN,AMAZON COM INC,2026-02-15,primary,direct,1,sec_8k_2.02,Amazon Delivery Van Reportedly Became Stranded on Essex Mudflats After GPS Routed It Onto the Broomway
 1386,GOOGL,Alphabet Inc.,2026-02-15,primary,direct,1,sec_8k_2.02,"NPR Host David Greene Alleged Google's NotebookLM Replicated His Voice Without Consent, Prompting Lawsuit"
 1418,META,"Meta Platforms, Inc.",2026-02-27,primary,direct,1,sec_8k_2.02,Meta AI Smart Glasses Reportedly Routed Intimate Imagery to Reviewers at Kenyan Contractor Sama Before Meta Ended Contra
