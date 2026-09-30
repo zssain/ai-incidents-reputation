@@ -1,4 +1,5 @@
 incident_id,ticker,company,title,incident_url
+571,MSFT,MICROSOFT CORP,Reported Accidental Exposure of 38TB of Data by Microsoft's AI Research Team,https://incidentdatabase.ai/cite/571
 581,GOOGL,Alphabet Inc.,Google Ads Allegedly Serving Content on AI-Generated Misinformation Sites,https://incidentdatabase.ai/cite/581
 583,META,"Meta Platforms, Inc.",Instagram Algorithms Allegedly Promote Accounts Facilitating Child Sex Abuse Content,https://incidentdatabase.ai/cite/583
 591,CI,Cigna Group,Cigna Algorithm PXDX Allegedly Rejected Thousands of Patient Claims En Masse in Breach of California Law,https://incidentdatabase.ai/cite/591
@@ -45,6 +46,3 @@ incident_id,ticker,company,title,incident_url
 995,MSFT,MICROSOFT CORP,The New York Times Reportedly Sues OpenAI and Microsoft Over Alleged Unauthorized AI Training on Its Content,https://incidentdatabase.ai/cite/995
 996,META,"Meta Platforms, Inc.","Meta Allegedly Used Books3, a Dataset of 191,000 Pirated Books, to Train LLaMA AI",https://incidentdatabase.ai/cite/996
 1057,GOOGL,Alphabet Inc.,"'Jewish Baby Strollers' Provided Antisemitic Google Images, Allegedly Resulting from Hate Speech Campaign",https://incidentdatabase.ai/cite/1057
-1097,GOOGL,Alphabet Inc.,Google AI Overview Reportedly Misstates Aircraft Manufacturer as Airbus Instead of Boeing in Air India Flight 171 Crash,https://incidentdatabase.ai/cite/1097
-1157,GOOGL,Alphabet Inc.,Google Gemini Reportedly Generates Sexual Role‑Play for Account Registered as Minor,https://incidentdatabase.ai/cite/1157
-1159,MSFT,MICROSOFT CORP,Government‑Backed AI4Peat Mapping Tool Allegedly Misidentifies Granite Outcrops and Quarries as Peat,https://incidentdatabase.ai/cite/1159

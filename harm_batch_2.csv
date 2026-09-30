@@ -1,4 +1,5 @@
 incident_id,ticker,company,title,incident_url
+213,META,"Meta Platforms, Inc.",Facebook’s Political Ad Detection Reportedly Showed High and Geographically Uneven Error Rates,https://incidentdatabase.ai/cite/213
 215,META,"Meta Platforms, Inc.",Facebook Content Moderators Demand Better Working Conditions Due to Allegedly Inadequate AI Content Moderation,https://incidentdatabase.ai/cite/215
 218,TSLA,"Tesla, Inc.",Tesla on Autopilot Crashed into Flipped Truck on Taiwan Highway,https://incidentdatabase.ai/cite/218
 221,TSLA,"Tesla, Inc.",A Road Engineer Killed Following a Collision Involving a Tesla on Autopilot,https://incidentdatabase.ai/cite/221
@@ -46,5 +47,3 @@ incident_id,ticker,company,title,incident_url
 359,META,"Meta Platforms, Inc.","Facebook, Instagram, and Twitter Cited Errors in Automated Systems as Cause for Blocking pro-Palestinian Content on Isra",https://incidentdatabase.ai/cite/359
 360,MCD,MCDONALDS CORP,"McDonald's AI Drive-Thru Allegedly Collected Biometric Customer Data without Consent, Violating BIPA",https://incidentdatabase.ai/cite/360
 361,AMZN,AMAZON COM INC,Amazon Echo Mistakenly Recorded and Sent Private Conversation to Random Contact,https://incidentdatabase.ai/cite/361
-370,GOOGL,Alphabet Inc.,Google Fined for Changing Shopping Algorithms in EU to Favor Own Service,https://incidentdatabase.ai/cite/370
-377,WB,WEIBO Corp,Weibo Model Had Difficulty Detecting Shifts in Censored Speech,https://incidentdatabase.ai/cite/377

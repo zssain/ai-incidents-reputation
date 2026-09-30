@@ -1,4 +1,6 @@
 incident_id,ticker,company,title,incident_url
+370,GOOGL,Alphabet Inc.,Google Fined for Changing Shopping Algorithms in EU to Favor Own Service,https://incidentdatabase.ai/cite/370
+377,WB,WEIBO Corp,Weibo Model Had Difficulty Detecting Shifts in Censored Speech,https://incidentdatabase.ai/cite/377
 380,META,"Meta Platforms, Inc.",Facebook's Auto-Generated Targeting Ad Categories Contained Anti-Semitic Options,https://incidentdatabase.ai/cite/380
 382,META,"Meta Platforms, Inc.",Instagram's Exposure of Harmful Content Allegedly Contributed to Teenage Girl's Suicide,https://incidentdatabase.ai/cite/382
 386,AMZN,AMAZON COM INC,"Amazon’s ""Time Off Task"" System Made False Assumptions about Workers' Time Management",https://incidentdatabase.ai/cite/386
@@ -18,18 +20,15 @@ incident_id,ticker,company,title,incident_url
 427,GM,General Motors Co,Cruise Taxis' Sudden Braking Allegedly Put People at Risk,https://incidentdatabase.ai/cite/427
 428,HSBC,HSBC HOLDINGS PLC,BBC Reporter's Twin Brother Cracked HSBC's Voice ID Authentication,https://incidentdatabase.ai/cite/428
 432,GE,GENERAL ELECTRIC CO,Southwest Airlines Crew Scheduling Solver Degenerates Flight Network,https://incidentdatabase.ai/cite/432
-432,LUV,SOUTHWEST AIRLINES CO,Southwest Airlines Crew Scheduling Solver Degenerates Flight Network,https://incidentdatabase.ai/cite/432
 434,TSLA,"Tesla, Inc.",Sudden Braking by Tesla Allegedly on Self-Driving Mode Caused Multi-Car Pileup in Tunnel,https://incidentdatabase.ai/cite/434
 437,AMZN,AMAZON COM INC,Amazon India Allegedly Rigged Search Results to Promote Own Products,https://incidentdatabase.ai/cite/437
 444,LMT,LOCKHEED MARTIN CORP,"US Air Force's Patriot Missile Mistakenly Launched at Ally Fighter Jet, Killing Two",https://incidentdatabase.ai/cite/444
-444,RTX,RTX Corp,"US Air Force's Patriot Missile Mistakenly Launched at Ally Fighter Jet, Killing Two",https://incidentdatabase.ai/cite/444
 446,SSTI,"SOUNDTHINKING, INC.",ShotSpotter Failed to Alert Authorities of Mass Shooting in North Carolina,https://incidentdatabase.ai/cite/446
 447,META,"Meta Platforms, Inc.","Footballer's ""X-Rated"" Comment Created by Instagram's Mistranslation",https://incidentdatabase.ai/cite/447
 463,AAPL,Apple Inc.,"Apple Devices Mistook Skiing Activities, Dialed False Distress Emergency Calls ",https://incidentdatabase.ai/cite/463
 468,MSFT,MICROSOFT CORP,ChatGPT-Powered Bing Reportedly Had Problems with Factual Accuracy on Some Controversial Topics,https://incidentdatabase.ai/cite/468
 471,META,"Meta Platforms, Inc.",Facebook Allegedly Failed to Police Hate Speech Content That Contributed to Ethnic Violence in Ethiopia,https://incidentdatabase.ai/cite/471
 475,IBM,INTERNATIONAL BUSINESS MACHINES CORP,McDonald's Reportedly Ends IBM Partnership After AI Drive-Thru Ordering Errors at U.S. Locations,https://incidentdatabase.ai/cite/475
-475,MCD,MCDONALDS CORP,McDonald's Reportedly Ends IBM Partnership After AI Drive-Thru Ordering Errors at U.S. Locations,https://incidentdatabase.ai/cite/475
 476,GOOGL,Alphabet Inc.,YouTube Recommendations Allegedly Promoted Radicalizing Material Contributing to Terrorist Acts,https://incidentdatabase.ai/cite/476
 478,TSLA,"Tesla, Inc.","Tesla FSD Reportedly Increased Crash Risk, Prompting Recall",https://incidentdatabase.ai/cite/478
 501,UNH,UNITEDHEALTH GROUP INC,Length of Stay False Diagnosis Cut Off Insurer's Payment for Treatment of Elderly Woman,https://incidentdatabase.ai/cite/501
@@ -47,4 +46,3 @@ incident_id,ticker,company,title,incident_url
 556,AMZN,AMAZON COM INC,Amazon Allegedly Violated Children's Privacy through Default Voice Collection Settings,https://incidentdatabase.ai/cite/556
 563,GM,General Motors Co,Cruise Robotaxi Initially Blamed for Ambulance Delay in Case Where Patient Later Died; Subsequent Reports Clear Cruise o,https://incidentdatabase.ai/cite/563
 570,META,"Meta Platforms, Inc.",Facebook Messenger AI Stickers Generate Ethical and Content Moderation Concerns,https://incidentdatabase.ai/cite/570
-571,MSFT,MICROSOFT CORP,Reported Accidental Exposure of 38TB of Data by Microsoft's AI Research Team,https://incidentdatabase.ai/cite/571

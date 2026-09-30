@@ -1,4 +1,7 @@
 incident_id,ticker,company,title,incident_url
+1097,GOOGL,Alphabet Inc.,Google AI Overview Reportedly Misstates Aircraft Manufacturer as Airbus Instead of Boeing in Air India Flight 171 Crash,https://incidentdatabase.ai/cite/1097
+1157,GOOGL,Alphabet Inc.,Google Gemini Reportedly Generates Sexual Role‑Play for Account Registered as Minor,https://incidentdatabase.ai/cite/1157
+1159,MSFT,MICROSOFT CORP,Government‑Backed AI4Peat Mapping Tool Allegedly Misidentifies Granite Outcrops and Quarries as Peat,https://incidentdatabase.ai/cite/1159
 1164,GOOGL,Alphabet Inc.,Google Healthcare AI Model Med‑Gemini Allegedly Produces Non‑Existent 'Basilar Ganglia' Term in Published Output,https://incidentdatabase.ai/cite/1164
 1172,META,"Meta Platforms, Inc.",Meta AI Bug in Deployed Service Reportedly Allowed Potential Access to Other Users' Prompts and Responses,https://incidentdatabase.ai/cite/1172
 1174,MSFT,MICROSOFT CORP,Microsoft Copilot Reportedly Able to Access Cached Data from Since-Private GitHub Repositories,https://incidentdatabase.ai/cite/1174
@@ -16,7 +19,6 @@ incident_id,ticker,company,title,incident_url
 1400,MSFT,MICROSOFT CORP,West Midlands Police Reportedly Relied on Erroneous Copilot-Generated Intelligence in Maccabi Tel Aviv Away-Fan Ban Deci,https://incidentdatabase.ai/cite/1400
 1418,META,"Meta Platforms, Inc.",Meta AI Smart Glasses Reportedly Routed Intimate Imagery to Reviewers at Kenyan Contractor Sama Before Meta Ended Contra,https://incidentdatabase.ai/cite/1418
 1427,DKNG,DraftKings Inc.,Baltimore Lawsuit Alleged DraftKings and FanDuel Used Machine-Learning-Driven Targeting to Exploit Vulnerable Gamblers,https://incidentdatabase.ai/cite/1427
-1427,FLUT,Flutter Entertainment plc,Baltimore Lawsuit Alleged DraftKings and FanDuel Used Machine-Learning-Driven Targeting to Exploit Vulnerable Gamblers,https://incidentdatabase.ai/cite/1427
 1431,GOOGL,Alphabet Inc.,"Google Gemini Reportedly Reinforced Delusions,  Allegedly Contributing to Florida User's Near-Harm Episode and Suicide",https://incidentdatabase.ai/cite/1431
 1433,GOOGL,Alphabet Inc.,Google Antigravity Reportedly Deleted User's Entire D: Drive While Clearing Project Cache,https://incidentdatabase.ai/cite/1433
 1436,IART,INTEGRA LIFESCIENCES HOLDINGS CORP,AI-Enabled TruDi Navigation System Was Alleged to Have Contributed to Patient's Stroke During June 2022 Sinus Procedure,https://incidentdatabase.ai/cite/1436
@@ -30,8 +32,6 @@ incident_id,ticker,company,title,incident_url
 1544,GOOGL,Alphabet Inc.,Waymo Robotaxi Reportedly Entered Flooded San Antonio Roadway and Was Swept Into Waterway,https://incidentdatabase.ai/cite/1544
 1552,TSLA,"Tesla, Inc.",Tesla Driver Reportedly Said Driver-Assistance Mode Was Engaged During Fatal Texas Home Crash,https://incidentdatabase.ai/cite/1552
 1559,ACI,"Albertsons Companies, Inc.",Kalibrate Fuel Pricing Allegedly Enabled California Gas Station Operators to Coordinate Higher Pump Prices,https://incidentdatabase.ai/cite/1559
-1559,MPC,Marathon Petroleum Corp,Kalibrate Fuel Pricing Allegedly Enabled California Gas Station Operators to Coordinate Higher Pump Prices,https://incidentdatabase.ai/cite/1559
-1559,WMT,Walmart Inc.,Kalibrate Fuel Pricing Allegedly Enabled California Gas Station Operators to Coordinate Higher Pump Prices,https://incidentdatabase.ai/cite/1559
 1567,SERV,Serve Robotics Inc. /DE/,Serve Robotics Delivery Robot Reportedly Crashed into Chicago Bus Shelter After Failing to Detect Glass,https://incidentdatabase.ai/cite/1567
 1572,TRI,THOMSON REUTERS CORP /CAN/,Westlaw CoCounsel Reportedly Generated False Legal Quotations in United States v. Farris,https://incidentdatabase.ai/cite/1572
 1575,PYPL,"PayPal Holdings, Inc.",Eightfold AI Hiring Tools Allegedly Secretly Scored Job Applicants for Employers,https://incidentdatabase.ai/cite/1575
@@ -41,7 +41,6 @@ incident_id,ticker,company,title,incident_url
 1602,AMZN,AMAZON COM INC,"Zoox Autonomous Vehicle Reportedly Entered Smoke-Obscured Fire Scene, Prompting Heavy-Smoke Detection Recall",https://incidentdatabase.ai/cite/1602
 1618,UDR,"UDR, Inc.","Apartment Owner and Manager UDR Allegedly Used RealPage Algorithms to Set San Diego Rents in Keller v. UDR, Inc.",https://incidentdatabase.ai/cite/1618
 1630,CZR,"Caesars Entertainment, Inc.",Atlantic City Casino-Hotels Allegedly Used Cendyn's Rainmaker AI to Coordinate and Inflate Room Rates,https://incidentdatabase.ai/cite/1630
-1630,MGM,MGM Resorts International,Atlantic City Casino-Hotels Allegedly Used Cendyn's Rainmaker AI to Coordinate and Inflate Room Rates,https://incidentdatabase.ai/cite/1630
 1631,ZTS,Zoetis Inc.,"Zoetis Vetscan Imagyst Allegedly Misclassified Dog's Cancerous Tumor, Leading to Second Surgery and Death",https://incidentdatabase.ai/cite/1631
 1649,META,"Meta Platforms, Inc.",Meta AI Model Reportedly Exploited Security Vulnerability in Real Third-Party Service During Cybersecurity Evaluation,https://incidentdatabase.ai/cite/1649
 1673,GOOGL,Alphabet Inc.,Google Gemini 3.5 Coding Agent Reportedly Caused Production Portal Outage and Generated Fabricated Recovery Records,https://incidentdatabase.ai/cite/1673
