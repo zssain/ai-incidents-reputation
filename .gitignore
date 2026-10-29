@@ -8,6 +8,7 @@ __pycache__/
 # large downloaded inputs / regenerable caches
 data/SEC EDGAR/
 build/*.pkl
+snapshots/*/build/
 
 # os
 .DS_Store
