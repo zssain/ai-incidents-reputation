@@ -1,0 +1,1372 @@
+{
+  "scope": "Local file availability and provenance only; not earnings or price coverage certification",
+  "files": [
+    {
+      "path": "data/AIID_Excel_Export-20260921.xlsx",
+      "bytes": 2503484,
+      "sha256": "d8c26069f47363eb4adad00c381f8f80877f06e784050cd4bff900ee2159413c"
+    },
+    {
+      "path": "build/screening_final.csv",
+      "bytes": 214771,
+      "sha256": "6381703d2f5013755a8c33c1e9cd26b1f04ab562211d8565bebed34eaf870ba5"
+    },
+    {
+      "path": "build/prices_panel.pkl",
+      "bytes": 3930888,
+      "sha256": "6bd5e6761e344a5b29c9d0a60a84ea94441eb796794189c1a0c65e3f19d3853b"
+    },
+    {
+      "path": "data/SEC EDGAR/company_tickers.json",
+      "bytes": 797136,
+      "sha256": "e9da55899acfe0ea8bbe81471a45303136ac2dc83b2c9beddb2977fd1d7ad64a"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000320193.json",
+      "bytes": 164394,
+      "sha256": "ea2aa552e984a29e920cf80e0827cf32b632563935f029b6ec9de7f4fa3c026d"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000320193-submissions-001.json",
+      "bytes": 200159,
+      "sha256": "17885ab6d82e1da0baa842eb8b4b9f302a8b44482c65d55c8bf03e63c3c1c3f8"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001559720.json",
+      "bytes": 151338,
+      "sha256": "1da986b52469c5325fd02fa111d07b96b1aef5bd077b7c1fcd2b39e4448e4891"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001559720-submissions-001.json",
+      "bytes": 64055,
+      "sha256": "5b218254532807395f41d97b72c9821d37fc6944dc7759381a23b52111af69f3"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001646972.json",
+      "bytes": 161031,
+      "sha256": "23bd888e9aabd46cb0f7583b2c6d455034917706837651d26a8ef154b1708608"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001646972-submissions-001.json",
+      "bytes": 21489,
+      "sha256": "164c223b3d8f755b92042241c4853fde80bdfc692d3142ec79d31abac634866a"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000796343.json",
+      "bytes": 162203,
+      "sha256": "0c8f6a87affbdb78ea2994b373116acb5495ac6ca4a9808e186dfb62301dce44"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000796343-submissions-001.json",
+      "bytes": 253617,
+      "sha256": "1d4b8c9b4f1bd4829f5e35152bbc4b12da9b0ffb56b62fe1c7fdf3cef9fe6c91"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001018724.json",
+      "bytes": 159720,
+      "sha256": "598ba95a3c972130b2dded9d681bf692ca87483d4c821a11b9c5b4eb1b3c363d"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001018724-submissions-001.json",
+      "bytes": 316854,
+      "sha256": "7e49308f4939f66cee423294a955718510d94a2d8df55f9a33dc34b41b5a2b29"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001018724-submissions-002.json",
+      "bytes": 14462,
+      "sha256": "e231468fa4c3c8c7fe24a5ed165f0f6d1832faaeb3655991add8bb4331a8edd0"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000894871.json",
+      "bytes": 144950,
+      "sha256": "0293beb38911251dc2183eef427d9841001c3aec4d67a4129db271b1371b1016"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001069183.json",
+      "bytes": 162688,
+      "sha256": "4dc2cf6b303e540ffc8a7cb96601c5eba373d9b413759b705e15f3ce20419694"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001069183-submissions-001.json",
+      "bytes": 108303,
+      "sha256": "73ee05fcdf625c745455d57ff3171a11e67a53370a8f6b19a037527ada17c5f1"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000012927.json",
+      "bytes": 147581,
+      "sha256": "33bfc4b787d13dd485fb2a2463554b80d870d560f64209d1f49af6afb7c7b304"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000012927-submissions-001.json",
+      "bytes": 289272,
+      "sha256": "51122b17510f7e651bf9223fd287c29eff2ee59eaa4e2acf778c5c267082ac7b"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000012927-submissions-002.json",
+      "bytes": 150499,
+      "sha256": "43ecbf49de060a91fa989fd41c0317a064a3263131ee576e41f59e9118292dac"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001329099.json",
+      "bytes": 90209,
+      "sha256": "baa44741c8dbd33ca3473101a9c830e59684bdc0b332e256d8035b0e2e1ca038"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001332349.json",
+      "bytes": 162399,
+      "sha256": "4214651c3c1a677a13aba72635fdc66685d85e04f1569c8a48dcfcc8077616cc"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001332349-submissions-001.json",
+      "bytes": 129343,
+      "sha256": "62b494c8cdfa484bed6a5cb648a45406068a9516d405254f960267088375397d"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001739940.json",
+      "bytes": 149885,
+      "sha256": "f178ece38c180d9ca9d94b6a54cb0a4686dc974230c16f811a81c5b60e69ede6"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001739940-submissions-001.json",
+      "bytes": 1086,
+      "sha256": "4aa0157c9601736bc6e423b7a9ea409dbd7a004af98d27ad3710d2d0b15d147a"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001834584.json",
+      "bytes": 64776,
+      "sha256": "6962e54ec8a98bb4220c52f12eff039a317019ab66e0f32fd544f472e36fed60"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001590895.json",
+      "bytes": 162291,
+      "sha256": "f4101b963459ccd408e08adbb2cac419222017f278eefa8b0c26fd2354d2fa4c"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001590895-submissions-001.json",
+      "bytes": 5343,
+      "sha256": "2155e9fb6ddc86eb392823dc820e3fa998f84e220b65ba783df4bbc734d48805"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001883685.json",
+      "bytes": 134711,
+      "sha256": "7315b7960ac08db4621e7dca8b00aa4410e055f76de55ec6ce575aed5f3ac541"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001805385.json",
+      "bytes": 88741,
+      "sha256": "0d695b51f4f11c3ca33231e9fbcbd98c41de0ffefab1c579e2d0cd9706bc07ff"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001579878.json",
+      "bytes": 47506,
+      "sha256": "8bc77bdafd1b9735eb8936b82fdb6e2b3a23839f3ae78cd60a1650f60fd87277"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001635327.json",
+      "bytes": 98352,
+      "sha256": "5dd1a183c10084be185a93327cf1bf7380a96c9309ff66a54f774f741b8af2bf"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000040545.json",
+      "bytes": 165599,
+      "sha256": "28e6c5fca3aa3270e4ed6f8259c657b0c74ee9080d7371e0aa3e949d4dfe82e0"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000040545-submissions-001.json",
+      "bytes": 320362,
+      "sha256": "878388c4f40a32d91978109dcaffe2cbf78e50d32f6cd0b7000f90ad50440b72"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000040545-submissions-002.json",
+      "bytes": 273881,
+      "sha256": "c2a4688585acc8b279281f79517d4f7f35258c40d422fd5e4f77f27074235996"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001467858.json",
+      "bytes": 165444,
+      "sha256": "0b8868fbbd18ca61e8189c6d2fb44836e034aff5542427144b52d2938311413f"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001467858-submissions-001.json",
+      "bytes": 181112,
+      "sha256": "7d32eda76c072753cec136c036f8f886503fd4e1e0fef18b33cac9c18043490f"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001652044.json",
+      "bytes": 153142,
+      "sha256": "7e050f9e66aa6569897704771d35afd4b321039b62b828b1b69801336af3ec35"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001652044-submissions-001.json",
+      "bytes": 259088,
+      "sha256": "85faf62e03b73a26ca681d5e013b9b66b1ee37fa8f2bf2ea568208492da03ba0"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001855612.json",
+      "bytes": 58385,
+      "sha256": "9ce6eeed25b4a28c5fac90e66677b895dcffc0e5df019192742d1b281420dff8"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982.json",
+      "bytes": 2389634,
+      "sha256": "32b2ce08f5891002c37ebd23e5ddcda2fb5fc6b024eb3fd29a3a6356f04199e4"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-001.json",
+      "bytes": 321306,
+      "sha256": "50528e513fc7c1fb4aab63a4b5fee40805bb235093d06ebde3dc02a602cc95d6"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-002.json",
+      "bytes": 320688,
+      "sha256": "2bfdde9f77eea3ee9a5fbc53ed530e11267b0e67dbbf288fca19bd9f746ff0ba"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-003.json",
+      "bytes": 321590,
+      "sha256": "a7dc8a5ab18b62845488828fb28e9d0968c356956103a782d2c693756f26a836"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-004.json",
+      "bytes": 319641,
+      "sha256": "a05e62377fb2b7228856dfe749f241eab298fc3c679a9aec94f258e907642879"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-005.json",
+      "bytes": 326557,
+      "sha256": "ff7177ccd3de97a1f0047fbb6a62e20235db03f9c8bfb85977ec2041d5a649cf"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-006.json",
+      "bytes": 323116,
+      "sha256": "1a048f9648597687dd431a0b86c3582e7eeb4fc3278d95b6c7a608b8ef47199e"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-007.json",
+      "bytes": 321863,
+      "sha256": "420c241d306ece9c13f2825e955ad0581e2e6389d29886aa2dedd438b237d1ce"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-008.json",
+      "bytes": 324579,
+      "sha256": "3c4602d32ad154f2ac2ddea19073bb1b1364cb5146fa1873066415928aa07de2"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-009.json",
+      "bytes": 332196,
+      "sha256": "871ec9496a84b6942283429fd60179a60ae298aa56797d0a8a941de9d3dc5c96"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-010.json",
+      "bytes": 322662,
+      "sha256": "b6fcdf21df7de8eec48e0983316a45cb0b65c03f3e20bfa6820445f99d57b4ad"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-011.json",
+      "bytes": 320720,
+      "sha256": "5446e32da012cea2c1bb6784cff359fe197fd2bf7e75838d11f9aca3bd76ee13"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-012.json",
+      "bytes": 306518,
+      "sha256": "9ed51e10ebf7eead3ab8d7bc08edb37af3aa3d2caa4f6e1f5d7e757212d367d9"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-013.json",
+      "bytes": 313185,
+      "sha256": "01d3afa8a46bea99d587983546c18421d814af07d1a148af8068de3266e7854c"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-014.json",
+      "bytes": 308417,
+      "sha256": "29506c6426ff871b39301b5d1db7c37f6840731fd7af607f7cdac66e2b77b96c"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-015.json",
+      "bytes": 306951,
+      "sha256": "564042fb880072d1e506588025f70a83f3bcbf76505dbe0df0c993516498f02a"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-016.json",
+      "bytes": 307274,
+      "sha256": "9324cb4fe77fac41244629d0a7ed6219734d21ec51069dd7d907d3b8bb155b4d"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-017.json",
+      "bytes": 309181,
+      "sha256": "ceb68e3784368bb2c11138618f959daa60b6ff3b95a105cc2fa09e688029e8c6"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-018.json",
+      "bytes": 312835,
+      "sha256": "9efad43243c6221d5fd9e9ab21df349243fa39ac6cc396c8856d717dab28347b"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-019.json",
+      "bytes": 309186,
+      "sha256": "e6ecce9402461ccd9595d9a02d87303747baae74416f47bf557441df9ec7eb43"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-020.json",
+      "bytes": 311975,
+      "sha256": "68a163db5901d3af10eda4eea68c2f73b8dbc74bc02edacb7538bb14011b882d"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-021.json",
+      "bytes": 308167,
+      "sha256": "d43c94ad2347eb1d8d8d52b88baaa92679ea0edd6e078abe8cb567d569d686cf"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-022.json",
+      "bytes": 309723,
+      "sha256": "5a8bd60d2fcd4d79dc3aef3be34fa24b22fe41babbc3c9fd036e1abf5a864d95"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-023.json",
+      "bytes": 308980,
+      "sha256": "dd90fc7165d2a149dee91402ed075578a73d9aa2c3e1a1d45c8b6e35d8d16fcb"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-024.json",
+      "bytes": 310608,
+      "sha256": "f6a36c6daf1b3ee9b4218b8e466c3670784d4d58094bb44537e8e5b404f6a11a"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-025.json",
+      "bytes": 324573,
+      "sha256": "228ff174a74f7528b91a2e74262b56c8481755b46fe76c5e225b161e9b9ab022"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-026.json",
+      "bytes": 408022,
+      "sha256": "a7fd1c69b46ca8bde1036edace24cb51b08cbadc0b6fe65c582a59d1ec087973"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-027.json",
+      "bytes": 405448,
+      "sha256": "c78471478925f3650adbadbb4ced32b0838b9e950041f7d63ba31e247ecc2b81"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-028.json",
+      "bytes": 409914,
+      "sha256": "74c7346bc677b46f4d031cb154fd1097ea580e55d2ecdeab3c65aa2d6bf4f4a3"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-029.json",
+      "bytes": 407408,
+      "sha256": "df1f51f0cbe0e7b9e1de75a59f0ef988e94adbcea22075b6120a91052755ffc4"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-030.json",
+      "bytes": 407058,
+      "sha256": "323aef00f0ed1a7387bcafa19963fc13c9ec1434020e45f6804675b736213e7c"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-031.json",
+      "bytes": 404589,
+      "sha256": "474b24e675d7c502a7d616bf29bfb55134dbda44c27434c84fb5221666269324"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-032.json",
+      "bytes": 405752,
+      "sha256": "53abf4a07ecf34319246257c9bf152424b99646282a41af433e4599f4ca9d34f"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-033.json",
+      "bytes": 404069,
+      "sha256": "c8475d0293e760325d116dc7a1864f683d66f1a9aef623d630e8f2b7c5f5af78"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-034.json",
+      "bytes": 402229,
+      "sha256": "5943f9e8fa149ae2fe50566ce612ecd66e829e841fb49f53d47ec3ab961361e5"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-035.json",
+      "bytes": 382164,
+      "sha256": "b68e5689ab7e2c56de7639f948f1047708819bb28c698b1a0878a102673861de"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-036.json",
+      "bytes": 357331,
+      "sha256": "07dd075bb040578d249e1658b45139d5193cfe47d718ae8ee534df9557088705"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000886982-submissions-037.json",
+      "bytes": 306635,
+      "sha256": "8edf898610316ae7f5b841ec417327c0c28b2e9440c4d55e99e503f3e818f59d"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001089113.json",
+      "bytes": 178303,
+      "sha256": "98c4abec354ac2cd32ceb4d4c929546de7c339dcc088cb87cb58d2da7bd910b2"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001089113-submissions-001.json",
+      "bytes": 352892,
+      "sha256": "d2ba9a38665d1acf982306db5850c686e5efa387338f56403530b8288e3edac3"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001089113-submissions-002.json",
+      "bytes": 370894,
+      "sha256": "4d52e588e2a489702bb801a07476f895df52ca9dd00966b1fbe1801e9c19eb5a"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001089113-submissions-003.json",
+      "bytes": 65700,
+      "sha256": "c98f30607bdeaf77aa86deedc40e225cad4cc91715b478f63cc67b495bda5050"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000917520.json",
+      "bytes": 161712,
+      "sha256": "5ba0a6f0cd91d23ac5786c7e720acf4050ed27a85844b891540c86a6bcc09789"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000917520-submissions-001.json",
+      "bytes": 173492,
+      "sha256": "e67d6c4608b750b826e7f266ee4f8e32d53918b184a95099d10fb31ed225d9af"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000051143.json",
+      "bytes": 166897,
+      "sha256": "125013aeffbffe64200f742fec0984729110166af3d1c65411b7896558997b2f"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000051143-submissions-001.json",
+      "bytes": 310096,
+      "sha256": "faf3d07141ad9d5d6a6b3a79e13c090a91a69e94cb801496824750c04b684b08"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000051143-submissions-002.json",
+      "bytes": 289086,
+      "sha256": "15f53be8712b5e02b2296931bb9c5de394004d945115b685c9a5a9e887196729"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000051143-submissions-003.json",
+      "bytes": 288625,
+      "sha256": "64af0654eb895d5b4e8526f7b69b4e5bd7ba7c4b919c87349804738dc7488895"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000051143-submissions-004.json",
+      "bytes": 94312,
+      "sha256": "6213244790c392172e3911a3467dd2db1d78d83fd70a5136ca4c46e352fd3053"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001600983.json",
+      "bytes": 47606,
+      "sha256": "b7cf189b0094b768401dd6473cfde5b5b0863cc6a824dd023ded085011625197"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000202058.json",
+      "bytes": 159338,
+      "sha256": "7fb914c858c7a6dd2dcba89597a99c2c08bc575d13dcb76aa3cdc4c4ff0b8063"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000202058-submissions-001.json",
+      "bytes": 317097,
+      "sha256": "de7ba8202639e4f3e48027f4d6c43877cc409072b4bd635a1cf90060ea777f4e"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000202058-submissions-002.json",
+      "bytes": 26497,
+      "sha256": "5d950bf3b0e0abbcbc3bf37aec7a8017f56a8341393e3308f3d43491417083ff"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000936468.json",
+      "bytes": 149393,
+      "sha256": "30f855e3a0f87651965d07b07f0ab20cec1ed71b855cec6c4d5239f28c8c0d6b"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000936468-submissions-001.json",
+      "bytes": 251337,
+      "sha256": "96ce9271905cc633004a6a1851152f9caf58b2d7768eb7d06799dc767b425b97"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000092380.json",
+      "bytes": 170325,
+      "sha256": "0b2bd43eb53a029a8fe032f7ab7f24b47a9cbbc773b5158edce506b8556ab095"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000092380-submissions-001.json",
+      "bytes": 171259,
+      "sha256": "9cb75a5897a0f513f7c79dc6a33220e8788523084d29eef13ee390890bf8a93d"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000794367.json",
+      "bytes": 163488,
+      "sha256": "9788e097d7c633da9ebce98cc56af7c579ffeee73f91324d3087f6ae10c00414"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000794367-submissions-001.json",
+      "bytes": 328335,
+      "sha256": "c31b6fd2852e11525d5119259a6957da45661af46596dd1b8233290be381ee51"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000794367-submissions-002.json",
+      "bytes": 28247,
+      "sha256": "28b7d702201be82da90af4afb883e57bab06dbfde164dcdcb4ae8ba6aae45aa2"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000063908.json",
+      "bytes": 157270,
+      "sha256": "3ea9747c951cf01aea3a921fe568a223809583f19f2f4794396e8a380be384e7"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000063908-submissions-001.json",
+      "bytes": 309159,
+      "sha256": "5ad76542bbde49a4b5c4a35045ef289b3e0fdf568d617e28019f4809ab6a15e6"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000063908-submissions-002.json",
+      "bytes": 10729,
+      "sha256": "d94de1a5dcba9a6190ecc925bb5af229dac40d1f21f78c81770989618abfbe54"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001326801.json",
+      "bytes": 157985,
+      "sha256": "b68db2fb8bd492b0cb94b9ef9741eb65365ca976e76f2f5a3283ba90d48d3dfa"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001326801-submissions-001.json",
+      "bytes": 314771,
+      "sha256": "92c2f24681f23ae72e56bb5b7c0b6875d541ddff0d68292652fa9ad44f0242e7"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001326801-submissions-002.json",
+      "bytes": 176389,
+      "sha256": "e82fa2be8b8e90f44d0b39b066e1075fe41e2f088417506afc325ca2474cc136"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000789570.json",
+      "bytes": 158715,
+      "sha256": "cff81d97a83b4605de293683b895e22ab767c1cc9f3d4dcad22d3b1a9eac59d6"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000789570-submissions-001.json",
+      "bytes": 323998,
+      "sha256": "7f7237d42e4e5b12749f7f312c576d2d8441aede296807a14d6f047e09c1e34a"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000789570-submissions-002.json",
+      "bytes": 38798,
+      "sha256": "cedfac250f010f03aeb75d47390e73cb3420044a4c279ef71c28e0afeea4b858"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001510295.json",
+      "bytes": 156753,
+      "sha256": "3a00bcfdf44eeec36814651d35c0aee462700629d1a0279df1f8565ab755a7f9"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001510295-submissions-001.json",
+      "bytes": 136535,
+      "sha256": "ac57e1cd442c9cbfebd512faf28aadb4bc0bfbefc35a44ff549acea574db9bf4"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000789019.json",
+      "bytes": 184142,
+      "sha256": "a78d11d9dda828b756232d390694fe422b9474e2b7160c5de05b1d350a9a55c1"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000789019-submissions-001.json",
+      "bytes": 307971,
+      "sha256": "4cc7bbf4f26d5e8e9978970912cdf33201c6b1a146ef850325cc4bee996c1c41"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000789019-submissions-002.json",
+      "bytes": 228963,
+      "sha256": "36591a4856ec5977f46841eb3552f929e173e9ee69a73505c5702c610ffb5e35"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001952073.json",
+      "bytes": 53798,
+      "sha256": "75809c8dbd60669d2a9a1523c000203720baee088ae8ae70cabe5f96046c3a34"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000029989.json",
+      "bytes": 157282,
+      "sha256": "f47d165ef46cd705ef83e5993b91b8669285084399e5f16a60c200ede0453f31"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000029989-submissions-001.json",
+      "bytes": 232041,
+      "sha256": "ed77a5daf065bf62f5e95fe2ed930e253e89deb436093ade8c86c67fc80e6bb8"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001737450.json",
+      "bytes": 29747,
+      "sha256": "08d3374567a04db0e53306e85d723c773248989321216e992d3573a7f9c3a5dd"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001538716.json",
+      "bytes": 118446,
+      "sha256": "2f31e5ec404581716fb52ff3c909601f0d881ae0632e8d4c7629cf143b44579e"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001341439.json",
+      "bytes": 158717,
+      "sha256": "c73ef9e27730389d8cd5a10ca1759e6cb4bceda44d0dc35676bf2f7bd67456ac"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001341439-submissions-001.json",
+      "bytes": 205337,
+      "sha256": "8e2644b84ee4bb032a4a5fe41a86ac49c5de9d8f213928317668452a718ce28b"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001413329.json",
+      "bytes": 158533,
+      "sha256": "cbf18ff1f6547464187e2de22d8e89723306420480343995edb6672488104a49"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001413329-submissions-001.json",
+      "bytes": 167698,
+      "sha256": "137ac9029f49562337ded00b0eed1d7311d52393da89c593d78c0452f979f1b7"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001969302.json",
+      "bytes": 24979,
+      "sha256": "2db2f11db1f4a82f3917c25d1913de5f7b4bbb1f786a0fc5f60a57aa8a20f517"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001633917.json",
+      "bytes": 159525,
+      "sha256": "54647f0a5e8ca397d79af4cb4113e7f02d84425a5ff507ae6a2e368c4ec8d6b3"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001633917-submissions-001.json",
+      "bytes": 30762,
+      "sha256": "4ea46d49f0cf3350b337879fd7d21281d62fe34606c42ef8afec8844e54dc731"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000101829.json",
+      "bytes": 149445,
+      "sha256": "555c2e7641e354d75d2e9d8ff280d0d25dab959362eb6735a5c1772af75f0b60"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000101829-submissions-001.json",
+      "bytes": 287058,
+      "sha256": "2a80d8698ed14818752f4b6c760768f38425f88eec4e3923abe3de06c110fbab"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000829224.json",
+      "bytes": 160900,
+      "sha256": "f8c51fcb940f4d15f27439f150fd3ab4f63cfe51336cd3b872056351cb425c65"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000829224-submissions-001.json",
+      "bytes": 182073,
+      "sha256": "06903d99a553404727c8d0ee8701fbbd31192f823fdcc3480fdfcc310f7c63b2"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001832483.json",
+      "bytes": 91788,
+      "sha256": "8d23380e98ba66a05116ba596a31ca558e1516378db6a3baf539a05d62d061a2"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001564408.json",
+      "bytes": 154605,
+      "sha256": "b1b267c5f001ad88969dffd164df2b1b453084cfc01c0d2dff5e8cfb90b5f414"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001564408-submissions-001.json",
+      "bytes": 28120,
+      "sha256": "6cc0cb65d696b8cb8c2a93208a8b8e662ee570835b4472bda9ed7f4965e1a8de"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001351636.json",
+      "bytes": 113954,
+      "sha256": "75c34d9d06dac61b84bc1afd5e3b646b4f79d4e952a0f27a57c8868ef6663031"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000027419.json",
+      "bytes": 150126,
+      "sha256": "f161c0d4f1bf3b946e0d11c2063437bac00aa4294cbdfe81bb1d49739bcc0131"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000027419-submissions-001.json",
+      "bytes": 242469,
+      "sha256": "6fc05b9f48ba3d37f8ff94f2b7d32332e8bad67fa47394e7cb0a3f6855dde51b"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001075124.json",
+      "bytes": 157036,
+      "sha256": "54e324cd5f9f837a1e8091c28e4c038e66bc81599fe634fa4dad6a1dd3247645"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001318605.json",
+      "bytes": 161953,
+      "sha256": "c259f8c3938b7dcf41c0e4231d42147b5eedd2d55b4cf8fcc2303c8935dcae3c"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001318605-submissions-001.json",
+      "bytes": 120655,
+      "sha256": "eef1d60c031d8e8e49f0f11f8b178a29d16649fe68af05857853884badf3fa08"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001823593.json",
+      "bytes": 35916,
+      "sha256": "25019063d01e6b12f5fd910d45de03591177f87d0dd61463dbec72b617894d45"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001543151.json",
+      "bytes": 163902,
+      "sha256": "9d3dffa2329a79a1fa43e3bcae22231f63017191e3008290355aa98f94277f34"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001543151-submissions-001.json",
+      "bytes": 46705,
+      "sha256": "063b12409b762a444c81f1de8e7ada31a5433bfb322ba54e073fa8882d770e98"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000074208.json",
+      "bytes": 159041,
+      "sha256": "46ffe60dd6b456989a756e301deebf3044f64c03e00a0b2cfbe810ede138f54e"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000074208-submissions-001.json",
+      "bytes": 270459,
+      "sha256": "f4a492519e210ae32aad70258abc802731fcff0ca8d7c787e4ba7b31cef775f7"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000731766.json",
+      "bytes": 157640,
+      "sha256": "c7fc148f42c2a5b24d50ad7a0a4ca2a81758e010b3beb7a02b581b9310955a18"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000731766-submissions-001.json",
+      "bytes": 310832,
+      "sha256": "685c9425717e10211b58f004d19454a0391fa60a52192c638e9b994c5ef8d9bd"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000731766-submissions-002.json",
+      "bytes": 207317,
+      "sha256": "b65ead5a6d30b95736c1fcbf1ec88f3e2b7a2f740d85f47e6437174d5a8c534f"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001595761.json",
+      "bytes": 41086,
+      "sha256": "e0214f673d38b52fd273e28c5a6fdb7124ec12fdff45dd7628985a1c315bcb7f"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001327811.json",
+      "bytes": 161903,
+      "sha256": "13d82aba40b3dffad6b30f79385156569d5537e061b05528be179fd695472691"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001327811-submissions-001.json",
+      "bytes": 133020,
+      "sha256": "1b8a2c0099de8ce8a5aa185c457e393f3190b06ceeabd4fa3461c904ba6953b8"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000104169.json",
+      "bytes": 157392,
+      "sha256": "b4ccbbabd12452d5a649c7660d3471c1f1ff8f6a8859100c43647872cd9d9aaf"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000104169-submissions-001.json",
+      "bytes": 313503,
+      "sha256": "205b8d05ea94b7e82f41cb5057d6483ad358a24ae0175ab1a89d561b36d77084"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0000104169-submissions-002.json",
+      "bytes": 216396,
+      "sha256": "570f4d7c9c03c71944346122d1582797de3605364df71d756ccc84e7e63b6e20"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001810997.json",
+      "bytes": 51675,
+      "sha256": "d8f3be856f77cfaefefe3eeba31fd0cd77b5043e502ae63453732ec4ee0b70ee"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001617640.json",
+      "bytes": 157413,
+      "sha256": "6e7a9ab123e34ef5778aab79be086e74d40f2f1ecadfea8aaa0552ce43ed9961"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001617640-submissions-001.json",
+      "bytes": 91211,
+      "sha256": "740a7af17c6e6fbcb97f11f8b4cfab9758a450a442fac93e8582295d02a51545"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001835724.json",
+      "bytes": 50907,
+      "sha256": "0c02936bf90618d7d6d0ade8fba17de3c0fb2d33d5bb7b9e82fad2ddab38a882"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001555280.json",
+      "bytes": 162379,
+      "sha256": "65e41bcd3fb1b82f51a2f297555def59a42fd1064c28a5585ae4256cc7fbeddf"
+    },
+    {
+      "path": "data/SEC EDGAR/submissions/CIK0001555280-submissions-001.json",
+      "bytes": 169715,
+      "sha256": "8090b9a6775ae50dbe7f5ce7937fd166c99bdc377c0a385513b823d23a553133"
+    }
+  ],
+  "issues": [],
+  "firms": [
+    {
+      "ticker": "AAPL",
+      "cik": "0000320193",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 93,
+      "filing_date_min": "1994-01-26",
+      "filing_date_max": "2026-06-17"
+    },
+    {
+      "ticker": "ABNB",
+      "cik": "0001559720",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 22,
+      "filing_date_min": "2012-10-24",
+      "filing_date_max": "2026-07-09"
+    },
+    {
+      "ticker": "ACI",
+      "cik": "0001646972",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 34,
+      "filing_date_min": "2015-07-08",
+      "filing_date_max": "2026-06-22"
+    },
+    {
+      "ticker": "ADBE",
+      "cik": "0000796343",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 90,
+      "filing_date_min": "1994-02-14",
+      "filing_date_max": "2026-06-26"
+    },
+    {
+      "ticker": "AMZN",
+      "cik": "0001018724",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 87,
+      "filing_date_min": "1997-03-24",
+      "filing_date_max": "2026-07-09"
+    },
+    {
+      "ticker": "AREN",
+      "cik": "0000894871",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 24,
+      "filing_date_min": "1996-07-30",
+      "filing_date_max": "2026-05-11"
+    },
+    {
+      "ticker": "AXON",
+      "cik": "0001069183",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 81,
+      "filing_date_min": "2001-02-14",
+      "filing_date_max": "2026-07-10"
+    },
+    {
+      "ticker": "BA",
+      "cik": "0000012927",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 92,
+      "filing_date_min": "1994-03-15",
+      "filing_date_max": "2026-07-06"
+    },
+    {
+      "ticker": "BIDU",
+      "cik": "0001329099",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 0,
+      "filing_date_min": "2005-07-12",
+      "filing_date_max": "2026-07-02"
+    },
+    {
+      "ticker": "BKD",
+      "cik": "0001332349",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 114,
+      "filing_date_min": "2005-08-10",
+      "filing_date_max": "2026-07-09"
+    },
+    {
+      "ticker": "CI",
+      "cik": "0001739940",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 29,
+      "filing_date_min": "2018-05-16",
+      "filing_date_max": "2026-07-09"
+    },
+    {
+      "ticker": "CPNG",
+      "cik": "0001834584",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 21,
+      "filing_date_min": "2020-12-07",
+      "filing_date_max": "2026-06-12"
+    },
+    {
+      "ticker": "CZR",
+      "cik": "0001590895",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 49,
+      "filing_date_min": "2013-11-04",
+      "filing_date_max": "2026-07-08"
+    },
+    {
+      "ticker": "DKNG",
+      "cik": "0001883685",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 17,
+      "filing_date_min": "2021-10-08",
+      "filing_date_max": "2026-07-02"
+    },
+    {
+      "ticker": "EVLV",
+      "cik": "0001805385",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 21,
+      "filing_date_min": "2020-03-10",
+      "filing_date_max": "2026-06-22"
+    },
+    {
+      "ticker": "FIG",
+      "cik": "0001579878",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 4,
+      "filing_date_min": "2013-06-25",
+      "filing_date_max": "2026-07-08"
+    },
+    {
+      "ticker": "FLUT",
+      "cik": "0001635327",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 11,
+      "filing_date_min": "2015-05-26",
+      "filing_date_max": "2026-07-01"
+    },
+    {
+      "ticker": "GE",
+      "cik": "0000040545",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 91,
+      "filing_date_min": "1994-01-28",
+      "filing_date_max": "2026-07-02"
+    },
+    {
+      "ticker": "GM",
+      "cik": "0001467858",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 71,
+      "filing_date_min": "2009-07-16",
+      "filing_date_max": "2026-06-18"
+    },
+    {
+      "ticker": "GOOGL",
+      "cik": "0001652044",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 44,
+      "filing_date_min": "2015-10-02",
+      "filing_date_max": "2026-07-09"
+    },
+    {
+      "ticker": "GRAB",
+      "cik": "0001855612",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 0,
+      "filing_date_min": "2021-04-13",
+      "filing_date_max": "2026-07-10"
+    },
+    {
+      "ticker": "GS",
+      "cik": "0000886982",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 90,
+      "filing_date_min": "1998-08-24",
+      "filing_date_max": "2026-07-13"
+    },
+    {
+      "ticker": "HSBC",
+      "cik": "0001089113",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 0,
+      "filing_date_min": "2002-02-25",
+      "filing_date_max": "2026-07-10"
+    },
+    {
+      "ticker": "IART",
+      "cik": "0000917520",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 106,
+      "filing_date_min": "1996-02-14",
+      "filing_date_max": "2026-07-06"
+    },
+    {
+      "ticker": "IBM",
+      "cik": "0000051143",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 139,
+      "filing_date_min": "1994-03-10",
+      "filing_date_max": "2026-07-02"
+    },
+    {
+      "ticker": "KSCP",
+      "cik": "0001600983",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 3,
+      "filing_date_min": "2014-02-27",
+      "filing_date_max": "2026-06-09"
+    },
+    {
+      "ticker": "LHX",
+      "cik": "0000202058",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 99,
+      "filing_date_min": "1994-02-11",
+      "filing_date_max": "2026-07-02"
+    },
+    {
+      "ticker": "LMT",
+      "cik": "0000936468",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 88,
+      "filing_date_min": "1995-02-09",
+      "filing_date_max": "2026-07-02"
+    },
+    {
+      "ticker": "LUV",
+      "cik": "0000092380",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 134,
+      "filing_date_min": "1995-01-13",
+      "filing_date_max": "2026-06-26"
+    },
+    {
+      "ticker": "M",
+      "cik": "0000794367",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 124,
+      "filing_date_min": "1995-04-20",
+      "filing_date_max": "2026-07-01"
+    },
+    {
+      "ticker": "MCD",
+      "cik": "0000063908",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 104,
+      "filing_date_min": "1994-01-18",
+      "filing_date_max": "2026-07-02"
+    },
+    {
+      "ticker": "META",
+      "cik": "0001326801",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 56,
+      "filing_date_min": "2005-05-06",
+      "filing_date_max": "2026-07-13"
+    },
+    {
+      "ticker": "MGM",
+      "cik": "0000789570",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 96,
+      "filing_date_min": "1994-02-22",
+      "filing_date_max": "2026-07-02"
+    },
+    {
+      "ticker": "MPC",
+      "cik": "0001510295",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 69,
+      "filing_date_min": "2011-01-25",
+      "filing_date_max": "2026-06-29"
+    },
+    {
+      "ticker": "MSFT",
+      "cik": "0000789019",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 89,
+      "filing_date_min": "1994-02-14",
+      "filing_date_max": "2026-07-02"
+    },
+    {
+      "ticker": "MSGE",
+      "cik": "0001952073",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 13,
+      "filing_date_min": "2022-10-26",
+      "filing_date_max": "2026-06-24"
+    },
+    {
+      "ticker": "OMC",
+      "cik": "0000029989",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 91,
+      "filing_date_min": "1994-02-09",
+      "filing_date_max": "2026-07-06"
+    },
+    {
+      "ticker": "OPRA",
+      "cik": "0001737450",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 0,
+      "filing_date_min": "2018-05-08",
+      "filing_date_max": "2026-06-30"
+    },
+    {
+      "ticker": "OPRT",
+      "cik": "0001538716",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 33,
+      "filing_date_min": "2012-01-09",
+      "filing_date_max": "2026-07-13"
+    },
+    {
+      "ticker": "ORCL",
+      "cik": "0001341439",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 84,
+      "filing_date_min": "2005-10-19",
+      "filing_date_max": "2026-06-26"
+    },
+    {
+      "ticker": "PM",
+      "cik": "0001413329",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 74,
+      "filing_date_min": "2007-09-27",
+      "filing_date_max": "2026-07-09"
+    },
+    {
+      "ticker": "PONY",
+      "cik": "0001969302",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 0,
+      "filing_date_min": "2023-03-27",
+      "filing_date_max": "2026-07-09"
+    },
+    {
+      "ticker": "PYPL",
+      "cik": "0001633917",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 49,
+      "filing_date_min": "2015-02-25",
+      "filing_date_max": "2026-06-17"
+    },
+    {
+      "ticker": "RTX",
+      "cik": "0000101829",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 86,
+      "filing_date_min": "1994-01-24",
+      "filing_date_max": "2026-07-06"
+    },
+    {
+      "ticker": "SBUX",
+      "cik": "0000829224",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 91,
+      "filing_date_min": "1994-06-09",
+      "filing_date_max": "2026-07-08"
+    },
+    {
+      "ticker": "SERV",
+      "cik": "0001832483",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 9,
+      "filing_date_min": "2021-01-04",
+      "filing_date_max": "2026-06-25"
+    },
+    {
+      "ticker": "SNAP",
+      "cik": "0001564408",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 40,
+      "filing_date_min": "2013-02-12",
+      "filing_date_max": "2026-07-09"
+    },
+    {
+      "ticker": "SSTI",
+      "cik": "0001351636",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 36,
+      "filing_date_min": "2006-01-27",
+      "filing_date_max": "2026-06-25"
+    },
+    {
+      "ticker": "TGT",
+      "cik": "0000027419",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 99,
+      "filing_date_min": "1994-02-10",
+      "filing_date_max": "2026-07-01"
+    },
+    {
+      "ticker": "TRI",
+      "cik": "0001075124",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 0,
+      "filing_date_min": "2002-01-18",
+      "filing_date_max": "2026-06-11"
+    },
+    {
+      "ticker": "TSLA",
+      "cik": "0001318605",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 114,
+      "filing_date_min": "2005-02-17",
+      "filing_date_max": "2026-07-02"
+    },
+    {
+      "ticker": "TSPH",
+      "cik": "0001823593",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 12,
+      "filing_date_min": "2020-12-23",
+      "filing_date_max": "2024-12-16"
+    },
+    {
+      "ticker": "UBER",
+      "cik": "0001543151",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 35,
+      "filing_date_min": "2012-02-27",
+      "filing_date_max": "2026-07-08"
+    },
+    {
+      "ticker": "UDR",
+      "cik": "0000074208",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 92,
+      "filing_date_min": "1994-01-13",
+      "filing_date_max": "2026-07-08"
+    },
+    {
+      "ticker": "UNH",
+      "cik": "0000731766",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 90,
+      "filing_date_min": "1995-02-02",
+      "filing_date_max": "2026-07-06"
+    },
+    {
+      "ticker": "WB",
+      "cik": "0001595761",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 0,
+      "filing_date_min": "2014-01-09",
+      "filing_date_max": "2026-06-25"
+    },
+    {
+      "ticker": "WDAY",
+      "cik": "0001327811",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 57,
+      "filing_date_min": "2005-05-17",
+      "filing_date_max": "2026-07-13"
+    },
+    {
+      "ticker": "WMT",
+      "cik": "0000104169",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 90,
+      "filing_date_min": "1994-02-14",
+      "filing_date_max": "2026-07-02"
+    },
+    {
+      "ticker": "XPEV",
+      "cik": "0001810997",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 0,
+      "filing_date_min": "2020-06-02",
+      "filing_date_max": "2026-07-06"
+    },
+    {
+      "ticker": "ZG",
+      "cik": "0001617640",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 47,
+      "filing_date_min": "2014-09-12",
+      "filing_date_max": "2026-06-15"
+    },
+    {
+      "ticker": "ZH",
+      "cik": "0001835724",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 0,
+      "filing_date_min": "2021-01-11",
+      "filing_date_max": "2026-07-13"
+    },
+    {
+      "ticker": "ZTS",
+      "cik": "0001555280",
+      "missing_history": [],
+      "status": "referenced_files_present",
+      "qualifying_records": 55,
+      "filing_date_min": "2012-08-13",
+      "filing_date_max": "2026-06-22"
+    }
+  ],
+  "unknown_provenance": [
+    "AI coder model/version/run date",
+    "SEC snapshot/download date",
+    "price download date",
+    "price adjustment settings"
+  ]
+}
