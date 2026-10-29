@@ -1,0 +1,10 @@
+key,field,coder_A,coder_B,title
+168|GOOGL,responsibility_type,3,1,
+251|AMZN,responsibility_type,1,2,
+291|TSLA,responsibility_type,1,2,
+469|MSFT,responsibility_type,3,1,
+556|AMZN,responsibility_type,1,2,
+251|AMZN,keep,Y,N,
+291|TSLA,keep,Y,N,
+469|MSFT,keep,N,Y,
+556|AMZN,keep,Y,N,

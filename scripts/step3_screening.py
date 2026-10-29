@@ -7,6 +7,13 @@ reason) are left blank so two coders label independently -> Cohen's kappa.
 One row per (incident, ticker) event.
 """
 import json, time, os
+from pathlib import Path
+from output_safety import refuse_existing
+HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(HERE); DATA = os.path.join(ROOT, "data"); BUILD = os.path.join(ROOT, "build")
+# Check every destination before loading inputs, network calls, or writing files.
+refuse_existing([Path(BUILD)/"screening_sheet.csv", Path(BUILD)/"screening_sheet.xlsx",
+                 Path(ROOT)/"screening_coder_A.xlsx", Path(ROOT)/"screening_coder_B.xlsx"])
 import requests
 import pandas as pd
 import numpy as np
@@ -15,8 +22,6 @@ from openpyxl.worksheet.datavalidation import DataValidation
 from openpyxl.styles import Font, Alignment, PatternFill
 from openpyxl.utils import get_column_letter
 
-HERE = os.path.dirname(os.path.abspath(__file__))
-ROOT = os.path.dirname(HERE); DATA = os.path.join(ROOT, "data"); BUILD = os.path.join(ROOT, "build")
 os.makedirs(BUILD, exist_ok=True)
 exec(open(os.path.join(HERE, "step2_listed.py")).read().split("# ---- classify")[0])  # ALIASES, match, ents, df, ticker_title
 
@@ -183,7 +188,7 @@ def build_xlsx(path, dfin):
         ["source","primary = matched on developer/deployer field; recall = firm named in title, verify carefully"],
         ["pilot","Y = code these 50 FIRST (round 1), then compute kappa & refine the manual before the rest"],
         ["You fill (purple)","responsibility_type, correct_ticker, duplicate_of, corrected_event_date, keep, reason"],
-        ["responsibility_type","1=own AI failed  2=firm's tool misused by others  3=research/multi-firm study (see coding_manual.md)"],
+        ["responsibility_type","1=own AI failed  2=firm's tool misused by others  3=research/multi-firm study (see coding_manual_v3.md)"],
         ["correct_ticker","Y if this firm is truly the AI developer/deployer here, else N (+fix in reason)"],
         ["date_flag (yellow)","earliest_report_date may be WRONG (older background article / arxiv/ssrn/pdf/twitter/blog)."],
         ["","-> open incident_url, find the first REAL news article, put its date in corrected_event_date + note in reason"],
